@@ -2,7 +2,7 @@
 
 # Gabriel Abreu
 
-Product marketer and GTM engineer. I build the GTM systems behind the story, then go find the bugs in the framework it runs on.
+Forward-deployed AI engineer. I build the systems behind complex products, then go find the bugs in the framework they run on. Also a senior product marketer, GTM engineer, and the person who usually ends up owning both halves of that sentence.
 
 <br clear="left"/>
 
