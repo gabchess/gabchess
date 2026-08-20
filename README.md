@@ -2,7 +2,7 @@
 
 # Gabriel Abreu
 
-Forward-deployed AI engineer. I build the systems behind complex products, then go find the bugs in the framework they run on. Also a senior product marketer, GTM engineer, and the person who usually ends up owning both halves of that sentence.
+I'm Gabriel, but you can call me Gabe. Forward-deployed AI engineer. Fifteen years working in marketing, and over the last five years, my work has turned to the engineering side, mostly applied AI. AI automation and agent plumbing are both my lanes.
 
 <br clear="left"/>
 
