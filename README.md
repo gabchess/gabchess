@@ -2,9 +2,9 @@
 
 # Gabriel Abreu
 
-I'm Gabriel, aka Gabe. Forward deployed engineer. Fifteen years working in marketing, and over the last five years, my work has turned to the building side, mostly applied AI. AI automation and agent plumbing are both my lanes.
+I'm Gabriel, aka Gabe. Forward-deployed engineer. Fifteen years working in marketing, and over the last five years, my work has turned to the building side, mostly applied AI. AI automation and agent plumbing are both my lanes.
 
-I spot each team's gaps and bring systems to help them work better and faster. TL;DR why you should hire me: I talk about it on [this video](https://x.com/gabe_onchain/status/2090524446826082779).
+I spot each team's gaps and bring systems to help them work better and faster. TL;DR & more deets here in [this video](https://x.com/gabe_onchain/status/2090524446826082779).
 
 <br clear="left"/>
 
