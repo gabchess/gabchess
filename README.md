@@ -4,6 +4,8 @@
 
 I'm Gabriel, but you can call me Gabe. Forward-deployed AI engineer. Fifteen years working in marketing, and over the last five years, my work has turned to the engineering side, mostly applied AI. AI automation and agent plumbing are both my lanes.
 
+I spot each team's gaps and bring systems to help them work better and faster. TL;DR why you should hire me: I talk about it on [this video](https://x.com/gabe_onchain/status/2090524446826082779).
+
 <br clear="left"/>
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-gabeonchain.com-d4a574?style=flat-square&labelColor=0c0a08)
@@ -15,6 +17,8 @@ I'm Gabriel, but you can call me Gabe. Forward-deployed AI engineer. Fifteen yea
 
 | Project | Stack | What it does |
 |---|---|---|
+| **Tixmancer** (private, main focus) | TypeScript, Next.js, x402 | Event tickets bought by an agent end to end: HTTP 402 offer, signed QR ticket, one-time check-in, onchain receipt recovery on Base. 50 test files across unit, integration, contract, and browser e2e; Base Batches 004 application in. |
+| **Maria** (private, milestone 1) | TypeScript | The scam-checker Brazilian elders talk to on WhatsApp: forward anything suspicious, hear a voice verdict in PT-BR, family alerted when it matters. Building it for RevenueCat's Shipaton 2026. |
 | [hedwig-sol](https://github.com/gabchess/hedwig-sol) | Rust, Anchor | One canonical role store other Anchor programs share instead of rebuilding access control. 6 instructions, 21 LiteSVM integration tests, a documented threat model. Built on a Solana Foundation grant. |
 | [worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market) | TypeScript, Rust | World Cup prediction markets that settle on a predefined onchain proof path instead of a trusted operator. Live on devnet, 39 Rust tests. [Demo](https://youtu.be/2Vh6RPLNd-U). |
 | [walletbrief-monad](https://github.com/gabchess/walletbrief-monad) | Solidity | Persistent Monad wallet briefs with human-approved, revoke-only EIP-7702 execution. |
