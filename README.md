@@ -4,7 +4,7 @@
 
 # Gabriel Abreu
 
-**Rio de Janeiro** · Forward-deployed engineer · Marketing for 15 years, building for the last 5
+**Rio de Janeiro** · Senior Product Marketer · Marketing for 15 years, building for the last 5
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -21,7 +21,7 @@
 
 </div>
 
-I'm Gabriel, aka Gabe. Forward-deployed engineer. Fifteen years working in marketing, and over the last five years, my work has turned to the building side, mostly applied AI. AI automation and agent plumbing are both my lanes.
+I'm Gabriel, aka Gabe. Fifteen years in product marketing, and for the last five I've been building too, mostly applied AI. Agent plumbing is where I spend most of my week.
 
 I spot each team's gaps and bring systems to help them work better and faster. TL;DR & more deets here in [this video](https://x.com/gabe_onchain/status/2090524446826082779).
 
@@ -85,13 +85,13 @@ Off GitHub: a six-agent system runs my daily marketing operations, research, dra
 A high-severity find in Anchor's LazyAccount code, v0.31.0 to v0.32.1: `Lazy::size_of` on `[T; N]` measured the first element and multiplied by N, so for arrays of unsized types every field after the array loaded from the wrong byte offset and `exit()` wrote it back corrupted. [My writeup, PoC and proposed fix](https://github.com/gabchess/anchor/pull/1). Upstream landed [the same iterate-per-element fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Bounty paid. Also the Solana Vault Standard Extension, built for a Superteam Brazil bounty: 4,398 lines of code across 34 instructions. The SVS-7 submission was the reviewer's pick of its round before losing to a full-stack entry.
 
 > [!NOTE]
-> Additional findings are under review across active Immunefi programs. I don't publish details of an open or rejected report. Program terms exist for a reason.
+> A second finding, a fund-lockup path in Ern Protocol, was approved and paid through Immunefi. Other reports are still under review. I don't publish details of an open or rejected report; program terms exist for a reason.
 
 ## 📈 Marketing, measured
 
 - 91.9% of active allocators (260 wallets) migrated V1 to V2 at Octant, on zero paid spend.
 - 13K followers and 9M organic impressions in 9 months on @octantapp.
-- Onboarding conversion moved from 30% to 70% at noder., across 100+ experiments.
+- Ran 100+ onboarding experiments at noder. as its only product marketer.
 
 ## ✍️ Writing
 
@@ -108,4 +108,4 @@ I write about proof, evals, and AI-assisted marketing at [gabeonchain.com](https
 
 ---
 
-<div align="center"><sub>The best systems I run aren't in the code, but in the body, mind & soul ツ</sub></div>
+<div align="center"><sub>The best systems I run live in the body, mind & soul ツ</sub></div>
