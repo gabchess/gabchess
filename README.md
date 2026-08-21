@@ -82,7 +82,7 @@ Off GitHub: a six-agent system runs my daily marketing operations, research, dra
 
 ## 🔍 Security research
 
-A high-severity find in Anchor's LazyAccount code, v0.31.0 to v0.32.1: a silent data-corruption bug, disclosed through [GHSA-wqrf-hpg4-vgv8](https://github.com/advisories/GHSA-wqrf-hpg4-vgv8), fix published as a public PR, bounty paid. Also a winning Superteam submission, the Solana Vault Standard Extension: 4,398 lines of code across 34 instructions.
+A high-severity find in Anchor's LazyAccount code, v0.31.0 to v0.32.1: `Lazy::size_of` on `[T; N]` measured the first element and multiplied by N, so for arrays of unsized types every field after the array loaded from the wrong byte offset and `exit()` wrote it back corrupted. [My writeup, PoC and proposed fix](https://github.com/gabchess/anchor/pull/1). Upstream landed [the same iterate-per-element fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Bounty paid. Also the Solana Vault Standard Extension, built for a Superteam Brazil bounty: 4,398 lines of code across 34 instructions. The SVS-7 submission was the reviewer's pick of its round before losing to a full-stack entry.
 
 > [!NOTE]
 > Additional findings are under review across active Immunefi programs. I don't publish details of an open or rejected report. Program terms exist for a reason.
