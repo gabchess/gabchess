@@ -46,6 +46,8 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 | **[patronus](https://github.com/gabchess/patronus)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Onchain-attested, runtime-scoped credentials for AI agents on Solana DeFi. |
 | **[worldcup-settlement](https://github.com/gabchess/worldcup-settlement)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | An AI agent that bets on live World Cup matches on Solana, autonomously. |
 | **[meteora-jup-sol-safety-monitor](https://github.com/gabchess/meteora-jup-sol-safety-monitor)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Read-only Meteora DLMM PnL and safety monitor with Telegram alerts. |
+| **[solguard](https://github.com/gabchess/solguard)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Warns Solana users before they get rugged. Scores new pump.fun launches on deployer history, liquidity and mint authority, then posts the risk live. |
+| **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Open-source gamified learning for Solana devs, built for Superteam Brazil. Browser code editor, XP, leaderboards and onchain certificates. |
 
 ## 🤖 Agents & AI tooling
 
@@ -53,16 +55,17 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 |:--|:--|:--|
 | **[silvia](https://github.com/gabchess/silvia)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | A confirmation-first food-ordering assistant for older adults, built on Base44. Chat instead of learning an app; 50+ users completed an order. |
 | **[safeskill](https://github.com/gabchess/safeskill)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | One-click security audit for your MCP setup. One score, plain English, no CLI knowledge required. |
-| **[wingman](https://github.com/gabchess/wingman)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | AI Expert Marketplace — install experts (Design, Code, Marketing) into Claude Code. |
+| **[wingman](https://github.com/gabchess/wingman)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | AI Expert Marketplace. Install experts (Design, Code, Marketing) into Claude Code. |
 | **[clawmanship](https://github.com/gabchess/clawmanship)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Reviewable decision before a community skill enters a local bundle. |
 | **[agenthub](https://github.com/gabchess/agenthub)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Monad-native AI agent orchestration platform. |
+| **[hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme)** | ![YAML](https://img.shields.io/badge/-YAML-221e18?style=flat-square&logo=yaml&logoColor=cb171e) | Minimalist black and white dashboard theme for the Hermes agent. Green for success, red for errors, nothing else. Greek-inspired, with the Omega on every session card. |
 
 ## 🔗 EVM & multichain
 
 | Project | Lang | What it does |
 |:--|:--|:--|
 | **[walletbrief-monad](https://github.com/gabchess/walletbrief-monad)** | ![Solidity](https://img.shields.io/badge/-Solidity-221e18?style=flat-square&logo=solidity&logoColor=c0c0c0) | Persistent Monad wallet briefs with human-approved, revoke-only EIP-7702 execution. |
-| **[yieldpilot](https://github.com/gabchess/yieldpilot)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Your AI copilot for cross-chain yield optimization — Chainlink Convergence Hackathon 2026. |
+| **[yieldpilot](https://github.com/gabchess/yieldpilot)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Your AI copilot for cross-chain yield optimization. Built for the Chainlink Convergence Hackathon 2026. |
 
 ## 📊 Data & analysis
 
@@ -70,8 +73,10 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 |:--|:--|:--|
 | **[beat-claude-engineer-004-analytics-pipeline](https://github.com/gabchess/beat-claude-engineer-004-analytics-pipeline)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Real-time analytics pipeline design for the Beat Claude engineer-004 challenge: fixture anomaly detector, test suite, hot-path benchmark, and doc/evidence consistency checks. |
 | **[ecommerce-sales-analysis](https://github.com/gabchess/ecommerce-sales-analysis)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | E-commerce sales analysis with Python (pandas, matplotlib) and SQL. RFM segmentation, revenue trends, product performance. |
+| **[solana-narrative-tracker](https://github.com/gabchess/solana-narrative-tracker)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Spots emerging Solana narratives early. Reads 20+ KOLs, 20+ repos and 25+ protocol TVLs, clusters the signals, and ships build ideas every fortnight. |
+| **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Scans DeFi protocols for TVL that looks wrong. Zeroed, dropped 50% in a day, spiked 300%, or flat for 60 days. Catches broken adapters, exploits and depegs. |
 
-<sub>More in the wild: [solguard](https://github.com/gabchess/solguard) · [solana-narrative-tracker](https://github.com/gabchess/solana-narrative-tracker) · [defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector) · [superteam-academy](https://github.com/gabchess/superteam-academy) · [hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme) · [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz)</sub>
+Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz). A landing page I built for my friend Gabriel Paz, a painter in Botafogo, Rio. He had no website, so I made him one. Hand-written HTML, no build step.
 
 Off GitHub: a six-agent system runs my daily marketing operations, research, drafts, review, planning, with a human sign-off at every step. 27 of 30 content cycles held above my quality threshold, and the daily brief hit 97% accuracy across 31 traced runs.
 
