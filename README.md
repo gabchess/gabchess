@@ -34,6 +34,12 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 | **Tixmancer** <br/>`private · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Event tickets bought by an agent end to end: HTTP 402 offer, signed QR ticket, one-time check-in, onchain receipt recovery on Base. 50 test files across unit, integration, contract, and browser e2e; Base Batches 004 application in. |
 | **Maria** <br/>`private · milestone 1` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The scam-checker Brazilian elders talk to on WhatsApp: forward anything suspicious, hear a voice verdict in PT-BR, family alerted when it matters. Building it for RevenueCat's Shipaton 2026. |
 
+## 🎯 GTM engineering
+
+| Project | Stack | What it does |
+|:--|:--|:--|
+| **[scaleflow-leads](https://github.com/gabchess/scaleflow-leads)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | A whole outbound lead pipeline, built in 48 hours for a trial task. Two scrapers I wrote myself (Crunchbase behind a login, Clutch), Clay enrichment driven through MCP, and 100 leads with every email checked against a live DNS MX record. Measuring the first scrape is what changed the build: 74% of the 300 Crunchbase companies had raised more than $20M against a $20M ceiling, so Clutch became the primary source. Also runs as an MCP server, with an agent that stops for human approval before any lead is marked qualified. 42 tests. [Two-minute walkthrough](https://www.loom.com/share/320038e70c3b4ba29ad5265a3e83fef3). |
+
 ## ⛓️ Solana & onchain
 
 | Project | Lang | What it does |
