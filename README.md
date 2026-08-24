@@ -40,6 +40,15 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 |:--|:--|:--|
 | **[scaleflow-leads](https://github.com/gabchess/scaleflow-leads)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | A whole outbound lead pipeline, built in 48 hours for a trial task. Two scrapers I wrote myself (Crunchbase behind a login, Clutch), Clay enrichment driven through MCP, and 100 leads with every email checked against a live DNS MX record. Measuring the first scrape is what changed the build: 74% of the 300 Crunchbase companies had raised more than $20M against a $20M ceiling, so Clutch became the primary source. Also runs as an MCP server, with an agent that stops for human approval before any lead is marked qualified. 42 tests. [Two-minute walkthrough](https://www.loom.com/share/320038e70c3b4ba29ad5265a3e83fef3). |
 
+## 🧩 Augments
+
+Systems I package so someone else can run them w/o me in the room: the skills, the hooks that enforce them, and a README a stranger can follow. These two are private rn, so no links here. Ask me instead. ScaleFlow above is the one that's already out.
+
+| Augment | What it does | Where it actually is |
+|:--|:--|:--|
+| **ContentOS** | 43 skills behind one front door: research, drafting, review, distribution, the weekly retro. When a write breaks a rule, a hook blocks it; nobody asks the model to remember. Btw, it carries a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. The detector pass behind it is one post on one day, and that's the only one I claim. |
+| **Scribe** | The writing front door, pulled out of ContentOS so it installs on its own. Four lanes decide who arranges the sentences before any work starts. A paired reviewer suggests & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
+
 ## ⛓️ Solana & onchain
 
 | Project | Lang | What it does |
@@ -95,9 +104,13 @@ A high-severity find in Anchor's LazyAccount code, v0.31.0 to v0.32.1: `Lazy::si
 
 ## 📈 Marketing, measured
 
-- 91.9% of active allocators (260 wallets) migrated V1 to V2 at Octant, on zero paid spend.
-- 13K followers and 9M organic impressions in 9 months on @octantapp.
-- Ran 100+ onboarding experiments at noder. as its only product marketer.
+The only account that's mine alone is @gabe_onchain: 0 to 5K followers under a content rev-share, 1K+ of them verified.
+
+Every other number here was a team run, sooo the verb is helped. Helped grow @octantapp to 13K followers & 9M organic impressions in nine months, nothing paid. Same story at InceptionLRT (past 30K) and Ankr (past 300K): I ran strategy and distribution, other people posted asw.
+
+The Octant work I'd defend in any room is the analytics. I built their first user analytics stack, and the migration campaign built on it moved 91.9% of active allocators, 260 wallets, from V1 to V2.
+
+At noder. I was the only product marketer for 18 months. 100+ onboarding experiments, one buyer type per test.
 
 ## ✍️ Writing
 
