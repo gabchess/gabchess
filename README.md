@@ -31,49 +31,49 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **Tixmancer** <br/>`private · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Event tickets bought by an agent end to end: HTTP 402 offer, signed QR ticket, one-time check-in, onchain receipt recovery on Base. 50 test files across unit, integration, contract, and browser e2e; Base Batches 004 application in. |
-| **Maria** <br/>`private · milestone 1` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The scam-checker Brazilian elders talk to on WhatsApp: forward anything suspicious, hear a voice verdict in PT-BR, family alerted when it matters. Building it for RevenueCat's Shipaton 2026. |
+| **Tixmancer** <br/>`private · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | An agent buys event tickets end to end: 402 offer, signed QR, one-time check-in, receipts on Base. 50 test files. Base Batches 004 application in. |
+| **Maria** <br/>`private · milestone 1` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders talk to on WhatsApp: forward anything suspicious, hear a voice verdict in PT-BR. Building for Shipaton 2026. |
 
 ## 🎯 GTM engineering
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[scaleflow-leads](https://github.com/gabchess/scaleflow-leads)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | A whole outbound lead pipeline, built in 48 hours for a trial task. Two scrapers I wrote myself (Crunchbase behind a login, Clutch), Clay enrichment driven through MCP, and 100 leads with every email checked against a live DNS MX record. Measuring the first scrape is what changed the build: 74% of the 300 Crunchbase companies had raised more than $20M against a $20M ceiling, so Clutch became the primary source. Also runs as an MCP server, with an agent that stops for human approval before any lead is marked qualified. 42 tests. [Two-minute walkthrough](https://www.loom.com/share/320038e70c3b4ba29ad5265a3e83fef3). |
+| **[scaleflow-leads](https://github.com/gabchess/scaleflow-leads)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Outbound lead pipeline built in 48 hours. Two scrapers I wrote (Crunchbase, Clutch), Clay enrichment over MCP, 100 leads with live MX checks. 74% of Crunchbase rows broke the $20M ceiling, so Clutch became primary. 42 tests. |
 
 ## 🧩 Augments
 
-Systems I package so someone else can run them w/o me in the room: the skills, the hooks that enforce them, and a README a stranger can follow. These two are private rn, so no links here. Ask me instead. ScaleFlow above is the one that's already out.
+Systems packaged so someone else can run them w/o me: the skills, the hooks that enforce them, a README a stranger can follow. These two are private rn, no links. Ask me. ScaleFlow above is already out.
 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
-| **ContentOS** | 43 skills behind one front door: research, drafting, review, distribution, the weekly retro. When a write breaks a rule, a hook blocks it; nobody asks the model to remember. Btw, it carries a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. The detector pass behind it is one post on one day, and that's the only one I claim. |
-| **Scribe** | The writing front door, pulled out of ContentOS so it installs on its own. Four lanes decide who arranges the sentences before any work starts. A paired reviewer suggests & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
+| **ContentOS** | 43 skills behind one front door. A hook blocks rule-breaking writes; nobody asks the model to remember. 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
+| **Scribe** | The writing front door, pulled out of ContentOS. Four lanes decide who arranges the sentences. Reviewer suggests & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 
 ## ⛓️ Solana & onchain
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** ⭐ | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Composable onchain roles for Solana. Grant roles, not keys. One canonical role store other Anchor programs share instead of rebuilding access control. 6 instructions, 21 LiteSVM integration tests, a documented threat model. Built on a Solana Foundation grant. |
-| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana, using TxODDS validate_stat CPI and Merkle-anchored results. Live on devnet, 39 Rust tests. [Demo](https://youtu.be/2Vh6RPLNd-U). |
+| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** ⭐ | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Onchain roles for Solana. Grant roles, not keys. 6 instructions, 21 integration tests, a documented threat model. Solana Foundation grant. |
+| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana. Devnet, 39 Rust tests. [Demo](https://youtu.be/2Vh6RPLNd-U). |
 | **[kageb](https://github.com/gabchess/kageb)** ⭐ | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Private intent pooling for Solana: four real orders in, one aggregate trade out. |
-| **[grimoire](https://github.com/gabchess/grimoire)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Grimoire, the Solana Transaction Doctor. Paste a failed transaction signature and it decodes the failure (Anchor errors, custom program codes, compute budget, rent, PDA collisions) into a plain-English root cause and a concrete fix. Live demo + open source. |
-| **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | ![Shell](https://img.shields.io/badge/-Shell-221e18?style=flat-square&logo=gnu-bash&logoColor=4EAA25) | Auditor-grade pre-deploy safety gate for Solana programs: 4 deterministic checks, machine-readable PASS/FAIL, blocks unsafe mainnet deploys/upgrades via a PreToolUse hook. A Solana AI Kit skill. MIT. |
+| **[grimoire](https://github.com/gabchess/grimoire)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The Solana Transaction Doctor. Paste a failed signature, get the root cause and the fix in plain English. Live demo. |
+| **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | ![Shell](https://img.shields.io/badge/-Shell-221e18?style=flat-square&logo=gnu-bash&logoColor=4EAA25) | Pre-deploy safety gate for Solana programs: 4 deterministic checks, blocks unsafe mainnet deploys. MIT. |
 | **[patronus](https://github.com/gabchess/patronus)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Onchain-attested, runtime-scoped credentials for AI agents on Solana DeFi. |
 | **[worldcup-settlement](https://github.com/gabchess/worldcup-settlement)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | An AI agent that bets on live World Cup matches on Solana, autonomously. |
 | **[meteora-jup-sol-safety-monitor](https://github.com/gabchess/meteora-jup-sol-safety-monitor)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Read-only Meteora DLMM PnL and safety monitor with Telegram alerts. |
 | **[solguard](https://github.com/gabchess/solguard)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Warns Solana users before they get rugged. Scores new pump.fun launches on deployer history, liquidity and mint authority, then posts the risk live. |
-| **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Open-source gamified learning for Solana devs, built for Superteam Brazil. Browser code editor, XP, leaderboards and onchain certificates. |
+| **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Gamified learning for Solana devs. Browser editor, XP, onchain certificates. For Superteam Brazil. |
 
 ## 🤖 Agents & AI tooling
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[silvia](https://github.com/gabchess/silvia)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | A confirmation-first food-ordering assistant for older adults, built on Base44. Chat instead of learning an app; 50+ users completed an order. |
+| **[silvia](https://github.com/gabchess/silvia)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Food-ordering assistant for older adults. Chat instead of learning an app; 50+ completed orders. |
 | **[safeskill](https://github.com/gabchess/safeskill)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | One-click security audit for your MCP setup. One score, plain English, no CLI knowledge required. |
 | **[wingman](https://github.com/gabchess/wingman)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | AI Expert Marketplace. Install experts (Design, Code, Marketing) into Claude Code. |
 | **[clawmanship](https://github.com/gabchess/clawmanship)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Reviewable decision before a community skill enters a local bundle. |
 | **[agenthub](https://github.com/gabchess/agenthub)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Monad-native AI agent orchestration platform. |
-| **[hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme)** | ![YAML](https://img.shields.io/badge/-YAML-221e18?style=flat-square&logo=yaml&logoColor=cb171e) | Minimalist black and white dashboard theme for the Hermes agent. Green for success, red for errors, nothing else. Greek-inspired, with the Omega on every session card. |
+| **[hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme)** | ![YAML](https://img.shields.io/badge/-YAML-221e18?style=flat-square&logo=yaml&logoColor=cb171e) | Black and white dashboard theme for the Hermes agent. Green for success, red for errors, nothing else. |
 
 ## 🔗 EVM & multichain
 
@@ -86,7 +86,7 @@ Systems I package so someone else can run them w/o me in the room: the skills, t
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[beat-claude-engineer-004-analytics-pipeline](https://github.com/gabchess/beat-claude-engineer-004-analytics-pipeline)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Real-time analytics pipeline design for the Beat Claude engineer-004 challenge: fixture anomaly detector, test suite, hot-path benchmark, and doc/evidence consistency checks. |
+| **[beat-claude-engineer-004-analytics-pipeline](https://github.com/gabchess/beat-claude-engineer-004-analytics-pipeline)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Analytics pipeline for the Beat Claude engineer-004 challenge: anomaly detector, test suite, hot-path benchmark. |
 | **[ecommerce-sales-analysis](https://github.com/gabchess/ecommerce-sales-analysis)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | E-commerce sales analysis with Python (pandas, matplotlib) and SQL. RFM segmentation, revenue trends, product performance. |
 | **[solana-narrative-tracker](https://github.com/gabchess/solana-narrative-tracker)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Spots emerging Solana narratives early. Reads 20+ KOLs, 20+ repos and 25+ protocol TVLs, clusters the signals, and ships build ideas every fortnight. |
 | **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Scans DeFi protocols for TVL that looks wrong. Zeroed, dropped 50% in a day, spiked 300%, or flat for 60 days. Catches broken adapters, exploits and depegs. |
