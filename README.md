@@ -38,7 +38,7 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[scaleflow-leads](https://github.com/gabchess/scaleflow-leads)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Outbound lead pipeline built in 48 hours. Two scrapers I wrote (Crunchbase, Clutch), Clay enrichment over MCP, 100 leads with live MX checks. 74% of Crunchbase rows broke the $20M ceiling, so Clutch became primary. 42 tests. |
+| **[prospector](https://github.com/gabchess/prospector)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline. Two scrapers I wrote (Crunchbase, Clutch), Clay enrichment over MCP, ICP gates that disqualify, a human approval gate, run /onboard to point it at your customers. The proving run: 100 leads, 48 hours, $4. 42 tests. |
 
 ## 🧩 Augments
 
@@ -50,7 +50,7 @@ Every augment here is three parts:
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing w/o me in the room.
 
-These two are private rn, no links. Ask me. ScaleFlow up in the GTM section is the one that's already out.
+These two are private rn, no links. Ask me. Prospector up in the GTM section is the open one; fork it.
 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
