@@ -42,12 +42,20 @@ I spot each team's gaps and bring systems to help them work better and faster. T
 
 ## 🧩 Augments
 
-Systems packaged so someone else can run them w/o me: the skills, the hooks that enforce them, a README a stranger can follow. These two are private rn, no links. Ask me. ScaleFlow above is already out.
+An augment is a folder that teaches an AI assistant a whole job. Plain english: onboarding docs for an AI employee, plus the guardrails that stop it from cutting corners, zipped so anyone can install it.
+
+Every augment here is three parts:
+
+&rarr; **Skills** = the SOPs. Step-by-step playbooks the AI follows for each task.<br>
+&rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
+&rarr; **README** = the manual. A stranger installs and runs the whole thing w/o me in the room.
+
+These two are private rn, no links. Ask me. ScaleFlow up in the GTM section is the one that's already out.
 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
-| **ContentOS** | 43 skills behind one front door. A hook blocks rule-breaking writes; nobody asks the model to remember. 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
-| **Scribe** | The writing front door, pulled out of ContentOS. Four lanes decide who arranges the sentences. Reviewer suggests & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
+| **ContentOS** | Runs my daily content operation: research, drafts, review, distribution prep, the weekly retro. 43 playbooks behind one front door, plus a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
+| **Scribe** | Keeps my writing mine. Before any work starts it decides who types each sentence, me or the machine, and refuses to blur that line. A paired reviewer critiques & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 
 ## ⛓️ Solana & onchain
 
