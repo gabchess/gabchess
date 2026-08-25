@@ -104,13 +104,13 @@ A high-severity find in Anchor's LazyAccount code, v0.31.0 to v0.32.1: `Lazy::si
 
 ## 📈 Marketing, measured
 
-The only account that's mine alone is @gabe_onchain: 0 to 5K followers under a content rev-share, 1K+ of them verified.
+The only account that's mine alone is @gabe_onchain: 0 to 5K under a content rev-share, 1K+ verified.
 
-Every other number here was a team run, sooo the verb is helped. Helped grow @octantapp to 13K followers & 9M organic impressions in nine months, nothing paid. Same story at InceptionLRT (past 30K) and Ankr (past 300K): I ran strategy and distribution, other people posted asw.
+Every other number here was a team run, sooo the verb is helped. Helped grow @octantapp to 13K followers & 9M organic impressions in nine months, nothing paid. Same at InceptionLRT (past 30K) and Ankr (past 300K): I ran strategy & distribution, other people posted asw.
 
-The Octant work I'd defend in any room is the analytics. I built their first user analytics stack, and the migration campaign built on it moved 91.9% of active allocators, 260 wallets, from V1 to V2.
+The Octant work I'd defend in any room is the analytics: their first user analytics stack, mine, and the migration campaign built on it moved 91.9% of active allocators (260 wallets) from V1 to V2.
 
-At noder. I was the only product marketer for 18 months. 100+ onboarding experiments, one buyer type per test.
+At noder. I was the only PMM for 18 months. 100+ onboarding experiments, one buyer type per test.
 
 ## ✍️ Writing
 
