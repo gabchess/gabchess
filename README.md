@@ -50,11 +50,12 @@ Every augment here is three parts:
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing w/o me in the room.
 
-These two are private rn, no links. Ask me. Prospector up in the GTM section is the open one; fork it.
+These are private rn, no links. Ask me. Prospector up in the GTM section is the open one; fork it.
 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
 | **ContentOS** | Runs my daily content operation: research, drafts, review, distribution prep, the weekly retro. 43 playbooks behind one front door, plus a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
+| **Dolly** | Builds cinematic websites where scrolling drives a real 3D camera path, so the visitor rides the shot instead of reading a stack of sections. A headless browser then walks every scroll position and fails the build if the page doesn't actually move. The system behind the gabeonchain.com homepage. | Private. 6 behavioral evals; a full build with placeholder assets costs $0. |
 | **Matt** | The coding-workflow front door. Plans hard before any code exists, delegates each todo to a sub-agent, and never lets a builder verify its own work. Ships only after the owner passes a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
 | **Scribe** | Keeps my writing mine. Before any work starts it decides who types each sentence, me or the machine, and refuses to blur that line. A paired reviewer critiques & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 
