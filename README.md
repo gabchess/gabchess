@@ -55,6 +55,7 @@ These two are private rn, no links. Ask me. Prospector up in the GTM section is 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
 | **ContentOS** | Runs my daily content operation: research, drafts, review, distribution prep, the weekly retro. 43 playbooks behind one front door, plus a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
+| **Matt** | The coding-workflow front door. Plans hard before any code exists, delegates each todo to a sub-agent, and never lets a builder verify its own work. Ships only after the owner passes a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
 | **Scribe** | Keeps my writing mine. Before any work starts it decides who types each sentence, me or the machine, and refuses to blur that line. A paired reviewer critiques & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 
 ## ⛓️ Solana & onchain
