@@ -21,7 +21,7 @@
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years in product marketing, and for the last five I've been building too, mostly applied AI. Agent plumbing is where I spend most of my week.
+I'm Gabriel, aka Gabe. Fifteen years in product marketing, and for the last five, I've been building too, mostly applied AI engineering. Agent plumbing is where I spend most of my days now.
 
 I spot each team's gaps and bring systems to help them work better and faster. TL;DR & more deets here in [this video](https://x.com/gabe_onchain/status/2090524446826082779).
 
