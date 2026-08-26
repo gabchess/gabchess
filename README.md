@@ -61,6 +61,7 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 | **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | Private access: follow me and ask for an invite. |
 | **Foundry** | Designs apps, UX/UI, and websites by routing one taste engine, then renders each build in a real browser and iterates on what it sees before a human ever looks. | Private access: follow me and ask for an invite. |
 | **Showrunner** | Turns any ask for a video into a routed production, then measures and watches the finished cut itself before a human is asked to look. | Private access: follow me and ask for an invite. |
+| **Masthead** | Sends five researchers out on a topic, interviews me on what came back, and tunes the draft for search and AI answer engines before it reaches my desk to publish. | Private access: follow me and ask for an invite. |
 
 ## ⛓️ Solana & onchain
 
