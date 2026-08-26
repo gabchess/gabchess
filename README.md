@@ -52,15 +52,15 @@ Every augment here is three parts:
 
 These are private rn, no links. Ask me. Prospector up in the GTM section is the open one; fork it.
 
-| Augment | What it does | Where it actually is |
+| Augment | What it does | Access |
 |:--|:--|:--|
-| **ContentOS** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Running daily. One detector pass so far: one post, one day. |
-| **Dolly** | Built this homepage: scroll-driven cinematic sites, machine-verified to actually move before a build passes. | Private. 6 behavioral evals; a full build with placeholder assets costs $0. |
-| **Harrier** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private. 7 behavioral evals; built on a second brain of 28 real hunts. |
-| **Matt** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
-| **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
-| **Foundry** | Designs apps, UX/UI, and websites by routing one taste engine, then renders each build in a real browser and iterates on what it sees before a human ever looks. | Private, with 9 behavioral evals and a component-audit tool verified clean-room on 2026-08-26. |
-| **Showrunner** | Turns any ask for a video into a routed production, then measures and watches the finished cut itself before a human is asked to look. | Private, with 11 behavioral evals, verified clean-room on 2026-08-26. |
+| **ContentOS** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Private access: follow me and ask for an invite. |
+| **Dolly** | Built this homepage: scroll-driven cinematic sites, machine-verified to actually move before a build passes. | Private access: follow me and ask for an invite. |
+| **Harrier** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private access: follow me and ask for an invite. |
+| **Matt** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private access: follow me and ask for an invite. |
+| **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | Private access: follow me and ask for an invite. |
+| **Foundry** | Designs apps, UX/UI, and websites by routing one taste engine, then renders each build in a real browser and iterates on what it sees before a human ever looks. | Private access: follow me and ask for an invite. |
+| **Showrunner** | Turns any ask for a video into a routed production, then measures and watches the finished cut itself before a human is asked to look. | Private access: follow me and ask for an invite. |
 
 ## ⛓️ Solana & onchain
 
