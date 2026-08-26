@@ -54,11 +54,11 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 
 | Augment | What it does | Where it actually is |
 |:--|:--|:--|
-| **ContentOS** | Runs my daily content operation: research, drafts, review, distribution prep, the weekly retro. 43 playbooks behind one front door, plus a 770-chunk corpus of 4 studied voices, searchable offline. | Running daily. One detector pass so far: one post, one day. |
-| **Dolly** | Builds cinematic websites where scrolling drives a real 3D camera path, so the visitor rides the shot instead of reading a stack of sections. A headless browser then walks every scroll position and fails the build if the page doesn't actually move. The system behind the gabeonchain.com homepage. | Private. 6 behavioral evals; a full build with placeholder assets costs $0. |
-| **Harrier** | White-hat security hunter. Finds bugs in smart-contract and web bounty targets on Immunefi, Cantina, and Sherlock, and audits my own repos before someone else does. Runs many small agents across distinct attack classes at once, proves each finding before it counts, and never submits without me pulling the trigger. | Private. 7 behavioral evals; built on a second brain of 28 real hunts. |
-| **Matt** | The coding-workflow front door. Plans hard before any code exists, delegates each todo to a sub-agent, and never lets a builder verify its own work. Ships only after the owner passes a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
-| **Scribe** | Keeps my writing mine. Before any work starts it decides who types each sentence, me or the machine, and refuses to blur that line. A paired reviewer critiques & never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
+| **ContentOS** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Running daily. One detector pass so far: one post, one day. |
+| **Dolly** | Scroll-driven cinematic sites, machine-verified to actually move before a build passes. Built this homepage. | Private. 6 behavioral evals; a full build with placeholder assets costs $0. |
+| **Harrier** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private. 7 behavioral evals; built on a second brain of 28 real hunts. |
+| **Matt** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
+| **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 
 ## ⛓️ Solana & onchain
 
