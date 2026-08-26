@@ -60,6 +60,7 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 | **Matt** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private. 5 behavioral evals; built 2026-08-25. |
 | **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | 24 tests green in CI. Never installed on a machine I don't control. |
 | **Foundry** | Designs apps, UX/UI, and websites by routing one taste engine, then renders each build in a real browser and iterates on what it sees before a human ever looks. | Private, with 9 behavioral evals and a component-audit tool verified clean-room on 2026-08-26. |
+| **Showrunner** | Turns any ask for a video into a routed production, then measures and watches the finished cut itself before a human is asked to look. | Private, with 11 behavioral evals, verified clean-room on 2026-08-26. |
 
 ## ⛓️ Solana & onchain
 
