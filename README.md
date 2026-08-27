@@ -25,7 +25,7 @@ I'm Gabriel, aka Gabe. Fifteen years in product marketing, and for the last five
 
 I spot each team's gaps and bring systems to help them work better and faster.
 
-TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), and [this doc](https://github.com/gabchess/operating-thoughts).
+TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
 ---
 
