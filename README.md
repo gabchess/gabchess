@@ -40,7 +40,7 @@ Gideon. Why deals stall.
 Cally. Hunts jobs, applies.
 Colin. AI video pipeline.
 Vercel. DNS and deploys.
-Researcher. Sourced analysis.
+Omnara (Researcher). Sourced analysis.
 Holloway. Shapes the workflow.
 Forge. Plans and ships code.
 
