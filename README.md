@@ -21,11 +21,11 @@ Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years in marketing, Growth included. The last five years I apply that taste as a Forward Deployed AI Engineer. I find what's slowing a team down and build the system that closes it.
+I'm Gabriel, aka Gabe. Fifteen years working in marketing. The last five years I apply that taste as a Growth Engineer I find what's slowing a team down and build the system that fixes it.
 
 Python, SQL, big data, RAG, embeddings, vector databases, MCP, agents, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
 
-Twelve named agents run daily ops, with a human sign-off at every step. The names are on gabeonchain.com.
+9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector is open; 8 are private.
 
 Applied AI Software Engineering. MBA, in progress.
 
