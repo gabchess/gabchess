@@ -27,8 +27,6 @@ I spot each team's gaps and bring systems to help them work better and faster.
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), and [this doc](https://github.com/gabchess/operating-thoughts).
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">I give up.<br>I&#39;m done sending boring portfolios.<br><br>TL;DR on why you should hire me: I talk about it in this video 😄<br><br>Sooo, if you&#39;re improving how a marketing or creative team works, let&#39;s connect. DMs open. <a href="https://t.co/er3GfnRpuB">pic.twitter.com/er3GfnRpuB</a></p>&mdash; Gabe (@gabe_onchain) <a href="https://x.com/gabe_onchain/status/2090524446826082779?ref_src=twsrc%5Etfw">August 20, 2026</a></blockquote> <script async src="https://platform.x.com/widgets.js" charset="utf-8"></script>
-
 ---
 
 ## 🔨 Building now
