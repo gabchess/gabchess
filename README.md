@@ -31,6 +31,19 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, agents, LangGraph
 
 Applied AI Software Engineering. MBA, in progress.
 
+Nova. Routes the crew. One inbox.
+Scribe. Writes in his voice. Interview first. Never posts.
+Odette. UI, visual meaning.
+Marlowe. Finds what's missing.
+Egdod. Architecture before code.
+Gideon. Why deals stall.
+Cally. Hunts jobs, applies.
+Colin. AI video pipeline.
+Vercel. DNS and deploys.
+Researcher. Sourced analysis.
+Holloway. Shapes the workflow.
+Forge. Plans and ships code.
+
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
 ---
