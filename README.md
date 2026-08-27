@@ -23,6 +23,8 @@ Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 I'm Gabriel, aka Gabe. Fifteen years working in marketing. The last five years I apply that taste as a Growth Engineer I find what's slowing a team down and build the system that fixes it.
 
+Octant: GTM Engineer & Socials.
+
 Python, SQL, big data, RAG, embeddings, vector databases, MCP, agents, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector is open; 8 are private.
