@@ -4,7 +4,7 @@
 
 # Gabriel Abreu
 
-**Rio de Janeiro** · GTM Engineer · Marketing for 15 years, building for the last 5
+Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -21,9 +21,13 @@
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years in product marketing, and for the last five, I've been building too, mostly applied AI engineering. Agent plumbing is where I spend most of my days now.
+I'm Gabriel, aka Gabe. Fifteen years in marketing, Growth included. The last five years I apply that taste as a Forward Deployed AI Engineer. I find what's slowing a team down and build the system that closes it.
 
-I spot each team's gaps and bring systems to help them work better and faster.
+Python, SQL, big data, RAG, embeddings, vector databases, MCP, agents, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
+
+Twelve named agents run daily ops, with a human sign-off at every step. The names are on gabeonchain.com.
+
+Applied AI Software Engineering. MBA, in progress.
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
@@ -108,8 +112,6 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 | **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Scans DeFi TVL for what looks wrong: zeroed, -50% in a day, +300% spike, or flat 60 days, catching broken adapters and depegs. |
 
 Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz), a landing page for my friend Gabriel Paz, a painter in Botafogo, Rio. No website before; hand-written HTML, no build step.
-
-Off GitHub: a six-agent system runs my daily marketing operations, research, drafts, review, planning, with a human sign-off at every step. 27 of 30 content cycles held above my quality threshold, and the daily brief hit 97% accuracy across 31 traced runs.
 
 ## 🔍 Security research
 
