@@ -2,7 +2,7 @@
 
 <img src="https://github.com/gabchess.png" width="140" alt="Gabriel Abreu" />
 
-# Gabriel Abreu
+# Gabe
 
 Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
@@ -154,7 +154,7 @@ Also built the [Solana Vault Standard Extension](https://github.com/gabchess/sol
 
 ## ✍️ Writing
 
-I write about proof, evals, and AI-assisted marketing at [my blog](https://gabeonchain.com/#writing).
+I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
 
 ## Find me
 
