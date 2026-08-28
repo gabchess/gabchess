@@ -208,6 +208,4 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 
 <img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
 
-<sub>The GTM Engineer. <a href="assets/gtm-card.mp4" </sub>
-
 </div>
