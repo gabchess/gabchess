@@ -31,35 +31,35 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI sys
 
 Applied AI Software Engineering. MBA, in progress.
 
-## Crew
+## Gabe's crew
 
-Twenty-three named agents.
+23 named agents under HyperBots 'company'.
 
 | Name | Role |
 |:--|:--|
-| Nova | Chief of Staff. |
-| Scribe | Writer. |
-| Odette | Design Lead. |
-| Tom | Founder decisions. |
-| Mira | Customer Success. |
-| Masthead | Technical Writer. |
-| Evan | Automation architect. |
-| Marlowe | Brainstormer / gap-finder. |
-| Harrier | Security / QA. |
-| Egdod | Architect. |
-| Gideon | Prospecting strategist. |
-| Cally | Advisor. |
-| Matt | PM. |
-| Daedalus | PMM. |
-| Victor | Deal strategist. |
-| Orc | UI / shadcn. |
-| Colin | AI Video Systems Director. |
-| Omnara | Researcher. |
-| Holloway | Operations Lead. |
-| Lina | YT Growth. |
-| Gearnoccio | Garagecraft / vehicles. |
-| Dex | Data stores. |
-| Forge | Coder. |
+| Nova | Chief of Staff |
+| Scribe | Writer |
+| Odette | Design Lead |
+| Tom | YC Founder |
+| Mira | Customer Success |
+| Masthead | Technical Writer |
+| Evan | Automation architect |
+| Marlowe | Brainstormer |
+| Harrier | Security / QA |
+| Egdod | Architect |
+| Gideon | Prospecting strategist |
+| Cally | Advisor |
+| Matt | PM |
+| Daedalus | PMM |
+| Victor | BD Lead |
+| Orc | UI / shadcn |
+| Colin | AI Video Systems Director |
+| Omnara | Researcher |
+| Holloway | Operations Lead |
+| Lina | YT Growth |
+| Gearnoccio | Garagecraft |
+| Dex | Data stores |
+| Forge | Coder |
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
