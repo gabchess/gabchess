@@ -27,7 +27,7 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI sys
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
-Applied AI Software Engineering. MBA, in progress.
+Applied AI Software Engineering, MBA.
 
 ## Gabe's crew
 
