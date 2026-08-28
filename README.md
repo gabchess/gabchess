@@ -29,36 +29,74 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI sys
 
 Applied AI Software Engineering. MBA, in progress.
 
+<div align="center">
+
+<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
+
+<sub>The GTM Engineer. <a href="assets/gtm-card.mp4">Watch the animated card</a>.</sub>
+
+</div>
+
 ## Gabe's crew
 
-24 named agents under HyperBots 'company'.
+25 specialists under HyperBots, Nova as chief of staff routing every job to its owner.
+
+<!-- RIMURU: pending Gabe decision, see report -->
+
+**🧭 Orchestration**
 
 | Name | Role |
 |:--|:--|
-| Nova | Chief of Staff |
-| Ralph | Loops |
-| Scribe | Writer |
-| Odette | Design Lead |
-| Tom | YC Founder |
-| Mira | Customer Success |
-| Masthead | Technical Writer |
-| Evan | Automation architect |
-| Marlowe | Brainstormer |
-| Harrier | Security / QA |
-| Egdod | Architect |
-| Gideon | Prospecting strategist |
+| Nova | Chief of staff, routes every job to its owner |
+| Julz | CMO, brand / positioning / taste |
 | Cally | Advisor |
-| Matt | PM |
-| Daedalus | PMM |
+| Tom | YC Founder |
+
+**⚙️ Build**
+
+| Name | Role |
+|:--|:--|
+| Forge | Coder |
+| Egdod | Architect |
+| Dex | Data stores |
+| Harrier | Security / QA |
+| Evan | Automation architect |
+| Ralph | Loops |
+
+**📈 Growth**
+
+| Name | Role |
+|:--|:--|
+| Gideon | Prospecting strategist |
 | Victor | BD Lead |
+| Daedalus | PMM |
+| Lina | YT Growth |
+| Mira | Customer Success |
+| Omnara | Researcher |
+
+**🎨 Design**
+
+| Name | Role |
+|:--|:--|
+| Odette | Design Lead |
 | Orc | UI / shadcn |
 | Colin | AI Video Systems Director |
-| Omnara | Researcher |
-| Holloway | Operations Lead |
-| Lina | YT Growth |
 | Gearnoccio | Garagecraft |
-| Dex | Data stores |
-| Forge | Coder |
+
+**📣 Content**
+
+| Name | Role |
+|:--|:--|
+| Scribe | Writer |
+| Masthead | Technical Writer |
+| Marlowe | Brainstormer |
+
+**🗂️ Ops**
+
+| Name | Role |
+|:--|:--|
+| Holloway | Operations Lead |
+| Matt | PM |
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
@@ -157,6 +195,14 @@ Also built the [Solana Vault Standard Extension](https://github.com/gabchess/sol
 
 I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
 
+<div align="center">
+
+<img src="assets/about-desktop.jpg" width="100%" alt="The About page on gabeonchain.com" />
+
+<sub>The full bio lives on <a href="https://gabeonchain.com">the site</a>.</sub>
+
+</div>
+
 ## Find me
 
 [gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
@@ -164,3 +210,9 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 ---
 
 <div align="center"><sub>The best systems I run live in the body, mind & soul ツ</sub></div>
+
+<div align="center">
+
+<img src="assets/signature.png" width="360" alt="Gabriel Abreu signature" />
+
+</div>
