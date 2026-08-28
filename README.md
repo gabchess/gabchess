@@ -41,7 +41,13 @@ Applied AI Software Engineering. MBA, in progress.
 
 25 specialists under HyperBots, Nova as chief of staff routing every job to its owner.
 
-<!-- RIMURU: pending Gabe decision, see report -->
+<div align="center">
+
+<img src="assets/rimuru-crew.jpg" width="440" alt="A leader and his crew of named specialists" />
+
+<sub>Every job has an owner. Every owner has a job.</sub>
+
+</div>
 
 **🧭 Orchestration**
 
