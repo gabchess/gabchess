@@ -4,7 +4,7 @@
 
 # Gabe
 
-Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
+GTM Engineer · Forward Deployed AI Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -29,27 +29,19 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI sys
 
 Applied AI Software Engineering. MBA, in progress.
 
-<div align="center">
-
-<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
-
-<sub>The GTM Engineer. <a href="assets/gtm-card.mp4">Watch the animated card</a>.</sub>
-
-</div>
-
 ## Gabe's crew
 
-25 specialists under HyperBots, Nova as chief of staff routing every job to its owner.
+25 AI agents, Nova as chief of staff routing every job to its owner.
 
 <div align="center">
 
 <img src="assets/rimuru-crew.jpg" width="440" alt="A leader and his crew of named specialists" />
 
-<sub>Every job has an owner. Every owner has a job.</sub>
+<sub>Every agent has a persona. Every persona has a role.</sub>
 
 </div>
 
-**🧭 Orchestration**
+**🧭 Leadership**
 
 | Name | Role |
 |:--|:--|
@@ -63,7 +55,7 @@ Applied AI Software Engineering. MBA, in progress.
 | Name | Role |
 |:--|:--|
 | Forge | Coder |
-| Egdod | Architect |
+| Egdod | Systems architect |
 | Dex | Data stores |
 | Harrier | Security / QA |
 | Evan | Automation architect |
@@ -87,7 +79,6 @@ Applied AI Software Engineering. MBA, in progress.
 | Odette | Design Lead |
 | Orc | UI / shadcn |
 | Colin | AI Video Systems Director |
-| Gearnoccio | Garagecraft |
 
 **📣 Content**
 
@@ -220,5 +211,13 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 <div align="center">
 
 <img src="assets/signature.png" width="360" alt="Gabriel Abreu signature" />
+
+</div>
+
+<div align="center">
+
+<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
+
+<sub>The GTM Engineer. <a href="assets/gtm-card.mp4" </sub>
 
 </div>
