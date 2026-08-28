@@ -21,28 +21,41 @@ Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years working in marketing. The last five years I apply that taste as a Growth Engineer I find what's slowing a team down and build the system that fixes it.
+I'm Gabriel, aka Gabe. Fifteen years working in marketing. The last five years I apply that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
 
 Octant: GTM Engineer & Socials.
 
-Python, SQL, big data, RAG, embeddings, vector databases, MCP, agents, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
+Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector is open; 8 are private.
 
 Applied AI Software Engineering. MBA, in progress.
 
-Nova. Routes the crew. One inbox.
-Scribe. Writes in his voice. Interview first. Never posts.
-Odette. UI, visual meaning.
-Marlowe. Finds what's missing.
-Egdod. Architecture before code.
-Gideon. Why deals stall.
-Cally. Hunts jobs, applies.
-Colin. AI video pipeline.
-Vercel. DNS and deploys.
-Omnara (Researcher). Sourced analysis.
-Holloway. Shapes the workflow.
-Forge. Plans and ships code.
+## Crew
+
+| Name | Role |
+|:--|:--|
+| Nova | Chief of Staff. |
+| Scribe | Writer. |
+| Odette | Design Lead. |
+| Tom | Founder decisions. |
+| Mira | Customer Success. |
+| Masthead | Technical Writer. |
+| Evan | Automation architect. |
+| Marlowe | Brainstormer / gap-finder. |
+| Harrier | Security / QA. |
+| Egdod | Architect. |
+| Gideon | Prospecting strategist. |
+| Cally | Advisor. |
+| Matt | PM. |
+| Daedalus | PMM. |
+| Victor | Deal strategist. |
+| Orc | UI / shadcn. |
+| Colin | AI Video Systems Director. |
+| Omnara | Researcher. |
+| Holloway | Operations Lead. |
+| Lina | YT Growth. |
+| Forge | Coder. |
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
