@@ -31,11 +31,12 @@ Applied AI Software Engineering. MBA, in progress.
 
 ## Gabe's crew
 
-23 named agents under HyperBots 'company'.
+24 named agents under HyperBots 'company'.
 
 | Name | Role |
 |:--|:--|
 | Nova | Chief of Staff |
+| Ralph | Loops |
 | Scribe | Writer |
 | Odette | Design Lead |
 | Tom | YC Founder |
