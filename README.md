@@ -192,14 +192,6 @@ Also built the [Solana Vault Standard Extension](https://github.com/gabchess/sol
 
 I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
 
-<div align="center">
-
-<img src="assets/about-desktop.jpg" width="100%" alt="The About page on gabeonchain.com" />
-
-<sub>The full bio lives on <a href="https://gabeonchain.com">the site</a>.</sub>
-
-</div>
-
 ## Find me
 
 [gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
@@ -209,8 +201,6 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 <div align="center"><sub>The best systems I run live in the body, mind & soul ツ</sub></div>
 
 <div align="center">
-
-<img src="assets/signature.png" width="360" alt="Gabriel Abreu signature" />
 
 </div>
 
