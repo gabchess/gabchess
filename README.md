@@ -21,13 +21,11 @@ Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years working in marketing. The last five years I apply that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
-
-Octant: GTM Engineer & Socials.
+I'm Gabriel, aka Gabe. Fifteen years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
 
 Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
 
-9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector is open; 8 are private.
+9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
 Applied AI Software Engineering. MBA, in progress.
 
