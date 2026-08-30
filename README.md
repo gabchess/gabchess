@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/gabchess.png" width="140" alt="Gabriel Abreu" />
+<img src="assets/gtm-avatar.jpg" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer" />
 
 # Gabe
 
