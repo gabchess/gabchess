@@ -129,13 +129,3 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 ## Find me
 
 [gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
-
----
-
-</div>
-
-<div align="center">
-
-<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
-
-</div>
