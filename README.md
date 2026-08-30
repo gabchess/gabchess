@@ -21,7 +21,7 @@ Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-I'm Gabriel, aka Gabe. Fifteen years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
+I'm Gabriel, aka Gabe. 15 years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
 
 Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
 
@@ -37,72 +37,7 @@ Applied AI Software Engineering. MBA, in progress.
 
 </div>
 
-## Gabe's crew
-
-25 specialists under HyperBots, Nova as chief of staff routing every job to its owner.
-
-<div align="center">
-
-<img src="assets/rimuru-crew.jpg" width="440" alt="A leader and his crew of named specialists" />
-
-<sub>Every job has an owner. Every owner has a job.</sub>
-
-</div>
-
-**🧭 Orchestration**
-
-| Name | Role |
-|:--|:--|
-| Nova | Chief of staff, routes every job to its owner |
-| Julz | CMO, brand / positioning / taste |
-| Cally | Advisor |
-| Tom | YC Founder |
-
-**⚙️ Build**
-
-| Name | Role |
-|:--|:--|
-| Forge | Coder |
-| Egdod | Architect |
-| Dex | Data stores |
-| Harrier | Security / QA |
-| Evan | Automation architect |
-| Ralph | Loops |
-
-**📈 Growth**
-
-| Name | Role |
-|:--|:--|
-| Gideon | Prospecting strategist |
-| Victor | BD Lead |
-| Daedalus | PMM |
-| Lina | YT Growth |
-| Mira | Customer Success |
-| Omnara | Researcher |
-
-**🎨 Design**
-
-| Name | Role |
-|:--|:--|
-| Odette | Design Lead |
-| Orc | UI / shadcn |
-| Colin | AI Video Systems Director |
-| Gearnoccio | Garagecraft |
-
-**📣 Content**
-
-| Name | Role |
-|:--|:--|
-| Scribe | Writer |
-| Masthead | Technical Writer |
-| Marlowe | Brainstormer |
-
-**🗂️ Ops**
-
-| Name | Role |
-|:--|:--|
-| Holloway | Operations Lead |
-| Matt | PM |
+27 agents run the daily work. No names, just the count.
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
