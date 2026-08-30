@@ -62,14 +62,14 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| **ContentOS** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Private access: follow me and ask for an invite. |
-| **Dolly** | Built this homepage: scroll-driven cinematic sites, machine-verified to actually move before a build passes. | Private access: follow me and ask for an invite. |
-| **Harrier** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private access: follow me and ask for an invite. |
-| **Matt** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private access: follow me and ask for an invite. |
-| **Scribe** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | Private access: follow me and ask for an invite. |
-| **Foundry** | Designs apps, UX/UI, and websites through one taste engine, then renders each build in a real browser and iterates before a human looks. | Private access: follow me and ask for an invite. |
-| **Showrunner** | Turns any video ask into a routed production, then measures and watches the finished cut before a human looks. | Private access: follow me and ask for an invite. |
-| **Masthead** | Sends five researchers out on a topic, interviews me on what came back, and tunes the draft for search and AI engines before it reaches my desk. | Private access: follow me and ask for an invite. |
+| **Content ops** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Private access: follow me and ask for an invite. |
+| **Site builder** | Built this homepage: scroll-driven cinematic sites, machine-verified to actually move before a build passes. | Private access: follow me and ask for an invite. |
+| **Security auditor** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private access: follow me and ask for an invite. |
+| **Project planner** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private access: follow me and ask for an invite. |
+| **Writing gate** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | Private access: follow me and ask for an invite. |
+| **Design engine** | Designs apps, UX/UI, and websites through one taste engine, then renders each build in a real browser and iterates before a human looks. | Private access: follow me and ask for an invite. |
+| **Video pipeline** | Turns any video ask into a routed production, then measures and watches the finished cut before a human looks. | Private access: follow me and ask for an invite. |
+| **Research & SEO gate** | Sends five researchers out on a topic, interviews me on what came back, and tunes the draft for search and AI engines before it reaches my desk. | Private access: follow me and ask for an invite. |
 
 ## ⛓️ Solana & onchain
 
