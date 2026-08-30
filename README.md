@@ -23,13 +23,11 @@ GTM Engineer · Forward Deployed AI Engineer
 
 I'm Gabriel, aka Gabe. 15 years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
 
-Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript.
+Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript, all of it. 
 
-9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
+9 packaged AI systems with playbooks, hooks, tests, and a README a normie can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
 Applied AI Software Engineering, MBA.
-
-27 agents run the daily work. No names, just the count.
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
@@ -133,10 +131,6 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 [gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
 
 ---
-
-<div align="center"><sub>The best systems I run live in the body, mind & soul ツ</sub></div>
-
-<div align="center">
 
 </div>
 
