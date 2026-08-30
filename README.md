@@ -4,7 +4,7 @@
 
 # Gabe
 
-Rio de Janeiro · GTM Engineer · Forward Deployed AI Engineer
+GTM Engineer · Forward Deployed AI Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -27,15 +27,7 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI sys
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a stranger can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
-Applied AI Software Engineering. MBA, in progress.
-
-<div align="center">
-
-<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
-
-<sub>The GTM Engineer. <a href="assets/gtm-card.mp4">Watch the animated card</a>.</sub>
-
-</div>
+Applied AI Software Engineering, MBA.
 
 27 agents run the daily work. No names, just the count.
 
@@ -136,14 +128,6 @@ Also built the [Solana Vault Standard Extension](https://github.com/gabchess/sol
 
 I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
 
-<div align="center">
-
-<img src="assets/about-desktop.jpg" width="100%" alt="The About page on gabeonchain.com" />
-
-<sub>The full bio lives on <a href="https://gabeonchain.com">the site</a>.</sub>
-
-</div>
-
 ## Find me
 
 [gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
@@ -154,6 +138,10 @@ I write about GTM engineering, all things marketing, web3, proof, evals, and opi
 
 <div align="center">
 
-<img src="assets/signature.png" width="360" alt="Gabriel Abreu signature" />
+</div>
+
+<div align="center">
+
+<img src="assets/gtm-card-poster.jpg" width="280" alt="The GTM Engineer, a cinematic character card for Gabe" />
 
 </div>
