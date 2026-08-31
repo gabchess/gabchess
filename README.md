@@ -119,6 +119,8 @@ Security researcher, 2 bounties paid. Found a high-severity Anchor bug in LazyAc
 
 Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty. SVS-7 was the round's reviewer pick, then lost to a full-stack entry.
 
+Also built [mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145) for the Mermail x Superteam Earn agent-skill bounty (500 USDC pool): reads a DeFi email as untrusted data, drafts the risk read, then proposes at most one capped wallet action. 13 test scenarios cover the refusal paths; pull the wallet-write guard and `npm test` fails. Submitted, judged Oct 1.
+
 ## ✍️ Writing
 
 I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
