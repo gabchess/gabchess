@@ -23,7 +23,7 @@ GTM Engineer · Forward Deployed AI Engineer
 
 I'm Gabriel, aka Gabe. 15 years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
 
-Python, SQL, big data, RAG, embeddings, vector databases, MCP, AI agents, AI systems, AI harness, LangGraph, evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript, all of it. 
+Python, SQL, big data, RAG, embeddings, vector databases, MCP, agentic AI systems, AI harness, LangGraph, AI agent evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript, all of it. 
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a normie can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
