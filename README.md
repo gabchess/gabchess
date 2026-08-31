@@ -83,6 +83,7 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 | **[meteora-jup-sol-safety-monitor](https://github.com/gabchess/meteora-jup-sol-safety-monitor)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Read-only Meteora DLMM PnL and safety monitor with Telegram alerts. |
 | **[solguard](https://github.com/gabchess/solguard)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Warns Solana users before they get rugged: scores new pump.fun launches on deployer history, liquidity, mint authority, posts risk live. |
 | **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Gamified learning for Solana devs: browser editor, XP, onchain certificates, built for Superteam Brazil. |
+| **[mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145)** | ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Reads a DeFi email as untrusted data, explains the real yield mechanism, then proposes at most one capped wallet action for Mermail's PayBox to sign. |
 
 ## 🤖 Agents & AI tooling
 
@@ -118,8 +119,6 @@ Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz), a 
 Security researcher, 2 bounties paid. Found a high-severity Anchor bug in LazyAccount: `Lazy::size_of` mis-measured a `[T; N]` array, corrupting every field after it. [Writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1); upstream shipped [the same fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Also found a fund-lockup bug in Ern Protocol, approved through Immunefi. Other reports stay unpublished while under review, per program terms.
 
 Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty. SVS-7 was the round's reviewer pick, then lost to a full-stack entry.
-
-Also built [mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145) for the Mermail x Superteam Earn agent-skill bounty (500 USDC pool): reads a DeFi email as untrusted data, drafts the risk read, then proposes at most one capped wallet action. 13 test scenarios cover the refusal paths; pull the wallet-write guard and `npm test` fails. Submitted, judged Oct 1.
 
 ## ✍️ Writing
 
