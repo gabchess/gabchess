@@ -115,12 +115,9 @@ Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz), a 
 
 ## 🔍 Security research
 
-A high-severity bug in Anchor's LazyAccount code, v0.31.0 to v0.32.1. `Lazy::size_of` measured a `[T; N]` array by its first element times N. Every field after an unsized-type array loaded from the wrong byte offset, and `exit()` wrote the corruption back. [Writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1). Upstream shipped [the same fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Bounty paid.
+Security researcher, 2 bounties paid. Found a high-severity Anchor bug in LazyAccount: `Lazy::size_of` mis-measured a `[T; N]` array, corrupting every field after it. [Writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1); upstream shipped [the same fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Also found a fund-lockup bug in Ern Protocol, approved through Immunefi. Other reports stay unpublished while under review, per program terms.
 
 Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty. SVS-7 was the round's reviewer pick, then lost to a full-stack entry.
-
-> [!NOTE]
-> A fund-lockup path in Ern Protocol was also approved through Immunefi. Other reports are still under review. I don't publish details of an open or rejected report; due to program terms
 
 ## ✍️ Writing
 
