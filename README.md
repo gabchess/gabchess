@@ -27,7 +27,7 @@ Python, SQL, big data, RAG, embeddings, vector databases, MCP, agentic AI system
 
 9 packaged AI systems with playbooks, hooks, tests, and a README a normie can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
 
-Applied AI Software Engineering, MBA.
+4 MBAs, most recent in progress: Applied AI Software Engineering.
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
