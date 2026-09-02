@@ -21,13 +21,11 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-I'm Gabriel, aka Gabe. 15 years working in marketing. For the last five years, I've applied that taste as a GTM Engineer. I find what's slowing a team down and build the AI system that fixes it.
+Hii, I'm Gabe. For the past 15 years, I've been plotmaxxing somewhere between how it works and why it matters, working in marketing. For the last ~5 years, I've been applying all the learnings from my multiple marketer as a GTM Engineer & Forward Deployed AI Engineer.
 
-Python, SQL, big data, RAG, embeddings, vector databases, MCP, agentic AI systems, AI harness, LangGraph, AI agent evals, human-in-the-loop, prompt engineering, LLM APIs, TypeScript, JavaScript, all of it. 
+What that means is clear sentences demand human thought and taste, which I've developed throughout my marketing arc, to make your product and your code lovable and your systems clearer. That's what I've been doing lately: agent plumbing: finding whatever is slowing down and building AI systems that fix it.
 
-9 packaged AI systems with playbooks, hooks, tests, and a README a normie can follow. Prospector (B2B leads) is the only one open source for now; the rest are private/invite-only. Follow and DM for an invite. 
-
-4 MBAs, most recent in progress: Applied AI Software Engineering.
+My skill arsenal includes Python, SQL, big data, RAG, embeddings, vector databases, MCP, agentic AI systems, AI harness, LangGraph, AI agent evals, context engineering, prompt engineering, LLM APIs, TypeScript, JavaScript, and much more. 
 
 TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
