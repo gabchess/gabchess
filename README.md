@@ -42,7 +42,8 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[prospector](https://github.com/gabchess/prospector)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
+| **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
+| **[portfolio-manager](https://github.com/gabchess/portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Read-only portfolio intelligence augment: fixture-first PnL, Zerion API adapter, MCP tools, and no wallet execution. |
 
 ## 🧩 Augments
 
@@ -71,9 +72,9 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** ⭐ | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Onchain roles for Solana, grant roles not keys: 6 instructions, 21 tests, a documented threat model; Solana Foundation grant. |
-| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** ⭐ | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana, devnet with 39 Rust tests; [demo](https://youtu.be/2Vh6RPLNd-U). |
-| **[kageb](https://github.com/gabchess/kageb)** ⭐ | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Private intent pooling for Solana: four real orders in, one aggregate trade out. |
+| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Onchain roles for Solana, grant roles not keys: 6 instructions, 21 tests, a documented threat model; Solana Foundation grant. |
+| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana, devnet with 39 Rust tests; [demo](https://youtu.be/2Vh6RPLNd-U). |
+| **[kageb](https://github.com/gabchess/kageb)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Private intent pooling for Solana: four real orders in, one aggregate trade out. |
 | **[grimoire](https://github.com/gabchess/grimoire)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The Solana Transaction Doctor: paste a failed signature, get the root cause and fix in plain English, live demo. |
 | **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | ![Shell](https://img.shields.io/badge/-Shell-221e18?style=flat-square&logo=gnu-bash&logoColor=4EAA25) | Pre-deploy safety gate for Solana programs: 4 deterministic checks, blocks unsafe mainnet deploys, MIT licensed. |
 | **[patronus](https://github.com/gabchess/patronus)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Onchain-attested, runtime-scoped credentials for AI agents on Solana DeFi. |
