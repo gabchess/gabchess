@@ -35,15 +35,15 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **Tixmancer** <br/>`private · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Agent buys event tickets end to end: 402 offer, signed QR, one-time check-in, receipt on Base; 50 tests. |
-| **Maria** <br/>`private · milestone 1` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders reach on WhatsApp: forward anything suspicious, get a voice verdict in PT-BR. |
+| **Tixmancer** <br/>`private · iOS app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Agent buys event tickets end to end: 402 offer, signed QR, one-time check-in, receipt on Base; 50 tests. |
+| **Maria** <br/>`private · web app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders reach on WhatsApp: forward anything suspicious, get a voice verdict in PT-BR. |
 
 ## 🎯 GTM engineering
 
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
-| **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Read-only portfolio agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, and a DCA ask parsed into an approval-gated proposal; MCP server, 244 tests. |
+| **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
 ## 🧩 Augments
 
