@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gtm-avatar.jpg" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer" />
+<img src="assets/gtm-avatar.gif" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer (animated)" />
 
 # Gabe
 
@@ -31,21 +31,22 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 
 ---
 
-## 🔨 Building now
+## ⚡ Building now
 
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and work toward buying below market value. Today, it checks asking prices against your limit. |
 | **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
 
-## 🎯 GTM engineering
+## 🚀 GTM engineering
 
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
+| **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Release folder in, six review-ready launch assets plus a campaign plan out, every claim traced to source and gated by a human; private during the client trial, link goes live after delivery. |
 | **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
-## 🧩 Augments
+## 🧠 Augments
 
 An augment is a folder that teaches an AI assistant a whole job. In plain English, it is onboarding for an AI employee, plus guardrails that stop it from cutting corners, zipped so anyone can install it.
 
