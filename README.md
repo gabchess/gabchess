@@ -37,7 +37,6 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 |:--|:--|:--|
 | **Tixmancer** <br/>`private · iOS app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and buy below market value, powered by Base and agentic finance. |
 | **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
-| **Maria** <br/>`private · web app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders reach on WhatsApp: forward anything suspicious, get a voice verdict in PT-BR. |
 
 ## 🎯 GTM engineering
 
