@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gtm-avatar.jpg" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer" />
+<img src="assets/gtm-avatar.gif" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer (animated)" />
 
 # Gabe
 
@@ -43,7 +43,7 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
-| **[vista-launch-factory](https://github.com/gabchess/vista-launch-factory)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Release folder in, six review-ready launch assets plus a campaign plan out, every claim traced to source and gated by a human; private during the client trial. |
+| **vista-launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Release folder in, six review-ready launch assets plus a campaign plan out, every claim traced to source and gated by a human; private during the client trial, link goes live after delivery. |
 | **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
 ## 🧩 Augments
