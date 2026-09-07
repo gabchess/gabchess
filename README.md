@@ -21,13 +21,13 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hii, I'm Gabe. For the past 15 years, I've been plotmaxxing somewhere between how it works and why it matters, working in marketing. For the last ~5 years, I've been applying all the learnings from my multiple marketer as a GTM Engineer & Forward Deployed AI Engineer.
+Hi, I'm Gabe. For 15 years, I've worked in marketing at the point where how a product works meets why it matters. Over the last five, I've brought that perspective to GTM engineering and applied AI.
 
-What that means is clear sentences demand human thought and taste, which I've developed throughout my marketing arc, to make your product and your code lovable and your systems clearer. That's what I've been doing lately: agent plumbing: finding whatever is slowing down and building AI systems that fix it.
+That means I care about clear sentences, good product taste, and systems people can use. Lately, I've been doing agent plumbing: finding what slows a team down and building the AI systems that fix it.
 
-My skill arsenal includes Python, SQL, big data, RAG, embeddings, vector databases, MCP, agentic AI systems, AI harness, LangGraph, AI agent evals, context engineering, prompt engineering, LLM APIs, TypeScript, JavaScript, and much more. 
+My working set includes Python, SQL, RAG, embeddings, vector databases, MCP, agentic systems, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
-TL;DR & more deets on how I think about work and all things AI in [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
+How I think about work and AI: [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
 ---
 
@@ -35,8 +35,8 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **Tixmancer** <br/>`private · iOS app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and buy below market value, powered by Base and agentic finance. |
-| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
+| **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and work toward buying below market value. Today, it checks asking prices against your limit. |
+| **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
 
 ## 🎯 GTM engineering
 
@@ -47,15 +47,15 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 ## 🧩 Augments
 
-An augment is a folder that teaches an AI assistant a whole job. Plain english: onboarding docs for an AI employee, plus the guardrails that stop it from cutting corners, zipped so anyone can install it.
+An augment is a folder that teaches an AI assistant a whole job. In plain English, it is onboarding for an AI employee, plus guardrails that stop it from cutting corners, zipped so anyone can install it.
 
 Every augment here is three parts:
 
 &rarr; **Skills** = the SOPs. Step-by-step playbooks the AI follows for each task.<br>
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
-&rarr; **README** = the manual. A stranger installs and runs the whole thing w/o me in the room.
+&rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
 
-These are private rn, no links. Ask me. Prospector up in the GTM section is the open one; fork it.
+These are private for now. Ask me for access. Prospector is the open one. Fork it.
 
 | Augment | What it does | Access |
 |:--|:--|:--|
