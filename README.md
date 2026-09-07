@@ -35,7 +35,7 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[Tixmancer](https://tixmancer.xyz)** <br/>`web demo · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Shopping for a used camera? Paste a marketplace alert to compare its asking price with your limit, down to the cent. Permissioned buying on Base is planned. |
+| **[Tixmancer](https://tixmancer.xyz)** <br/>`web demo · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Meet Tix, your garage sale flipper in the making. Try the price check; deal discovery and permissioned buying on Base are next. |
 | **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Hedwig gives Solana apps a shared, revocable role record for software agents. |
 | **Maria** <br/>`private · web app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders reach on WhatsApp: forward anything suspicious, get a voice verdict in PT-BR. |
 
