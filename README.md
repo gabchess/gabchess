@@ -35,7 +35,8 @@ TL;DR & more deets on how I think about work and all things AI in [this video](h
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **Tixmancer** <br/>`private · iOS app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Agent buys event tickets end to end: 402 offer, signed QR, one-time check-in, receipt on Base; 50 tests. |
+| **[Tixmancer](https://tixmancer.xyz)** <br/>`web demo · main focus` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Shopping for a used camera? Paste a marketplace alert to compare its asking price with your limit, down to the cent. Permissioned buying on Base is planned. |
+| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Hedwig gives Solana apps a shared, revocable role record for software agents. |
 | **Maria** <br/>`private · web app` | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Scam-checker Brazilian elders reach on WhatsApp: forward anything suspicious, get a voice verdict in PT-BR. |
 
 ## 🎯 GTM engineering
@@ -72,7 +73,6 @@ These are private rn, no links. Ask me. Prospector up in the GTM section is the 
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[hedwig-sol](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Hedwig gives Solana apps a shared, revocable role record for software agents. |
 | **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana, devnet with 39 Rust tests; [demo](https://youtu.be/2Vh6RPLNd-U). |
 | **[kageb](https://github.com/gabchess/kageb)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Private intent pooling for Solana: four real orders in, one aggregate trade out. |
 | **[grimoire](https://github.com/gabchess/grimoire)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The Solana Transaction Doctor: paste a failed signature, get the root cause and fix in plain English, live demo. |
