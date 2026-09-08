@@ -21,7 +21,7 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. For 15 years, I've worked in marketing at the point where how a product works meets why it matters. Over the last five, I've brought that perspective to GTM engineering and applied AI.
+Hi, I'm Gabe. For 15 years, I've worked in marketing at the point where how a product works meets why it matters. Over the last five years, I've brought that perspective to GTM engineering and applied AI.
 
 That means I care about clear sentences, good product taste, and systems people can use. Lately, I've been doing agent plumbing: finding what slows a team down and building the AI systems that fix it.
 
@@ -48,19 +48,19 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 
 ## ◆ Custom Designed AI Harness
 
-A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialists, one routing layer, deterministic gates that block a bad ship before it leaves the machine.
+A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialist agents, one routing layer, deterministic gates that block a bad ship before it leaves the machine.
 
-Most agent stacks are one generalist taking orders, one prompt at a time. This is an operating layer I engineered instead: context budgeted per seat, routing tested like code, verification mechanized rather than trusted.
+This is an operating layer I engineered with context budgeted per seat, routing tested like code, verification gates, and amazing skills, hooks, etc. 
 
-&rarr; **Router, not menu.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
-&rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push-owner. Nothing publishes, sends, or spends without a human.<br>
-&rarr; **Verification as code.** Hash manifests diff source against installed runtime, trigger-eval suites gate routing changes, CI catches drift before merge.
+&rarr; **Router.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
+&rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push human owner.<br>
+&rarr; **Verification as code.** Hash manifests diff source against the installed runtime, trigger eval suites to gate routing changes, and CI catches drift before merge.
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| **HyperBots** | 32 specialists across planning, code, review, security, copy, SEO, and research; every incident becomes a mechanical rule, so the same bug cannot ship twice. | Private, invite only. |
+| **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research; every incident becomes a mechanical rule, so the same bug cannot ship twice. | Private, invite-only. |
 
-The bought kits stop at the code. This one runs first commit to launch day: the same crew builds the feature, gates the ship, writes the launch copy, and tracks whether AI engines cite it.
+The same crew builds the feature, gates the ship, writes the launch copy, and tracks whether AI engines cite it.
 
 ## ▣ Augments
 
@@ -76,15 +76,15 @@ Three augments, each one shipped real work before it earned a row:
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built my [website](https://gabeonchain.com) with this augment: brief in, scroll-driven cinematic 3D site out, every build Playwright-verified to actually move before it passes. | Private for now, invite only. |
-| **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite only. |
-| **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and in AI answers; proof of work: [Gabriel Paz's studio site](https://ateliergabrielpaz.vercel.app/), built and SEO-run by this lane, now waitlisting students who find him through search. | Private for now, invite only. |
+| **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built my [website](https://gabeonchain.com) with this augment: brief in, scroll-driven cinematic 3D website, every build Playwright-verified to actually move before it passes. | Private for now, invite-only. |
+| **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite-only. |
+| **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and in AI answers; proof of work: [Gabriel Paz's studio site](https://ateliergabrielpaz.vercel.app/), built and SEO-run by this lane, now waitlisting students who find him through search. | Private for now, invite-only. |
 
 ## ⬡ Solana & onchain
 
 | Project | Lang | What it does |
 |:--|:--|:--|
-| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana, devnet with 39 Rust tests; [demo](https://youtu.be/2Vh6RPLNd-U). |
+| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Proof-settled World Cup prediction markets on Solana devnet; [demo](https://youtu.be/2Vh6RPLNd-U). |
 | **[kageb](https://github.com/gabchess/kageb)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Private intent pooling for Solana: four real orders in, one aggregate trade out. |
 | **[grimoire](https://github.com/gabchess/grimoire)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | The Solana Transaction Doctor: paste a failed signature, get the root cause and fix in plain English, live demo. |
 | **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | ![Shell](https://img.shields.io/badge/-Shell-221e18?style=flat-square&logo=gnu-bash&logoColor=4EAA25) | Pre-deploy safety gate for Solana programs: 4 deterministic checks, blocks unsafe mainnet deploys, MIT licensed. |
@@ -124,9 +124,9 @@ Three augments, each one shipped real work before it earned a row:
 
 ## ▲ Security research
 
-Security researcher, 4 bounties paid. A high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol via Immunefi, and two Quantus findings via Immunefi: guardian enrollment without consent in `set_high_security`, and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms.
+Security researcher, 4 bounties paid. A high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol, and two Quantus findings: guardian enrollment without consent in `set_high_security`, and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms.
 
-Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty.
+Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
 
 ## ✎ Writing
 
