@@ -31,22 +31,22 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 
 ---
 
-## ⚡ Building now
+## ✦ Building now
 
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and work toward buying below market value. Today, it checks asking prices against your limit. |
 | **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
 
-## 🚀 GTM engineering
+## ▸ GTM engineering
 
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
-| **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Release folder in, six review-ready launch assets plus a campaign plan out, every claim traced to source and gated by a human; private during the client trial, link goes live after delivery. |
+| **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Release folder in, launch package out: six assets plus a campaign plan, claims source-traced, human-gated; private for now. |
 | **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
-## 🧠 Augments
+## ◆ Augments
 
 An augment is a folder that teaches an AI assistant a whole job. In plain English, it is onboarding for an AI employee, plus guardrails that stop it from cutting corners, zipped so anyone can install it.
 
@@ -69,7 +69,7 @@ These are private for now. Ask me for access. Prospector is the open one. Fork i
 | **Video pipeline** | Turns any video ask into a routed production, then measures and watches the finished cut before a human looks. | Private access: follow me and ask for an invite. |
 | **Research & SEO gate** | Sends five researchers out on a topic, interviews me on what came back, and tunes the draft for search and AI engines before it reaches my desk. | Private access: follow me and ask for an invite. |
 
-## ⛓️ Solana & onchain
+## ⬡ Solana & onchain
 
 | Project | Lang | What it does |
 |:--|:--|:--|
@@ -84,7 +84,7 @@ These are private for now. Ask me for access. Prospector is the open one. Fork i
 | **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Gamified learning for Solana devs: browser editor, XP, onchain certificates, built for Superteam Brazil. |
 | **[mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145)** | ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Reads a DeFi email as untrusted data, explains the real yield mechanism, then proposes at most one capped wallet action for Mermail's PayBox to sign. |
 
-## 🤖 Agents & AI tooling
+## ✳ Agents & AI tooling
 
 | Project | Lang | What it does |
 |:--|:--|:--|
@@ -95,14 +95,14 @@ These are private for now. Ask me for access. Prospector is the open one. Fork i
 | **[agenthub](https://github.com/gabchess/agenthub)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Monad-native AI agent orchestration platform. |
 | **[hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme)** | ![YAML](https://img.shields.io/badge/-YAML-221e18?style=flat-square&logo=yaml&logoColor=cb171e) | Black and white dashboard theme for the Hermes agent: green for success, red for errors, nothing else. |
 
-## 🔗 EVM & multichain
+## ◇ EVM & multichain
 
 | Project | Lang | What it does |
 |:--|:--|:--|
 | **[walletbrief-monad](https://github.com/gabchess/walletbrief-monad)** | ![Solidity](https://img.shields.io/badge/-Solidity-221e18?style=flat-square&logo=solidity&logoColor=c0c0c0) | Persistent Monad wallet briefs with human-approved, revoke-only EIP-7702 execution. |
 | **[yieldpilot](https://github.com/gabchess/yieldpilot)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | AI copilot for cross-chain yield optimization, built for the Chainlink Convergence Hackathon 2026. |
 
-## 📊 Data & analysis
+## ▤ Data & analysis
 
 | Project | Lang | What it does |
 |:--|:--|:--|
@@ -113,13 +113,13 @@ These are private for now. Ask me for access. Prospector is the open one. Fork i
 
 Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz), a landing page for my friend Gabriel Paz, a painter in Botafogo, Rio. No website before; hand-written HTML, no build step.
 
-## 🔍 Security research
+## ▲ Security research
 
 Security researcher, 2 bounties paid. Found a high-severity Anchor bug in LazyAccount: `Lazy::size_of` mis-measured a `[T; N]` array, corrupting every field after it. [Writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1); upstream shipped [the same fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Also found a fund-lockup bug in Ern Protocol, approved through Immunefi. Other reports stay unpublished while under review, per program terms.
 
 Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty. SVS-7 was the round's reviewer pick, then lost to a full-stack entry.
 
-## ✍️ Writing
+## ✎ Writing
 
 I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
 
