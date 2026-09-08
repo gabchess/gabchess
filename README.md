@@ -35,8 +35,8 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 
 | Project | Stack | What it does |
 |:--|:--|:--|
-| **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | Building an AI agent to find overlooked secondhand items and work toward buying below market value. Today, it checks asking prices against your limit. |
-| **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps. Each app authenticates its users or agents and checks their access onchain. |
+| **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | AI agent that finds overlooked secondhand items and checks asking prices against your limit, working toward buying below market value. |
+| **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps: each app authenticates its users or agents and checks their access onchain. |
 
 ## ▸ GTM engineering
 
@@ -46,7 +46,23 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 | **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Release folder in, launch package out: six assets plus a campaign plan, claims source-traced, human-gated; private for now. |
 | **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
-## ◆ Augments
+## ◆ AI Harness
+
+One harness runs my whole operation: **HyperBots**. 31 named agents, one router, gates that block a bad ship before it leaves the machine.
+
+Most agent stacks are one generalist taking orders, one prompt at a time. HyperBots is a company instead. Every seat has a name, a written lane, and a reviewer that never lets a builder grade its own work.
+
+&rarr; **A router, not a menu.** Tell Nova the outcome; the right specialist takes it from there. Ties are pre-judged ("is the protocol sound: Vitalik. does the agent transact safely on it: Ali").<br>
+&rarr; **Gates, not good intentions.** A pre-ship review gate blocks every push mechanically until a reviewer signs the exact commit. One seat holds push rights. No agent publishes, sends, or spends.<br>
+&rarr; **Verification as code.** Hash manifests diff the repo against the installed runtime on every sync, trigger-eval suites gate routing changes, and CI catches drift before merge.
+
+| Harness | What it does | Access |
+|:--|:--|:--|
+| **HyperBots** | 31 agents behind one router covering planning, code, review, security, copy, SEO, and research; 5 dated incidents in WHAT-BROKE.md each became a mechanical rule, so the same bug cannot ship twice. | Private, invite only. |
+
+The bought kits stop at the code. This one runs from first commit to launch day: the same crew writes the feature, reviews it, gates the ship, then writes the launch copy and tracks whether AI engines cite it.
+
+## ▣ Augments
 
 An augment is a folder that teaches an AI assistant a whole job. In plain English, it is onboarding for an AI employee, plus guardrails that stop it from cutting corners, zipped so anyone can install it.
 
@@ -56,18 +72,13 @@ Every augment here is three parts:
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
 
-These are private for now. Ask me for access. Prospector is the open one. Fork it.
+Three augments, each one shipped real work before it earned a row:
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| **Content ops** | 43 playbooks and a 770-chunk voice corpus behind one front door, running my content operation daily, searchable offline. | Private access: follow me and ask for an invite. |
-| **Site builder** | Built this homepage: scroll-driven cinematic sites, machine-verified to actually move before a build passes. | Private access: follow me and ask for an invite. |
-| **Security auditor** | Hunts smart-contract and web bounties on Immunefi, Cantina, and Sherlock, and audits my own repos, every finding proven before it counts. | Private access: follow me and ask for an invite. |
-| **Project planner** | Plans before code exists, delegates each task, never lets a builder verify its own work, ships only after I pass a quiz on what changed. | Private access: follow me and ask for an invite. |
-| **Writing gate** | Decides who types each sentence, me or the machine, before any draft starts; a paired reviewer critiques, never rewrites. | Private access: follow me and ask for an invite. |
-| **Design engine** | Designs apps, UX/UI, and websites through one taste engine, then renders each build in a real browser and iterates before a human looks. | Private access: follow me and ask for an invite. |
-| **Video pipeline** | Turns any video ask into a routed production, then measures and watches the finished cut before a human looks. | Private access: follow me and ask for an invite. |
-| **Research & SEO gate** | Sends five researchers out on a topic, interviews me on what came back, and tunes the draft for search and AI engines before it reaches my desk. | Private access: follow me and ask for an invite. |
+| **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built my [website](https://gabeonchain.com) with this augment: brief in, scroll-driven cinematic 3D site out, every build Playwright-verified to actually move before it passes. | Private for now, invite only. |
+| **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite only. |
+| **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and in AI answers; proof of work: [Gabriel Paz's studio site](https://ateliergabrielpaz.vercel.app/), built and SEO-run by this lane, now waitlisting students who find him through search. | Private for now, invite only. |
 
 ## ⬡ Solana & onchain
 
