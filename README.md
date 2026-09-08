@@ -46,21 +46,21 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 | **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Release folder in, launch package out: six assets plus a campaign plan, claims source-traced, human-gated; private for now. |
 | **[scout-portfolio-manager](https://github.com/gabchess/scout-portfolio-manager)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
-## ◆ AI Harness
+## ◆ Custom Designed AI Harness
 
-One harness runs my whole operation: **HyperBots**. 31 named agents, one router, gates that block a bad ship before it leaves the machine.
+A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialists, one routing layer, deterministic gates that block a bad ship before it leaves the machine.
 
-Most agent stacks are one generalist taking orders, one prompt at a time. HyperBots is a company instead. Every seat has a name, a written lane, and a reviewer that never lets a builder grade its own work.
+Most agent stacks are one generalist taking orders, one prompt at a time. This is an operating layer I engineered instead: context budgeted per seat, routing tested like code, verification mechanized rather than trusted.
 
-&rarr; **A router, not a menu.** Tell Nova the outcome; the right specialist takes it from there. Ties are pre-judged ("is the protocol sound: Vitalik. does the agent transact safely on it: Ali").<br>
-&rarr; **Gates, not good intentions.** A pre-ship review gate blocks every push mechanically until a reviewer signs the exact commit. One seat holds push rights. No agent publishes, sends, or spends.<br>
-&rarr; **Verification as code.** Hash manifests diff the repo against the installed runtime on every sync, trigger-eval suites gate routing changes, and CI catches drift before merge.
+&rarr; **Router, not menu.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
+&rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push-owner. Nothing publishes, sends, or spends without a human.<br>
+&rarr; **Verification as code.** Hash manifests diff source against installed runtime, trigger-eval suites gate routing changes, CI catches drift before merge.
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| **HyperBots** | 31 agents behind one router covering planning, code, review, security, copy, SEO, and research; 5 dated incidents in WHAT-BROKE.md each became a mechanical rule, so the same bug cannot ship twice. | Private, invite only. |
+| **HyperBots** | 32 specialists across planning, code, review, security, copy, SEO, and research; every incident becomes a mechanical rule, so the same bug cannot ship twice. | Private, invite only. |
 
-The bought kits stop at the code. This one runs from first commit to launch day: the same crew writes the feature, reviews it, gates the ship, then writes the launch copy and tracks whether AI engines cite it.
+The bought kits stop at the code. This one runs first commit to launch day: the same crew builds the feature, gates the ship, writes the launch copy, and tracks whether AI engines cite it.
 
 ## ▣ Augments
 
@@ -122,13 +122,11 @@ Three augments, each one shipped real work before it earned a row:
 | **[solana-narrative-tracker](https://github.com/gabchess/solana-narrative-tracker)** | ![JS](https://img.shields.io/badge/-JavaScript-221e18?style=flat-square&logo=javascript&logoColor=F7DF1E) | Spots emerging Solana narratives early: tracks 20+ KOLs and dozens of repos, ships build ideas every fortnight. |
 | **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) | Scans DeFi TVL for what looks wrong: zeroed, -50% in a day, +300% spike, or flat 60 days, catching broken adapters and depegs. |
 
-Also: [atelier-gabriel-paz](https://github.com/gabchess/atelier-gabriel-paz), a landing page for my friend Gabriel Paz, a painter in Botafogo, Rio. No website before; hand-written HTML, no build step.
-
 ## ▲ Security research
 
-Security researcher, 2 bounties paid. Found a high-severity Anchor bug in LazyAccount: `Lazy::size_of` mis-measured a `[T; N]` array, corrupting every field after it. [Writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1); upstream shipped [the same fix](https://github.com/otter-sec/anchor/pull/4319) five weeks later. Also found a fund-lockup bug in Ern Protocol, approved through Immunefi. Other reports stay unpublished while under review, per program terms.
+Security researcher, 4 bounties paid. A high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol via Immunefi, and two Quantus findings via Immunefi: guardian enrollment without consent in `set_high_security`, and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms.
 
-Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty. SVS-7 was the round's reviewer pick, then lost to a full-stack entry.
+Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam Brazil bounty.
 
 ## ✎ Writing
 
