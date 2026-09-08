@@ -84,7 +84,7 @@ These are private for now. Ask me for access. Prospector is the open one. Fork i
 | **[superteam-academy](https://github.com/gabchess/superteam-academy)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) | Gamified learning for Solana devs: browser editor, XP, onchain certificates, built for Superteam Brazil. |
 | **[mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145)** | ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Reads a DeFi email as untrusted data, explains the real yield mechanism, then proposes at most one capped wallet action for Mermail's PayBox to sign. |
 
-## ✳ Agents & AI tooling
+## ◈ Agents & AI tooling
 
 | Project | Lang | What it does |
 |:--|:--|:--|
