@@ -43,7 +43,7 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 | Project | Stack | What it does |
 |:--|:--|:--|
 | **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Forkable outbound lead pipeline: two scrapers, Clay enrichment, ICP gates, human approval; ran 100 leads in 48 hours for $4. |
-| **launch-factory** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Release folder in, launch package out: six assets plus a campaign plan, claims source-traced, human-gated; private for now. |
+| **[launch-factory](https://github.com/gabchess/launch-factory)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Release folder in, six launch assets plus a campaign calendar out: video, blog, emails, changelog, animation, popup; every claim quotes its source and waits on a human. |
 | **[scout-onchain](https://github.com/gabchess/scout-onchain)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | AI agent on the Zerion API: explainable PnL, technical analysis, DCA windows/alerts, etc. |
 
 ## ◆ Custom Designed AI Harness
