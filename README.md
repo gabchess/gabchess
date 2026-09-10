@@ -4,7 +4,7 @@
 
 # Gabe
 
-GTM Engineer · Forward Deployed AI Engineer
+GTM Engineer · Forward-Deployed AI Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -21,9 +21,11 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I'm a GTM Engineer: I build AI systems that do go-to-market work. 15+ years in marketing is the vertical knowledge behind every one of them, and for roughly the last 5 years I've worked as a forward-deployed AI engineer: embedded with the team, shipping the system.
+Hi, I'm Gabe. I'm a GTM Engineer: I build automated revenue systems, AI agents that do go-to-market work. 15+ years in marketing is the vertical knowledge behind every one of them, and for roughly the last 5 years I've worked as a forward-deployed AI engineer: embedded with the team, owning the system from discovery to production rollout.
 
-That means I care about clear sentences and good product taste. I build systems people can use. Lately, I've been finding what slows a team down and building the AI systems that fix it.
+I work the whole customer journey: collect the data from first touchpoint through demo calls to churn signals, then ship the systems that turn it into a single prospect-to-customer pipeline.
+
+I care about clear sentences and good product taste. I build systems people can use.
 
 My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
