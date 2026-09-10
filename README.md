@@ -21,9 +21,9 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I'm a GTM Engineer: I build AI systems that do go-to-market work. Fifteen years in marketing is the vertical knowledge behind every one of them, and for the last five years I've worked as a forward-deployed AI engineer: embedded with the team, shipping the system, not just advising on it.
+Hi, I'm Gabe. I am a GTM Engineer + FDE with 15+ years of experience in (all things marketing) as the vertical knowledge, and ~5 years of experience with applied AI, shipping & maintaining production-ready systems. 
 
-That means I care about clear sentences, good product taste, and systems people can use. Lately, I've been doing agent plumbing: finding what slows a team down and building the AI systems that fix it.
+I value clear language, sound design, and safe systems. Recently, I have been focused on ‘agent plumbing’, which means identifying bottlenecks in teams and building corresponding AI systems to polish them.
 
 My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and all the APIs around them.
 
