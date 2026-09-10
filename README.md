@@ -21,11 +21,11 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I am a GTM Engineer + FDE with 15+ years of experience in (all things marketing) as the vertical knowledge, and ~5 years of experience with applied AI, shipping & maintaining production-ready systems. 
+Hi, I'm Gabe. I'm a GTM Engineer: I build AI systems that do go-to-market work. 15+ years in marketing is the vertical knowledge behind every one of them, and for roughly the last 5 years I've worked as a forward-deployed AI engineer: embedded with the team, shipping the system.
 
-I value clear language, sound design, and safe systems. Recently, I have been focused on ‘agent plumbing’, which means identifying bottlenecks in teams and building corresponding AI systems to polish them.
+That means I care about clear sentences and good product taste. I build systems people can use. Lately, I've been finding what slows a team down and building the AI systems that fix it.
 
-My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and all the APIs around them.
+My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
 How I think about work and AI: [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
@@ -54,38 +54,38 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 
 ## ◆ Custom Designed AI Harness
 
-A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialist agents, one routing layer, deterministic gates that block a bad ship before it leaves the machine.
+A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialist agents run through one routing layer. Deterministic gates block a bad release before it deploys.
 
-This is an operating layer with context budgeted per seat, routing tested like code, verification gates, and a skills-and-hooks system that enforces its own rules.
+This is an operating layer with context budgeted per seat, routing covered by automated tests, verification gates, and a skills-and-hooks system that enforces its own rules.
 
 &rarr; **Router.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
 &rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push human owner.<br>
-&rarr; **Verification as code.** Hash manifests diff source against the installed runtime, trigger eval suites to gate routing changes, and CI catches drift before merge.
+&rarr; **Verification as code.** Hash manifests diff source against the installed runtime and trigger eval suites to gate routing changes. CI catches drift before merge.
 
 | Harness | What it does | Access |
 |:--|:--|:--|
 | **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research; each incident becomes a rule so the same bug never ships twice. | Private, invite-only. |
 
-The same crew builds the feature, gates the ship, writes the launch copy, and tracks whether AI engines cite it.
+The same crew builds the feature and gates the ship. It also writes the launch copy and tracks whether AI engines cite it.
 
 ## ▣ Augments
 
-An augment is a folder that teaches an AI assistant a whole job. In plain English, it is onboarding for an AI employee, plus guardrails that stop it from cutting corners, zipped so anyone can install it.
+An augment is a folder that teaches an AI assistant a whole job. It is onboarding for an AI employee, plus guardrails that stop it from skipping steps, zipped so anyone can install it.
 
 Every augment here is three parts:
 
 &rarr; **Skills** = the SOPs. Step-by-step playbooks the AI follows for each task.<br>
-&rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
+&rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
 
-Four augments, each one shipped real work before it earned a row:
+Four augments, each one shipped real work before it was listed:
 
 | Augment | What it does | Access |
 |:--|:--|:--|
 | **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built [my site](https://gabeonchain.com) with this augment: cinematic 3D scroll site, Playwright-verified to move before it ships. | Private for now, invite-only. |
 | **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite-only. |
 | **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and AI answers; live example: [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private for now, invite-only. |
-| **[Gabe Factory](https://github.com/gabchess/gabe-factory)** | One topic in, three channel drafts out: X, LinkedIn, long-form; every claim traces to a source, nothing posts without my hand. | Private for now, invite-only. |
+| **[Gabe Factory](https://github.com/gabchess/gabe-factory)** | One topic in, three channel drafts out: X, LinkedIn, long-form; every claim traces to a source, nothing posts without my approval. | Private for now, invite-only. |
 
 ## ○ Also built
 
@@ -94,7 +94,7 @@ Four augments, each one shipped real work before it earned a row:
 | **[silvia](https://github.com/gabchess/silvia)** | Food-ordering assistant for older adults: chat instead of learning an app; 50+ completed orders. |
 | **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | Pre-deploy safety gate for Solana programs: 4 deterministic checks block unsafe mainnet deploys, MIT licensed. |
 | **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | Scans DeFi TVL for zeroed pools, -50% single-day drops, +300% spikes, and 60-day flatlines, catching broken adapters and depegs. |
-| **[grimoire](https://github.com/gabchess/grimoire)** | The Solana Transaction Doctor: paste a failed signature, get the root cause and fix in plain English, live demo. |
+| **[grimoire](https://github.com/gabchess/grimoire)** | Diagnoses failed Solana transactions: paste a failed signature, get the root cause and fix in plain English, live demo. |
 | **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | Proof-settled World Cup prediction markets on Solana devnet, [demo](https://youtu.be/2Vh6RPLNd-U). |
 | **[superteam-academy](https://github.com/gabchess/superteam-academy)** | Gamified Solana dev learning built for Superteam Brazil: browser editor, XP, onchain certificates. |
 
