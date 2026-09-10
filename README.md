@@ -72,13 +72,14 @@ Every augment here is three parts:
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule, instead of trusting it to remember.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
 
-Three augments, each one shipped real work before it earned a row:
+Four augments, each one shipped real work before it earned a row:
 
 | Augment | What it does | Access |
 |:--|:--|:--|
 | **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built my [website](https://gabeonchain.com) with this augment: brief in, scroll-driven cinematic 3D website, every build Playwright-verified to actually move before it passes. | Private for now, invite-only. |
 | **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite-only. |
 | **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and in AI answers; proof of work: [Gabriel Paz's studio site](https://ateliergabrielpaz.vercel.app/), built and SEO-run by this lane, now waitlisting students who find him through search. | Private for now, invite-only. |
+| **[Gabe Factory](https://github.com/gabchess/gabe-factory)** | One topic in, three channel drafts out: X, LinkedIn, and long-form in my measured voice; every claim traces to a source and nothing posts without my hand. | Private for now, invite-only. |
 
 ## ⬡ Solana & onchain
 
