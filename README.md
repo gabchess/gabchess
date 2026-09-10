@@ -50,7 +50,7 @@ How I think about work and AI: [this video](https://x.com/gabe_onchain/status/20
 | [**gtm-objections-to-content**](https://github.com/gabchess/gtm-objections-to-content) | MIT, open source | Turns 5 call transcripts into 12 tagged objections across 5 categories and a 2-week content calendar; refuses to invent objections from happy calls. |
 | [**gtm-campaign-launcher**](https://github.com/gabchess/gtm-campaign-launcher) | MIT, open source | Preflight passes 19 of 20 contacts and blocks a broken campaign on 3 named issues, emitting zero configs on failure. |
 | [**gtm-content-repurposer**](https://github.com/gabchess/gtm-content-repurposer) | MIT, open source | Indexes 18 posts and ranks the closest match by BM25 score (11.46 on a real query), refusing to force a match on an off-topic one. |
-| [**gtm-campaign-analyzer**](https://github.com/gabchess/gtm-campaign-analyzer) | MIT, open source | Reads reply rates across variants (B 40% vs C 10%, a 2.14x spread), flags the winner, and refuses to call one on a small-sample week. |
+| [**gtm-campaign-analyzer**](https://github.com/gabchess/gtm-campaign-analyzer) | MIT, open source | Reads reply rates across variants (B 40% vs A 20% vs C 10%), flags the winning segment combo (62.5% against a 29.2% tier average, 2.14x), and refuses to call a winner on a small-sample week. |
 
 ## ◆ Custom Designed AI Harness
 
