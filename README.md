@@ -21,11 +21,11 @@ GTM Engineer · Forward Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I'm a GTM Engineer: I build AI systems that do go-to-market work. Fifteen years in marketing is the vertical knowledge behind every one of them, and for the last five years I've worked as a forward-deployed AI engineer: embedded with the team, shipping the system.
+Hi, I'm Gabe. I'm a GTM Engineer: I build AI systems that do go-to-market work. 15+ years in marketing is the vertical knowledge behind every one of them, and for roughly the last 5 years I've worked as a forward-deployed AI engineer: embedded with the team, shipping the system.
 
 That means I care about clear sentences and good product taste. I build systems people can use. Lately, I've been finding what slows a team down and building the AI systems that fix it.
 
-My working set includes Python, SQL, RAG, embeddings, vector databases, MCP, agentic systems, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
+My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
 How I think about work and AI: [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
