@@ -4,7 +4,7 @@
 
 # Gabe
 
-GTM Engineer · Forward-Deployed AI Engineer
+Marketing Engineer · Forward-Deployed AI Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
