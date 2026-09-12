@@ -21,11 +21,11 @@ GTM Engineer · Forward-Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I'm a GTM Engineer: I build automated revenue systems, AI agents that do go-to-market work. 15+ years in marketing is the vertical knowledge behind every one of them, and for roughly the last 5 years I've worked as a forward-deployed AI engineer: embedded with the team, owning the system from discovery to production rollout.
+Hi, I'm Gabe. I build AI tools for marketing teams.
 
-I work the whole customer journey: collect the data from first touchpoint through demo calls to churn signals, then ship the systems that turn it into a single prospect-to-customer pipeline.
+Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences. Ghostwriting meant learning how someone else thinks before writing a word for them.
 
-I care about clear sentences and good product taste. I build systems people can use.
+For the past five years, I've applied that judgment to GTM engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
 
 My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
@@ -110,7 +110,7 @@ Also built the [Solana Vault Standard Extension](https://github.com/gabchess/sol
 
 ## ✎ Writing
 
-I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/#writing).
+I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/blog.html).
 
 ## Find me
 
