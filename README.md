@@ -104,9 +104,7 @@ Also shipped: [kageb](https://github.com/gabchess/kageb) · [patronus](https://g
 
 ## ▲ Security research
 
-Security researcher, 4 bounties paid: a high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol, and two Quantus findings, guardian enrollment without consent in `set_high_security` and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms.
-
-Also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
+Security researcher, 4 bounties paid: a high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol, and two Quantus findings, guardian enrollment without consent in `set_high_security` and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms +++ also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
 
 ## ✎ Writing
 
