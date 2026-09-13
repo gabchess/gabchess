@@ -21,15 +21,15 @@ Marketing Engineer · Forward-Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I build AI harnesses, tools, agents & systems. 
+Hi, I'm Gabe. I build AI apps, harnesses, tools, agents & systems. 
 
-Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences. Ghostwriting meant learning how someone else thinks before writing a word for them.
+Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences and writing for others. Ghostwriting meant learning how someone else thinks before writing a word for them.
 
-For the past five years, I've applied that judgment to GTM engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
+For the past five years, I've applied that judgment to all things related to market engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
 
 My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
-How I think about work and AI: [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
+Learn more on how I think about work and AI: [this video](https://x.com/gabe_onchain/status/2090524446826082779), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
 ---
 
