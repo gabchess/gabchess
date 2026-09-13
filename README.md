@@ -39,7 +39,7 @@ Learn more on how I think about work and AI: [this video](https://x.com/gabe_onc
 |:--|:--|:--|
 | **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | AI agent that finds overlooked secondhand items and checks the asking price against your limit, working toward buying below market value. |
 | **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps: each app authenticates its users or agents and checks their access onchain. |
-| **[scout-onchain](https://github.com/gabchess/scout-onchain)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | For onchain traders: explainable PnL, technical reads, and DCA entry alerts, built on the Zerion API. |
+| **[Scout](https://github.com/gabchess/scout-onchain)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | For onchain traders: explainable PnL, technical reads, and DCA entry alerts, built on the Zerion API. |
 
 ## ▸ GTM engineering
 
@@ -108,7 +108,7 @@ Security researcher, 4 bounties paid: a high-severity Anchor bug in LazyAccount 
 
 ## ✎ Writing
 
-I write about GTM engineering, all things marketing, web3, proof, evals, and opinions at [my blog](https://gabeonchain.com/blog.html).
+I love writing about AI systems, evals, GTM engineering, all things marketing, web3, DeFi analysis, research, and sharing my opinions & workflows at [my blog](https://gabeonchain.com/blog.html).
 
 ## Find me
 
