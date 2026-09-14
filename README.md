@@ -29,7 +29,7 @@ For the past five years, I've applied that judgment to all things related to mar
 
 My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
 
-Learn more on how I think about work and AI: [this video](https://youtu.be/fK2Y0ngjzl8), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
+Learn more on how I think about work and AI: [this video](https://www.youtube.com/watch?v=fK2Y0ngjzl8), [this tweet](https://x.com/gabe_onchain/status/2092893848510800221), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
 ---
 
