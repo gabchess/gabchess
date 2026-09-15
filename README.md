@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gtm-avatar.gif" width="140" alt="Gabriel Abreu, illustrated as the GTM Engineer (animated)" />
+<img src="assets/github-banner.jpg" alt="Gabriel Abreu working at his desk" />
 
 # Gabe
 
