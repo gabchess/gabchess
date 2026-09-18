@@ -4,7 +4,7 @@
 
 # Gabe
 
-Marketing Engineer · Forward-Deployed AI Engineer
+Marketing Engineer · Forward-Deployed Engineer · GTM Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -31,19 +31,6 @@ How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my w
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
 - **Maria:** A prototype that helps older adults check suspicious messages for scams.
-
-## GTM engineering
-
-| Project | What it does |
-|:--|:--|
-| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
-| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
-| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Combines account lists, removes duplicates and groups accounts by fit. |
-| [Outbound personalizer](https://github.com/gabchess/gtm-outbound-personalizer) | Adapts outbound copy to each account segment. |
-| [Objections to content](https://github.com/gabchess/gtm-objections-to-content) | Turns sales-call objections into a content calendar. |
-| [Campaign launcher](https://github.com/gabchess/gtm-campaign-launcher) | Checks lead lists and email sequences before launch. |
-| [Content repurposer](https://github.com/gabchess/gtm-content-repurposer) | Finds relevant material in your published work. |
-| [Campaign analyzer](https://github.com/gabchess/gtm-campaign-analyzer) | Compares campaign results by audience and copy variant. |
 
 <a id="custom-designed-ai-harness"></a>
 
@@ -72,6 +59,19 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 | SEO & AEO tracker | Checks visibility in search and AI answers, as used for [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private, invite-only |
 | Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
 
+## GTM engineering
+
+| Project | What it does |
+|:--|:--|
+| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
+| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
+| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Combines account lists, removes duplicates and groups accounts by fit. |
+| [Outbound personalizer](https://github.com/gabchess/gtm-outbound-personalizer) | Adapts outbound copy to each account segment. |
+| [Objections to content](https://github.com/gabchess/gtm-objections-to-content) | Turns sales-call objections into a content calendar. |
+| [Campaign launcher](https://github.com/gabchess/gtm-campaign-launcher) | Checks lead lists and email sequences before launch. |
+| [Content repurposer](https://github.com/gabchess/gtm-content-repurposer) | Finds relevant material in your published work. |
+| [Campaign analyzer](https://github.com/gabchess/gtm-campaign-analyzer) | Compares campaign results by audience and copy variant. |
+
 ## Also built
 
 [Hedwig](https://github.com/gabchess/hedwig-sol) · [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker).
@@ -84,4 +84,4 @@ I also built a [Solana Vault Standard extension](https://github.com/gabchess/sol
 
 ## Writing
 
-I write about AI, marketing and what I learn from building at [my blog](https://gabeonchain.com/blog.html).
+I write about AI, marketing, and what I learn from building at [my blog](https://gabeonchain.com/blog.html).
