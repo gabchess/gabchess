@@ -53,7 +53,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet and PnL tools, with DCA drafts that stop at a proposal. | Public |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet and PnL tools, with DCA drafts that stop at a proposal. | Open source, MIT |
 | Cinematic site builder | Builds scroll-driven websites with browser checks. | Private, invite-only |
 | Product demo video template | Renders a short demo video from a product brief. | Private, invite-only |
 | SEO & AEO tracker | Checks visibility in search and AI answers, as used for [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private, invite-only |
