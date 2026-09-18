@@ -56,34 +56,34 @@ Learn more on how I think about work and AI: [this video](https://www.youtube.co
 
 ## ◆ Custom Designed AI Harness
 
-A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialist agents run through one routing layer. Deterministic gates block a bad release before it deploys.
+An AI harness (or agent harness) is the software that enables large language models (LLMs) to execute a series of actions to complete a task.
 
-This is an operating layer with context budgeted per seat, routing covered by automated tests, verification gates, and a skills-and-hooks system that enforces its own rules.
+It can be viewed in terms of the simple formula: \(\text{Agent}=\text{Model}+\text{Harness}\). 
 
-A second harness does security research. It reads a protocol's code, forms hypotheses, tries to kill each one, and proves only what survives. Every report goes to the protocol as a fix first.
+&rarr; **Model=brain.** Generates decisions in the form of thought.<br>
+&rarr; **Harness=body.** All that runs as an operating system on the server, including hands, memory, and rules which allow the Model to act safely in the world.<br>
+&rarr; **Evals=safety.** Curated eval suites to trigger safety gates, routing changes such as CI catches, code elegance, PR polishes & all things QA.
 
-&rarr; **Router.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
-&rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push human owner.<br>
-&rarr; **Verification as code.** Hash manifests diff source against the installed runtime and trigger eval suites to gate routing changes. CI catches drift before merge.
+Most large language models are ‘stateless’. This means that the LLM processes a single input and produces a single output, and then it forgets everything about what it did. A harness for an AI provides the **agentic loop** that enables the model to select tools, execute them, check results, etc. until it has solved a task or problem. 
+
+Here are a few AI harnesses I have designed and fine-tuned for months: 
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research; each incident becomes a rule so the same bug never ships twice. | Private, invite-only. |
-| **Security research harness** | Seven-phase pipeline: scope, recon, hypotheses, adversarial cold read, proof of concept, report, gate; a human files every report. | Private; disclosures go to the protocol first. |
-
-The same crew builds the feature and gates the ship. It also writes the launch copy and tracks whether AI engines cite it.
+| **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research. | Private, invite-only. |
+| **OpSec** | 7-phase AI orchestration for security research pipeline: scope, recon, hypotheses, adversarial cold read, proof of concept, report, human gate. | Private; invite-only. |
 
 ## ▣ Augments
 
-An augment is a folder that teaches an AI assistant a whole job. It is onboarding for an AI employee, plus guardrails that stop it from skipping steps, zipped so anyone can install it.
+An augment is a folder that teaches an AI assistant how to do a whole job. It is onboarding for an AI employee, plus guardrails that stop it from skipping steps, zipped so anyone can install it or shipped as a plugin. 
 
-Every augment here is three parts:
+Every augment here has three parts:
 
 &rarr; **Skills** = the SOPs. Step-by-step playbooks the AI follows for each task.<br>
 &rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule.<br>
 &rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
 
-Four augments, each one shipped real work before it was listed:
+Here're a few augments I've been building lately, each one of them following an entire workflow pipeline to ship a 90% ready output/artifact: 
 
 | Augment | What it does | Access |
 |:--|:--|:--|
