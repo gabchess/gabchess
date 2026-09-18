@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/github-banner.jpg" alt="Gabriel Abreu working at his desk" />
+<img src="assets/github-banner.jpg" alt="Pixel art of a person working at a desk" />
 
 # Gabe
 
@@ -21,98 +21,67 @@ Marketing Engineer · Forward-Deployed AI Engineer
 
 </div>
 
-Hi, I'm Gabe. I build AI apps, harnesses, tools, agents & systems. 
+Hi, I'm Gabe. I build AI apps and tools to improve workflows.
 
-Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences and writing for others. Ghostwriting meant learning how someone else thinks before writing a word for them.
+Fifteen years in marketing taught me to ask why someone would care about a product. Ghostwriting meant learning how someone else thinks before writing for them. For the past five years, I've applied that judgment to marketing engineering and AI systems, building with the people who use them.
 
-For the past five years, I've applied that judgment to all things related to market engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
+How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my writing](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md) · [GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
 
-My working set includes Claude, x402, Python, SQL, RAGas, embeddings, vector databases, MCPs, agentic systems and harnesses, evals, context engineering, TypeScript, JavaScript, and the APIs around them.
+## Building now
 
-Learn more on how I think about work and AI: [this video](https://www.youtube.com/watch?v=fK2Y0ngjzl8), [this blog post](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html), [this doc](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md), and [this one on GTM](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
+- **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
+- **Maria:** A prototype that helps older adults check suspicious messages for scams.
 
----
-
-## ✦ Building now
-
-| Project | Stack | What it does |
-|:--|:--|:--|
-| **[Tixmancer](https://tixmancer.xyz)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![x402](https://img.shields.io/badge/-x402-221e18?style=flat-square&logo=coinbase&logoColor=0052FF) | AI agent that finds overlooked secondhand items and checks the asking price against your limit, working toward buying below market value. |
-| **[Hedwig](https://github.com/gabchess/hedwig-sol)** | ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584) | Shared, revocable roles for related Solana apps: each app authenticates its users or agents and checks their access onchain. |
-| **[Scout](https://github.com/gabchess/scout-onchain)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![MCP](https://img.shields.io/badge/-MCP-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | For onchain traders: explainable PnL, technical reads, and DCA entry alerts, built on the Zerion API. |
-
-## ▸ GTM engineering
-
-| Project | Stack | What it does |
-|:--|:--|:--|
-| **[prospector](https://github.com/gabchess/prospector)** | ![TS](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6) ![Playwright](https://img.shields.io/badge/-Playwright-221e18?style=flat-square&logo=playwright&logoColor=2EAD33) | Ran 100 outbound leads in 48 hours for $4: two scrapers, Clay enrichment, ICP gates, human approval, fully forkable. |
-| **[launch-factory](https://github.com/gabchess/launch-factory)** | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | One release folder in, six launch assets and a campaign calendar out, every claim sourced, nothing ships without a human. |
-| [**gtm-tam-mapper**](https://github.com/gabchess/gtm-tam-mapper) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Turns 75 raw rows into 40 deduped, tiered accounts, every disqualification named. |
-| [**gtm-outbound-personalizer**](https://github.com/gabchess/gtm-outbound-personalizer) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Master doc plus account list in, per-tier variants out; QA blocks rows missing pain points. |
-| [**gtm-objections-to-content**](https://github.com/gabchess/gtm-objections-to-content) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Turns 5 call transcripts into 12 tagged objections and a 2-week calendar; refuses happy calls. |
-| [**gtm-campaign-launcher**](https://github.com/gabchess/gtm-campaign-launcher) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Checks list, copy, and sequence in one preflight; broken campaigns emit zero configs. |
-| [**gtm-content-repurposer**](https://github.com/gabchess/gtm-content-repurposer) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Indexes 18 posts, ranks the closest match by BM25, refuses off-topic queries. |
-| [**gtm-campaign-analyzer**](https://github.com/gabchess/gtm-campaign-analyzer) | ![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB) ![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574) | Flags the winning segment combo, 2.14x over tier average; refuses winners on small-sample weeks. |
-
-## ◆ Custom Designed AI Harness
-
-An AI harness (or agent harness) is the software that enables large language models (LLMs) to execute a series of actions to complete a task.
-
-It can be viewed in terms of the simple formula: \(\text{Agent}=\text{Model}+\text{Harness}\). 
-
-&rarr; **Model=brain.** Generates decisions in the form of thought.<br>
-&rarr; **Harness=body.** All that runs as an operating system on the server, including hands, memory, and rules which allow the Model to act safely in the world.<br>
-&rarr; **Evals=safety.** Curated eval suites to trigger safety gates, routing changes such as CI catches, code elegance, PR polishes & all things QA.
-
-Most large language models are ‘stateless’. This means that the LLM processes a single input and produces a single output, and then it forgets everything about what it did. A harness for an AI provides the **agentic loop** that enables the model to select tools, execute them, check results, etc. until it has solved a task or problem. 
-
-Here are a few AI harnesses I have designed and fine-tuned for months: 
-
-| Harness | What it does | Access |
-|:--|:--|:--|
-| **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research. | Private, invite-only. |
-| **OpSec** | 7-phase AI orchestration for security research pipeline: scope, recon, hypotheses, adversarial cold read, proof of concept, report, human gate. | Private; invite-only. |
-
-## ▣ Augments
-
-An augment is a folder that teaches an AI assistant how to do a whole job. It is onboarding for an AI employee, plus guardrails that stop it from skipping steps, zipped so anyone can install it or shipped as a plugin. 
-
-Every augment here has three parts:
-
-&rarr; **Skills** = the SOPs. Step-by-step playbooks the AI follows for each task.<br>
-&rarr; **Hooks** = the guardrails. Automatic checks that block the AI the moment it breaks a rule.<br>
-&rarr; **README** = the manual. A stranger installs and runs the whole thing without me in the room.
-
-Here're a few augments I've been building lately, each one of them following an entire workflow pipeline to ship a 90% ready output/artifact: 
-
-| Augment | What it does | Access |
-|:--|:--|:--|
-| **[Cinematic-site-builder](https://github.com/gabchess/cinematic-site-builder)** | Built [my site](https://gabeonchain.com) with this augment: cinematic 3D scroll site, Playwright-verified to move before it ships. | Private for now, invite-only. |
-| **[Product demo video template](https://github.com/gabchess/product-demo-video-template)** | Product URL or script in, rendered 60-90s demo video out, lint-verified before render. | Private for now, invite-only. |
-| **[SEO & AEO tracker](https://github.com/gabchess/seo-aeo-tracker)** | Tracks and fixes how a brand shows up in Google and AI answers; live example: [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private for now, invite-only. |
-| **[Gabe Factory](https://github.com/gabchess/gabe-factory)** | One topic in, three channel drafts out: X, LinkedIn, long-form; every claim traces to a source, nothing posts without my approval. | Private for now, invite-only. |
-
-## ○ Also built
+## GTM engineering
 
 | Project | What it does |
 |:--|:--|
-| **[silvia](https://github.com/gabchess/silvia)** | Food-ordering assistant for older adults: chat instead of learning an app; 50+ completed orders. |
-| **[solana-ship-gate](https://github.com/gabchess/solana-ship-gate)** | Pre-deploy safety gate for Solana programs: 4 deterministic checks block unsafe mainnet deploys, MIT licensed. |
-| **[defillama-tvl-anomaly-detector](https://github.com/gabchess/defillama-tvl-anomaly-detector)** | Scans DeFi TVL for zeroed pools, -50% single-day drops, +300% spikes, and 60-day flatlines, catching broken adapters and depegs. |
-| **[grimoire](https://github.com/gabchess/grimoire)** | Diagnoses failed Solana transactions: paste a failed signature, get the root cause and fix in plain English, live demo. |
-| **[worldcup-pari-market](https://github.com/gabchess/worldcup-pari-market)** | Proof-settled World Cup prediction markets on Solana devnet, [demo](https://youtu.be/2Vh6RPLNd-U). |
-| **[superteam-academy](https://github.com/gabchess/superteam-academy)** | Gamified Solana dev learning built for Superteam Brazil: browser editor, XP, onchain certificates. |
+| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
+| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
+| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Combines account lists, removes duplicates and groups accounts by fit. |
+| [Outbound personalizer](https://github.com/gabchess/gtm-outbound-personalizer) | Adapts outbound copy to each account segment. |
+| [Objections to content](https://github.com/gabchess/gtm-objections-to-content) | Turns sales-call objections into a content calendar. |
+| [Campaign launcher](https://github.com/gabchess/gtm-campaign-launcher) | Checks lead lists and email sequences before launch. |
+| [Content repurposer](https://github.com/gabchess/gtm-content-repurposer) | Finds relevant material in your published work. |
+| [Campaign analyzer](https://github.com/gabchess/gtm-campaign-analyzer) | Compares campaign results by audience and copy variant. |
 
-Also shipped: [kageb](https://github.com/gabchess/kageb) · [patronus](https://github.com/gabchess/patronus) · [worldcup-settlement](https://github.com/gabchess/worldcup-settlement) · [meteora-jup-sol-safety-monitor](https://github.com/gabchess/meteora-jup-sol-safety-monitor) · [solguard](https://github.com/gabchess/solguard) · [mermail-defi-navigator](https://github.com/Nudgen-Marketing/mermail-skills/pull/145) · [safeskill](https://github.com/gabchess/safeskill) · [wingman](https://github.com/gabchess/wingman) · [clawmanship](https://github.com/gabchess/clawmanship) · [agenthub](https://github.com/gabchess/agenthub) · [hermes-aria-theme](https://github.com/gabchess/hermes-aria-theme) · [walletbrief-monad](https://github.com/gabchess/walletbrief-monad) · [yieldpilot](https://github.com/gabchess/yieldpilot) · [beat-claude-engineer-004-analytics-pipeline](https://github.com/gabchess/beat-claude-engineer-004-analytics-pipeline) · [ecommerce-sales-analysis](https://github.com/gabchess/ecommerce-sales-analysis) · [solana-narrative-tracker](https://github.com/gabchess/solana-narrative-tracker).
+<a id="custom-designed-ai-harness"></a>
 
-## ▲ Security research
+## Custom AI harnesses
 
-Security researcher, 4 bounties paid: a high-severity Anchor bug in LazyAccount ([writeup, PoC, fix](https://github.com/gabchess/anchor/pull/1), upstream shipped the same fix five weeks later), a fund-lockup bug in Ern Protocol, and two Quantus findings, guardian enrollment without consent in `set_high_security` and scheduled transfers below the existential deposit stranding funds with no owner-accessible recovery. Other reports stay unpublished while under review, per program terms +++ also built the [Solana Vault Standard Extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
+An AI harness gives a model the tools, memory and controls to work through a task.
 
-## ✎ Writing
+<p align="center"><strong>Agent = Model + Harness</strong></p>
 
-I love writing about AI systems, evals, GTM engineering, all things marketing, web3, DeFi analysis, research, and sharing my opinions & workflows at [my blog](https://gabeonchain.com/blog.html).
+The model chooses the next step. The harness runs permitted tools, keeps context and returns results for the next step. Evals check how the system behaves.
 
-## Find me
+| Harness | What it does | Access |
+|:--|:--|:--|
+| HyperBots | Coordinates specialist agents for software and marketing work. | Private, invite-only |
+| OpSec | Takes security research from code review to a tested finding and report for human submission. | Private, invite-only |
 
-[gabeonchain.com](https://gabeonchain.com) · [X @gabe_onchain](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
+## Augments
+
+An augment packages a workflow for your AI assistant as a folder or plugin. Skills supply instructions; hooks run checks, and the README explains how to use it.
+
+| Augment | What it does | Access |
+|:--|:--|:--|
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet and PnL tools, with DCA drafts that stop at a proposal. | Public |
+| Cinematic site builder | Builds scroll-driven websites with browser checks. | Private, invite-only |
+| Product demo video template | Renders a short demo video from a product brief. | Private, invite-only |
+| SEO & AEO tracker | Checks visibility in search and AI answers, as used for [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private, invite-only |
+| Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
+
+## Also built
+
+[Hedwig](https://github.com/gabchess/hedwig-sol) · [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker).
+
+## Security research
+
+Four paid bounties across Anchor, Ern Protocol and Quantus. My [Anchor report](https://github.com/gabchess/anchor/pull/1) includes a proof of concept and fix for incorrect account reads. Reports under review remain private.
+
+I also built a [Solana Vault Standard extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
+
+## Writing
+
+I write about AI, marketing and what I learn from building at [my blog](https://gabeonchain.com/blog.html).
