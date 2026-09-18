@@ -60,6 +60,8 @@ A harness I have designed and fine-tuned for months: **HyperBots**. 32 specialis
 
 This is an operating layer with context budgeted per seat, routing covered by automated tests, verification gates, and a skills-and-hooks system that enforces its own rules.
 
+A second harness does security research. It reads a protocol's code, forms hypotheses, tries to kill each one, and proves only what survives. Every report goes to the protocol as a fix first.
+
 &rarr; **Router.** State the outcome; routing picks the specialist, tie-breaks pre-judged in writing.<br>
 &rarr; **Mechanical gates.** A pre-ship gate blocks every push until a reviewer signs the exact commit. One push human owner.<br>
 &rarr; **Verification as code.** Hash manifests diff source against the installed runtime and trigger eval suites to gate routing changes. CI catches drift before merge.
@@ -67,6 +69,7 @@ This is an operating layer with context budgeted per seat, routing covered by au
 | Harness | What it does | Access |
 |:--|:--|:--|
 | **HyperBots** | 32 AI agents across planning, code, review, security, copy, SEO, and research; each incident becomes a rule so the same bug never ships twice. | Private, invite-only. |
+| **Security research harness** | Seven-phase pipeline: scope, recon, hypotheses, adversarial cold read, proof of concept, report, gate; a human files every report. | Private; disclosures go to the protocol first. |
 
 The same crew builds the feature and gates the ship. It also writes the launch copy and tracks whether AI engines cite it.
 
