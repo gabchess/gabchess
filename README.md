@@ -31,6 +31,7 @@ How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my w
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
 - **Maria:** An IOS app that helps older adults check suspicious messages for scams.
+- **[Hedwig](https://github.com/gabchess/hedwig-sol)**
 
 <a id="custom-designed-ai-harness"></a>
 
@@ -75,7 +76,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 ## Also built
 
-[Hedwig](https://github.com/gabchess/hedwig-sol) · [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis)
+[Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis)
 
 ## Security research
 
