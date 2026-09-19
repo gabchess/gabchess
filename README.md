@@ -30,7 +30,7 @@ How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my w
 ## Building now
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
-- **Maria:** A prototype that helps older adults check suspicious messages for scams.
+- **Maria:** An IOS app that helps older adults check suspicious messages for scams.
 
 <a id="custom-designed-ai-harness"></a>
 
