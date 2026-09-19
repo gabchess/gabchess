@@ -31,7 +31,7 @@ How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my w
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
 - **Maria:** An IOS app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://github.com/gabchess/hedwig-sol)** Revocable role record for Solana apps & software agents.
+- **[Hedwig](https://github.com/gabchess/hedwig-sol):** Revocable role record for Solana apps & software agents.
 
 <a id="custom-designed-ai-harness"></a>
 
