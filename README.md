@@ -79,7 +79,7 @@ Four paid bounties across Anchor, Ern Protocol, and Quantus. My [Anchor report](
 
 ## SEO/AEO/GEO
 
-At a barbecue, my childhood friend Gabriel Paz told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, he told me he'd had to open a waitlist.
+At a barbecue, my childhood friend Gabriel Paz told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
 ## Also built
 
