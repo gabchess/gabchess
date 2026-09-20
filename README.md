@@ -46,7 +46,7 @@ The model chooses the next step. The harness runs permitted tools, keeps context
 | Harness | What it does | Access |
 |:--|:--|:--|
 | HyperBots | Coordinates specialist agents for software and marketing work. | Private, invite-only |
-| OpSec | Takes security research from code review to a tested finding and report for human submission. | Private, invite-only |
+| OpSec | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
 
 ## Augments
 
