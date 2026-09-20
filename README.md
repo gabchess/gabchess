@@ -56,7 +56,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 |:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet and PnL tools, with DCA drafts that stop at a proposal. | Open source, MIT |
 | [Job-hunt workflow](https://github.com/gabchess/job-hunt-workflow-builder) | Guides your AI agent through a personable job-search workflow. | Open source, MIT · Experimental |
-| Cinematic site builder | Builds scroll-driven websites with browser checks. | Private, invite-only |
+| Cinematic site builder | Builds animated [websites](https://gabeonchain.com/) for portfolios with strong UI/UX and SEO/AEO optimization. | Private, invite-only |
 | Product demo video template | Renders a short demo video from a product brief. | Private, invite-only |
 | SEO & AEO tracker | Checks visibility in search and AI answers, as used for [Gabriel Paz's studio](https://ateliergabrielpaz.vercel.app/). | Private, invite-only |
 | Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
