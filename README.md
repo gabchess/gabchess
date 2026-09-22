@@ -75,7 +75,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 ## Security research
 
-Four paid bounties across Anchor, Ern Protocol, and Quantus. My [Anchor report](https://github.com/gabchess/anchor/pull/1) includes a proof of concept and fix for incorrect account reads. Reports under review remain private. I also built a [Solana Vault Standard extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
+Few bounties found across Anchor, Ern Protocol, Quantus, Pareto, and one more currently under review. My [Anchor report](https://github.com/gabchess/anchor/pull/1) includes a proof of concept and fix for incorrect account reads. I also built a [Solana Vault Standard extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
 
 ## SEO/AEO/GEO
 
