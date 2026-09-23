@@ -54,8 +54,8 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet and PnL tools, with DCA drafts that stop at a proposal. | Open source, MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Guides your AI agent through a personable job-search workflow. | Open source, MIT · Experimental |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet payments, DCA & PnL tools. | Open source, MIT |
+| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Guides you through a personable job-search workflow. | Open source, MIT · Experimental |
 | Cinematic site | Builds animated [websites](https://gabeonchain.com/) for portfolios w/ strong UI, SEO, and AEO. | Private, invite-only |
 | Demo video | Renders a short product demo video from a product brief, monorepo, or PR. | Private, invite-only |
 | Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
