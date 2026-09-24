@@ -21,7 +21,7 @@ Marketing Engineer · Forward-Deployed Engineer · GTM Engineer
 
 </div>
 
-Hi, I'm Gabe. I build AI apps and tools to improve workflows.
+Hi, I'm Gabe. I build AI apps, agentic systems and tools to improve workflows.
 
 Fifteen years in marketing taught me to ask why someone would care about a product. Ghostwriting meant learning how someone else thinks before writing for them. For the past five years, I've applied that judgment to marketing engineering and AI systems, building with the people who use them.
 
