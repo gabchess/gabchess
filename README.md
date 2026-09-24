@@ -30,7 +30,7 @@ How I work: [Intro video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [Creat
 ## Building now
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
-- **[Maria](https://github.com/gabchess/maria-v2):** An IOS app that helps older adults check suspicious messages for scams.
+- **[Maria](https://meetmaria.app/):** An IOS app that helps older adults check suspicious messages for scams.
 - **[Hedwig](https://github.com/gabchess/hedwig):** The safety trigger onchain agents check before they pay.
 
 <a id="custom-designed-ai-harness"></a>
