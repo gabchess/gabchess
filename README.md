@@ -25,7 +25,7 @@ Hi, I'm Gabe. I build AI apps, agentic systems and tools to improve workflows.
 
 Fifteen years in marketing taught me to ask why someone would care about a product. Ghostwriting meant learning how someone else thinks before writing for them. For the past five years, I've applied that judgment to marketing engineering and AI systems, building with the people who use them.
 
-How I work: [Intro video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Thoughts writing/coding with AI](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) · [Thoughts on building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md) · [Thoughts on GTM engineering](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md).
+How I work: [Intro video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Thoughts writing/coding with AI](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) · [Thoughts on building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md) · [Thoughts on GTM engineering](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md). [Thoughts on my work style persona](https://x.com/gabe_onchain/status/2103465164183888281?s=20)
 
 ## Building now
 
