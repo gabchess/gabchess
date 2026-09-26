@@ -4,7 +4,7 @@
 
 # Gabe
 
-Marketing Engineer · Forward-Deployed Engineer · GTM Engineer
+Marketing Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -30,7 +30,7 @@ How I work: [video](https://www.youtube.com/watch?v=fK2Y0ngjzl8) · [AI and my w
 ## Building now
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
-- **[Maria](https://github.com/gabchess/maria-v2):** An IOS app that helps older adults check suspicious messages for scams.
+- **[Maria](https://meetmaria.app):** An iOS app that helps older adults check suspicious messages for scams.
 - **[Hedwig](https://github.com/gabchess/hedwig):** The safety trigger onchain agents check before they pay.
 
 <a id="custom-designed-ai-harness"></a>
@@ -60,7 +60,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 | Demo video | Renders a short product demo video from a product brief, monorepo, or PR. | Private, invite-only |
 | Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
 
-## GTM engineering
+**GTM engineering**
 
 | Project | What it does |
 |:--|:--|
