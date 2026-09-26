@@ -31,6 +31,7 @@ How I think about work: [Intro video](https://www.youtube.com/watch?v=fK2Y0ngjzl
 
 - **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
 - **[Hedwig](https://github.com/gabchess/hedwig):** The safety trigger onchain agents check before they pay.
+- **[Maria](https://meetmaria.app):** An iOS app that helps older adults check suspicious messages for scams.
 
 <a id="custom-designed-ai-harness"></a>
 
@@ -81,8 +82,6 @@ Few bounties found across Anchor, Ern Protocol, Quantus, Pareto, and one more cu
 At a barbecue, my childhood friend Gabriel Paz told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
 ## Also built
-
-- **[Maria](https://meetmaria.app):** An iOS app that helps older adults check suspicious messages for scams.
 
 [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis)
 
