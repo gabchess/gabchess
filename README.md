@@ -83,8 +83,7 @@ At a barbecue, my childhood friend Gabriel Paz told me his painting studio neede
 
 ## Also built
 
-[Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis)
+[Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
 
 ## Writing
-
 I write about AI, marketing, and what I learn from building at [my blog](https://gabeonchain.com/blog.html).
