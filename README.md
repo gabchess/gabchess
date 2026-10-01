@@ -29,9 +29,9 @@ How I think about work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0g
 
 ## Building now
 
-- **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget, in development with a public waitlist.
-- **[Hedwig](https://usehedwig.xyz/):** The safety trigger onchain agents check before they pay.
 - **[Maria](https://meetmaria.app):** An iOS app that helps older adults check suspicious messages for scams.
+- **[Hedwig](https://usehedwig.xyz/):** The safety trigger onchain agents check before they pay.
+- **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget.
 
 <a id="custom-designed-ai-harness"></a>
 
