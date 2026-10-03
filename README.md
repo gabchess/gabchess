@@ -25,7 +25,7 @@ Hi, I'm Gabe, and lately, I've been doing a lot of agentic plumbing to design cl
 
 For 15 years, I’ve worked somewhere between how things work and why they matter as a product marketer, growth manager, social lead, and all things marketing. Now, I can apply my marketing vertical as an AI Applied Software Engineer to design, create, and manage complex systems, apps & products that people can easily understand & love.
 
-How I think about work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Thoughts writing/coding with AI](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) · [Thoughts on building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md) · [Thoughts on GTM engineering](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md) . [Thoughts on my work style persona](https://x.com/gabe_onchain/status/2103465164183888281?s=20)
+How I think about work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Thoughts on using AI for writing](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) · [Thoughts on using AI for coding](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md) · [Thoughts on using AI for Marketing](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-gtm.md) . [How I can provide ROI right away](https://x.com/gabe_onchain/status/2103465164183888281?s=20)
 
 ## Building now
 
