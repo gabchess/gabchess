@@ -21,7 +21,7 @@ Marketing Engineer & Applied AI Software Engineering
 
 </div>
 
-Hi, I'm Gabe. I build AI apps, agentic systems, and tools to improve workflows.
+Hi, I'm Gabe, and lately, I've been doing a lot of agentic plumbing to design clear & tasteful AI products & workflows.
 
 For 15 years, I’ve worked somewhere between how things work and why they matter as a product marketer, growth manager, social lead, and all things marketing. Now, I can apply my marketing vertical as an AI Applied Software Engineer to design, create, and manage complex systems, apps & products that people can easily understand & love.
 
