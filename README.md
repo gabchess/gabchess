@@ -1,41 +1,31 @@
 <div align="center">
 
-<img src="assets/github-banner.jpg" alt="Pixel art of a person working at a desk" />
-
 # Gabe
 
-Product Marketer & Applied AI Software Engineer
+Product Marketer and Applied AI Engineer
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
-![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
-![Solidity](https://img.shields.io/badge/-Solidity-221e18?style=flat-square&logo=solidity&logoColor=c0c0c0)
-![Python](https://img.shields.io/badge/-Python-221e18?style=flat-square&logo=python&logoColor=3776AB)
-![Solana](https://img.shields.io/badge/-Solana-221e18?style=flat-square&logo=solana&logoColor=14F195)
-![Base](https://img.shields.io/badge/-Base-221e18?style=flat-square&logo=coinbase&logoColor=0052FF)
-![Next.js](https://img.shields.io/badge/-Next.js-221e18?style=flat-square&logo=next.js&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-221e18?style=flat-square&logo=anthropic&logoColor=d4a574)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-gabeonchain.com-d4a574?style=flat-square&labelColor=0c0a08)](https://gabeonchain.com)
-[![X](https://img.shields.io/badge/X-%40gabe__onchain-221e18?style=flat-square&labelColor=0c0a08)](https://x.com/gabe_onchain)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gabeonchain-221e18?style=flat-square&labelColor=0c0a08)](https://www.linkedin.com/in/gabeonchain)
-
-[Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering)
+[Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering) · [Blog](https://gabeonchain.com/blog.html) · [Contact](https://gabeonchain.com/contact.html) · [X](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
 
 </div>
 
-I build AI apps and workflows with the people who use them.
+Based in Rio de Janeiro, open to remote or hybrid work.
 
-Fifteen years in marketing shaped my taste and how I judge what deserves attention. I turn a team's needs into working systems and explain the technical choices in business terms.
+| Path | What I do |
+|:--|:--|
+| [Marketing](https://gabeonchain.com/marketing) | I help people understand and buy a product, through social growth, product education, launches and SEO/AEO. |
+| [Engineering](https://gabeonchain.com/engineering) | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
+
+I build AI apps and workflows with the people who use them. Fifteen years in marketing shaped my taste and how I judge what deserves attention. I turn a team's needs into working systems and explain the technical choices in business terms.
 
 MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
 
-How I think about work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [How I can provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html)
+How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
 ## Building now
 
-- **[Maria](https://meetmaria.app):** An iOS app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://usehedwig.xyz/):** The safety trigger onchain agents check before they pay.
-- **[Tixmancer](https://tixmancer.xyz):** An AI assistant for secondhand finds within your budget.
+- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
+- **[Hedwig](https://usehedwig.xyz/):** An eval gate that checks an agent's onchain payment before it pays.
+- **[Tixmancer](https://tixmancer.xyz):** An AI agent that checks secondhand ticket prices against your budget. In development, with a waitlist.
 
 <a id="custom-designed-ai-harness"></a>
 
@@ -58,7 +48,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet payments, DCA & PnL tools. | Open source, MIT |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet lookup, PnL and DCA-proposal tools. | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Guides you through a personable job-search workflow. | Open source, MIT · Experimental |
 | Cinematic site | Builds animated [websites](https://gabeonchain.com/) for portfolios w/ strong UI, SEO, and AEO. | Private, invite-only |
 | Demo video | Renders a short product demo video from a product brief, monorepo, or PR. | Private, invite-only |
@@ -79,7 +69,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 
 ## Security research
 
-Few bounties found across Anchor, Ern Protocol, Quantus, Pareto, and one more currently under review. My [Anchor report](https://github.com/gabchess/anchor/pull/1) includes a proof of concept and fix for incorrect account reads. I also built a [Solana Vault Standard extension](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault) for a Superteam bounty.
+I wrote up a byte-offset bug in Anchor's `LazyAccount` as a [pull request in my fork](https://github.com/gabchess/anchor/pull/1), with a proof of concept and a fix. I also built a native SOL vault [extension to the Solana Vault Standard](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault).
 
 ## SEO/AEO/GEO
 
@@ -90,4 +80,5 @@ At a barbecue, my childhood friend Gabriel Paz told me his painting studio neede
 [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
 
 ## Writing
-I write about AI, marketing, and what I learn from building at [my blog](https://gabeonchain.com/blog.html).
+
+I write about AI, marketing, and what I learn from building at [my blog](https://gabeonchain.com/blog.html). Start with [How I could provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html), [Is it OK to let AI be your copy editor?](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) or [Lessons on building a banger portfolio website with AI](https://gabeonchain.com/posts/lessons-on-building-a-banger-portfolio-website-with-ai.html).
