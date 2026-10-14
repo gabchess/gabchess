@@ -25,7 +25,7 @@ How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creat
 
 - **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
 - **[Hedwig](https://usehedwig.xyz/):** An eval gate that checks an agent's onchain payment before it pays.
-- **[Tixmancer](https://tixmancer.xyz):** An AI agent that checks secondhand ticket prices against your budget. In development, with a waitlist.
+- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
 
 <a id="custom-designed-ai-harness"></a>
 
