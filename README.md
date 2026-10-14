@@ -4,7 +4,7 @@
 
 # Gabe
 
-Marketing Engineer & Applied AI Software Engineering
+Product Marketer & Applied AI Software Engineer
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-221e18?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Rust](https://img.shields.io/badge/-Rust-221e18?style=flat-square&logo=rust&logoColor=dea584)
@@ -19,11 +19,15 @@ Marketing Engineer & Applied AI Software Engineering
 [![X](https://img.shields.io/badge/X-%40gabe__onchain-221e18?style=flat-square&labelColor=0c0a08)](https://x.com/gabe_onchain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gabeonchain-221e18?style=flat-square&labelColor=0c0a08)](https://www.linkedin.com/in/gabeonchain)
 
+[Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering)
+
 </div>
 
-Hi, I'm Gabe, and lately, I've been doing a lot of agentic plumbing to design clear & tasteful AI products & workflows.
+I build AI apps and workflows with the people who use them.
 
-For 15 years, I’ve worked somewhere between how things work and why they matter as a product marketer, growth manager, social lead, and all things marketing. Now, I can apply my marketing vertical as an AI Applied Software Engineer to design, create, and manage complex systems, apps & products that people can easily understand & love.
+Fifteen years in marketing shaped my taste and how I judge what deserves attention. I turn a team's needs into working systems and explain the technical choices in business terms.
+
+MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
 
 How I think about work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [How I can provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html)
 
