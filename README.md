@@ -2,20 +2,26 @@
 
 # Gabe
 
-Product Marketer and Applied AI Engineer
+Marketer and Engineer
 
 [Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering) · [Blog](https://gabeonchain.com/blog.html) · [Contact](https://gabeonchain.com/contact.html) · [X](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
 
 </div>
 
+Hi, I'm Gabe 👻✍️<br>
+I build AI apps, harnesses, tools, agents & systems.<br>
+I write & talk in public about them.
+
+Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences and writing for others. Ghostwriting meant learning how someone else thinks before writing a word for them.
+
+For the past five years, I've applied that judgment to all things related to market engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
+
 Based in Rio de Janeiro, open to remote or hybrid work.
 
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) | I help people understand and buy a product, through social growth, product education, launches and SEO/AEO. |
-| [Engineering](https://gabeonchain.com/engineering) | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
-
-I build AI apps and workflows with the people who use them. Fifteen years in marketing shaped my taste and how I judge what deserves attention. I turn a team's needs into working systems and explain the technical choices in business terms.
+| [Marketing](https://gabeonchain.com/marketing) · Writer | I help people understand and buy a product, through social growth, product education, launches and SEO/AEO. |
+| [Engineering](https://gabeonchain.com/engineering) · Applied AI Software Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
 
@@ -54,7 +60,7 @@ An augment packages a workflow for your AI assistant as a folder or plugin. Skil
 | Demo video | Renders a short product demo video from a product brief, monorepo, or PR. | Private, invite-only |
 | Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
 
-## GTM engineering
+## Marketing workflows
 
 | Project | What it does |
 |:--|:--|
