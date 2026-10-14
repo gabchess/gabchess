@@ -14,7 +14,7 @@ I write & talk in public about them.
 
 Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences and writing for others. Ghostwriting meant learning how someone else thinks before writing a word for them.
 
-For the past five years, I've applied that judgment to all things related to market engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
+For the past five years, I've applied that judgment to all things related to marketing engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
 
 Based in Rio de Janeiro, open to remote or hybrid work.
 
