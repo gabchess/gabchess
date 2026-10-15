@@ -50,7 +50,7 @@ The model chooses the next step. The harness runs permitted tools, keeps context
 
 ## Augments
 
-An augment packages a workflow for your AI assistant as a plugin or skill folder, with hooks where it needs checks. I build them for content teams and developers.
+An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
 
 | Augment | What it does | Access |
 |:--|:--|:--|
