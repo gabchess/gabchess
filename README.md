@@ -8,7 +8,7 @@ Marketer and Engineer
 
 </div>
 
-Hi, I'm Gabe 👻✍️<br>
+Hi, I'm Gabe<br>
 I build AI apps, harnesses, tools, agents & systems.<br>
 I write & talk in public about them.
 
@@ -50,15 +50,15 @@ The model chooses the next step. The harness runs permitted tools, keeps context
 
 ## Augments
 
-An augment packages a workflow for your AI assistant as a folder or plugin. Skills supply instructions; hooks run checks, and the README explains how to use it.
+An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent wallet lookup, PnL and DCA-proposal tools. | Open source, MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Guides you through a personable job-search workflow. | Open source, MIT · Experimental |
-| Cinematic site | Builds animated [websites](https://gabeonchain.com/) for portfolios w/ strong UI, SEO, and AEO. | Private, invite-only |
-| Demo video | Renders a short product demo video from a product brief, monorepo, or PR. | Private, invite-only |
-| Gabe Factory | Prepares content drafts from sources for my review. | Private, invite-only |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
+| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Helps job seekers build an n8n job-search workflow with a coding agent. | Open source, MIT · Experimental |
+| [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| [Product-educator video pipeline](https://github.com/gabchess/elefante-video-recut) | Adds brand overlay cards and SRT captions to a finished talking-head cut, inside Claude Code. | Private, invite-only |
+| [Gabe Factory](https://github.com/gabchess/gabe-factory) | Turns one topic into sourced X, LinkedIn and blog drafts for my review. | Private, invite-only | <!-- leakguard: allow -->
 
 ## Marketing workflows
 
