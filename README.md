@@ -2,25 +2,17 @@
 
 # Gabe
 
-Marketer and Engineer
+I'm a marketer and engineer in Rio de Janeiro with 15 years in marketing. I build AI apps and agents.
 
 [Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering) · [Blog](https://gabeonchain.com/blog.html) · [Contact](https://gabeonchain.com/contact.html) · [X](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
 
 </div>
 
-Hi, I'm Gabe<br>
-I build AI apps, harnesses, tools, agents & systems.<br>
-I write & talk in public about them.
-
-Fifteen years in marketing taught me to ask why someone would care about a product. I've worked on positioning and spent years researching audiences and writing for others. Ghostwriting meant learning how someone else thinks before writing a word for them.
-
-For the past five years, I've applied that judgment to all things related to marketing engineering and AI systems. That taste shapes what I build and how I judge the output. I build the workflow with the people who will use it.
-
-Based in Rio de Janeiro, open to remote or hybrid work.
+Open to remote or hybrid work.
 
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) · Writer | I help people understand and buy a product, through social growth, product education, launches and SEO/AEO. |
+| [Marketing](https://gabeonchain.com/marketing) · Writer | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI Software Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
@@ -41,7 +33,7 @@ An AI harness gives a model the tools, memory and controls to work through a tas
 
 <p align="center"><strong>Agent = Model + Harness</strong></p>
 
-The model chooses the next step. The harness runs permitted tools, keeps context and returns results for the next step. Evals check how the system behaves.
+The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
 
 | Harness | What it does | Access |
 |:--|:--|:--|
@@ -83,8 +75,8 @@ At a barbecue, my childhood friend Gabriel Paz told me his painting studio neede
 
 ## Also built
 
-[Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with Panda](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
+[Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with pandas](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
 
 ## Writing
 
-I write about AI, marketing, and what I learn from building at [my blog](https://gabeonchain.com/blog.html). Start with [How I could provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html), [Is it OK to let AI be your copy editor?](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) or [Lessons on building a banger portfolio website with AI](https://gabeonchain.com/posts/lessons-on-building-a-banger-portfolio-website-with-ai.html).
+I write about AI, marketing and what I learn from building on [my blog](https://gabeonchain.com/blog.html). Start with [How I could provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html), [Is it OK to let AI be your copy editor?](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) or [Lessons on building a banger portfolio website with AI](https://gabeonchain.com/posts/lessons-on-building-a-banger-portfolio-website-with-ai.html).
