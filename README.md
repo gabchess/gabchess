@@ -2,17 +2,15 @@
 
 # Gabe
 
-I'm a marketer and engineer in Rio de Janeiro with 15 years in marketing. I build AI apps and agents.
+I'm a Marketing Engineer in Rio de Janeiro with 15 years in marketing, building v cool agentic systems & AI workflows.
 
 [Marketing](https://gabeonchain.com/marketing) · [Engineering](https://gabeonchain.com/engineering) · [Blog](https://gabeonchain.com/blog.html) · [Contact](https://gabeonchain.com/contact.html) · [X](https://x.com/gabe_onchain) · [LinkedIn](https://www.linkedin.com/in/gabeonchain)
 
 </div>
 
-Open to remote or hybrid work.
-
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) · Writer | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
+| [Marketing](https://gabeonchain.com/marketing) · PMM & Writer | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI Software Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
