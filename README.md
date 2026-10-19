@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
+# Gabriel Abreu
 
-# Gabe
+<a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
 
 I'm a Marketing Engineer in Rio de Janeiro with 15 years in marketing, building v cool agentic systems & AI workflows.
 
