@@ -42,7 +42,7 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 |:--|:--|:--|
 | HyperBots | Coordinates specialist agents for software and marketing work. | Private, invite-only |
 | OpSec | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
-| [Gabe Factory](https://github.com/gabchess/gabe-factory) | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
+| Gabe Factory | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
 
 ## 🪄 Augments
 
@@ -52,7 +52,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 |:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Helps job seekers build an n8n job-search workflow with a coding agent. | Open source, MIT · Experimental |
-| [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| Cinematic site | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
 | Product-educator video pipeline | Adds brand overlay cards and SRT captions to a finished talking-head cut, inside Claude Code. | Private, invite-only |
 
 ## 🗺️ Marketing workflows
