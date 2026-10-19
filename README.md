@@ -54,7 +54,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | Open source, MIT |
 | [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
-| [Video-show](https://github.com/gabchess/video-machine) | Makes UGC, product ads and explainer videos in Claude Code. | Private, invite-only |
+| [Video-show](https://github.com/gabchess/video-machine) | Makes product ads and explainer videos inside Claude Code. | Private, invite-only |
 
 ## 🗺️ Marketing workflows
 
