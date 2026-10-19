@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://gabeonchain.com"><img src="assets/hero-card.png" width="240" alt="Gabe's character card: Rank Legendary, Marketer and Writer, 15 years in marketing, 6 years working on DeFi, pixel art of a figure playing chess"></a>
+# Gabriel Abreu
 
-# Gabe
+<a href="https://gabeonchain.com"><img src="assets/hero-card.png" width="240" alt="Gabe's character card: Rank Legendary, Marketer and Writer, 15 years in marketing, 6 years working on DeFi, pixel art of a figure playing chess"></a>
 
 I'm a Marketing Engineer in Rio de Janeiro with 15 years in marketing, building v cool agentic systems & AI workflows.
 
