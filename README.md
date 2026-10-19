@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
+<a href="https://gabeonchain.com"><img src="assets/hero-card.png" width="300" alt="Gabe's character card: Rank Legendary, Marketer and Writer, pixel art of a figure playing chess"></a>
 
 # Gabe
 
