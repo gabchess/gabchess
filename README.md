@@ -79,7 +79,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 ## 📜 Writing
 
-I write about AI, marketing and what I learn from building on [my blog](https://gabeonchain.com/blog.html). Start with [How I could provide ROI right away](https://gabeonchain.com/posts/how-i-could-provide-roi-right-away.html), [Is it OK to let AI be your copy editor?](https://gabeonchain.com/posts/is-it-ok-to-let-ai-be-your-copy-editor.html) or [Lessons on building a banger portfolio website with AI](https://gabeonchain.com/posts/lessons-on-building-a-banger-portfolio-website-with-ai.html).
+I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for known founders/KOLs such as Augusto Backes, Orlando Telles and André Portilho. Nowadays, I've been writing about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
 
 <table>
   <tr>
