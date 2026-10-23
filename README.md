@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gabriel Abreu
+# Gabriel Abreu (Gabe)
 
 <a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
 
