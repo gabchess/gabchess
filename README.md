@@ -4,7 +4,11 @@
 
 <a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
 
-I'm a Marketing Engineer in Rio de Janeiro with 15 years in marketing, building v cool agentic systems & AI workflows.
+I make hard products easy to understand, and I build the AI systems that keep doing it every day.
+
+Product marketer and GTM engineer in Rio de Janeiro. 15 years in marketing, the last 6 in Web3.
+
+Same job on both paths: I find what makes a product hard to get, then I fix it.
 
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
@@ -18,68 +22,29 @@ I'm a Marketing Engineer in Rio de Janeiro with 15 years in marketing, building 
 | [Marketing](https://gabeonchain.com/marketing) · PMM & Writer | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI Software Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
-MBA in Applied AI Software Engineering, UniPDS. Completed 2026.
+Applied AI Engineering, UniPDS. [PENDING GABE: completed or in progress?]
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
 ## ⚒️ Building now
 
 - **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://usehedwig.xyz/):** An eval gate that checks an agent's onchain payment before it pays.
+- **[Hedwig](https://usehedwig.xyz/):** An OpSec check that payment agents consult before an onchain transaction goes out.
 - **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
 
-<a id="custom-designed-ai-harness"></a>
+## 🔓 Open source
 
-## 🛡️ Custom AI harnesses
-
-An AI harness gives a model the tools, memory and controls to work through a task.
-
-<p align="center"><strong>Agent = Model + Harness</strong></p>
-
-The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
-
-| Harness | What it does | Access |
+| Project | What it does | License |
 |:--|:--|:--|
-| [HyperBots](https://github.com/gabchess/HyperBotsClaude) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
-| [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
-| [Gabe Factory](https://github.com/gabchess/gabe-factory) | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
-| [Video-show](https://github.com/gabchess/video-machine) | Handles all things related to video production. | Private, invite-only |
-| [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | MIT |
+| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | MIT |
+| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. | Open |
 
-## 🪄 Augments
-
-An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
-
-| Augment | What it does | Access |
-|:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | Open source, MIT |
-| [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
-
-## 🗺️ Marketing workflows
-
-| Project | What it does |
-|:--|:--|
-| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
-| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
-| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Combines account lists, removes duplicates, and groups accounts by fit. |
-
-<details>
-<summary>5 more workflows</summary>
-
-| Project | What it does |
-|:--|:--|
-| [Outbound personalizer](https://github.com/gabchess/gtm-outbound-personalizer) | Adapts outbound copy to each account segment. |
-| [Objections to content](https://github.com/gabchess/gtm-objections-to-content) | Turns sales-call objections into a content calendar. |
-| [Campaign launcher](https://github.com/gabchess/gtm-campaign-launcher) | Checks lead lists and email sequences before launch. |
-| [Content repurposer](https://github.com/gabchess/gtm-content-repurposer) | Finds relevant material in your published work. |
-| [Campaign analyzer](https://github.com/gabchess/gtm-campaign-analyzer) | Compares campaign results by audience and copy variant. |
-
-</details>
+Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Factory, Video-show, Product Machine, Cinematic site, Launch Factory, TAM mapper and 5 GTM workflows. Ask me for access.
 
 ## 📜 Writing
 
-I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for known founders/KOLs such as Augusto Backes, Orlando Telles and André Portilho. Nowadays, I've been writing about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
+I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for founders and executives. Now I write writing about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
 
 <table>
   <tr>
@@ -104,7 +69,7 @@ On Immunefi, Quantus paid me for 2 findings: 1 High, the chief finding, and 1 Me
 
 ## 🧭 SEO/AEO/GEO
 
-At a barbecue, my childhood friend Gabriel Paz told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
+At a barbecue, a childhood friend told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
 ## 🧪 Also built
 
