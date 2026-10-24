@@ -6,7 +6,7 @@
 
 I make hard products easy to understand, and I build the AI systems that keep doing it every day.
 
-Based in Rio de Janeiro. 15 years in marketing, the last 6 in Web3.
+I'm a marketer, writer & ghostwriter in Rio de Janeiro with 15 years in marketing. I also build agentic systems & AI workflows.
 
 Same job on both paths: I find what makes a product hard to get, then I fix it.
 
@@ -19,7 +19,7 @@ Same job on both paths: I find what makes a product hard to get, then I fix it.
 
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) · Product marketing & writing | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
+| [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, launches, product education and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 Completed the Applied AI Engineering program at UniPDS.
