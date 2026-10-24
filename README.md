@@ -38,8 +38,8 @@ How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creat
 |:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | MIT |
-| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. | Open |
-| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped and tiered across 3 sources. | MIT |
+| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. | MIT |
+| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped. | MIT |
 
 Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Factory, Video-show, Product Machine, Cinematic site, Launch Factory and 5 GTM workflows. Ask me for access.
 
