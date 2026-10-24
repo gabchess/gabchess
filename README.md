@@ -6,7 +6,7 @@
 
 I make hard products easy to understand, and I build the AI systems that keep doing it every day.
 
-Product marketer and GTM engineer in Rio de Janeiro. 15 years in marketing, the last 6 in Web3.
+Based in Rio de Janeiro. 15 years in marketing, the last 6 in Web3.
 
 Same job on both paths: I find what makes a product hard to get, then I fix it.
 
@@ -19,10 +19,10 @@ Same job on both paths: I find what makes a product hard to get, then I fix it.
 
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) · PMM & Writer | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
-| [Engineering](https://gabeonchain.com/engineering) · Applied AI Software Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
+| [Marketing](https://gabeonchain.com/marketing) · Product marketing & writing | I help people understand and buy a product through social growth, product education, launches and SEO/AEO. |
+| [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
-Applied AI Engineering, UniPDS. [PENDING GABE: completed or in progress?]
+Completed the Applied AI Engineering program at UniPDS.
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
@@ -39,12 +39,13 @@ How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creat
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | MIT |
 | [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. | Open |
+| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped and tiered across 3 sources. | MIT |
 
-Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Factory, Video-show, Product Machine, Cinematic site, Launch Factory, TAM mapper and 5 GTM workflows. Ask me for access.
+Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Factory, Video-show, Product Machine, Cinematic site, Launch Factory and 5 GTM workflows. Ask me for access.
 
 ## 📜 Writing
 
-I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for founders and executives. Now I write writing about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
+I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for founders and executives. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
 
 <table>
   <tr>
@@ -69,7 +70,7 @@ On Immunefi, Quantus paid me for 2 findings: 1 High, the chief finding, and 1 Me
 
 ## 🧭 SEO/AEO/GEO
 
-At a barbecue, a childhood friend told me his painting studio needed more students. I built [his landing page](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
+At a barbecue, a childhood friend told me his painting studio needed more students. I built [a landing page for the studio](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
 ## 🧪 Also built
 
