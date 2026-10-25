@@ -40,7 +40,7 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| [HyperBots](https://github.com/gabchess/HyperBotsClaude) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
+| [HyperBots](https://github.com/gabchess/HyperBots) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
 | [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
 | [Gabe Factory](https://github.com/gabchess/gabe-factory) | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
 | [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
