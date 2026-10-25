@@ -22,9 +22,22 @@ Same job on both paths: I find what makes a product hard to get, then I fix it.
 | [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, launches, product education and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
-Completed the Applied AI Engineering program at UniPDS.
+MBA in Applied AI Software Engineering at UNIPDS (completed 2026). Bachelor's in Communications and Film at PUC-Rio.
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
+
+## 🧭 Where I've worked
+
+| When | Where | Role |
+|:--|:--|:--|
+| 2025 – 2026 | Octant | Marketing Engineer |
+| 2024 – 2025 | noder. | Product Marketing Manager |
+| 2023 – 2024 | Ankr | Social Media Manager |
+| 2022 – 2024 | Freelance & BTG Pactual | Ghostwriter |
+| 2020 – 2023 | Chainlink Labs | Product Manager |
+| 2011 – 2019 | R&D Marketing Digital, Arte de Viver Brasil | Copywriting, content & growth |
+
+15 years in marketing taught me to ask why someone would care about a product. For the past 5 years I've applied that judgment to marketing engineering & AI systems. I build the workflow with the people who will use it, with eval gates & a human review step.
 
 ## ⚒️ Building now
 
@@ -45,7 +58,7 @@ Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Fac
 
 ## 📜 Writing
 
-I started with poems and short stories as a teen, and that early creative path later led me from my chess blog to being found by Globo, advising the cast of “Um Lugar ao Sol” in 2021, and most recently writing for 10+ Web3 brands and ghostwriting for founders and executives. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html). 
+I started with poems and short stories as a teen. Globo found me through my chess blog, and in 2021 I advised the cast of “Um Lugar ao Sol” on chess. Most recently I wrote for 10+ Web3 brands and ghostwrote for crypto creators & a finance executive. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html).
 
 <table>
   <tr>
@@ -70,7 +83,7 @@ On Immunefi, Quantus paid me for 2 findings: 1 High, the chief finding, and 1 Me
 
 ## 🧭 SEO/AEO/GEO
 
-At a barbecue, a childhood friend told me his painting studio needed more students. I built [a landing page for the studio](https://ateliergabrielpaz.vercel.app/) with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
+At a barbecue, a childhood friend told me his painting studio needed more students. I built a landing page for his studio with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
 ## 🧪 Also built
 
