@@ -4,11 +4,9 @@
 
 <a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
 
-I make hard products easy to understand, and I build the AI systems that keep doing it every day.
+Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth e socials. 
 
-I'm a marketer, writer & ghostwriter in Rio de Janeiro with 15 years in marketing. I also build agentic systems & AI workflows.
-
-Same job on both paths: I find what makes a product hard to get, then I fix it.
+I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. agent plumbing, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
 
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
@@ -19,25 +17,12 @@ Same job on both paths: I find what makes a product hard to get, then I fix it.
 
 | Path | What I do |
 |:--|:--|
-| [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, launches, product education and SEO/AEO. |
+| [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, socials, launches, product education and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 MBA in Applied AI Software Engineering at UNIPDS (completed 2026). Bachelor's in Communications and Film at PUC-Rio.
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
-
-## 🧭 Where I've worked
-
-| When | Where | Role |
-|:--|:--|:--|
-| 2025 – 2026 | Octant | Marketing Engineer |
-| 2024 – 2025 | noder. | Product Marketing Manager |
-| 2023 – 2024 | Ankr | Social Media Manager |
-| 2022 – 2024 | Freelance & BTG Pactual | Ghostwriter |
-| 2020 – 2023 | Chainlink Labs | Product Manager |
-| 2011 – 2019 | R&D Marketing Digital, Arte de Viver Brasil | Copywriting, content & growth |
-
-15 years in marketing taught me to ask why someone would care about a product. For the past 5 years I've applied that judgment to marketing engineering & AI systems. I build the workflow with the people who will use it, with eval gates & a human review step.
 
 ## ⚒️ Building now
 
