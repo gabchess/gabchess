@@ -20,8 +20,6 @@ I recently graduated as an applied AI software engineer via UniPDS, and I've bee
 | [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, socials, launches, product education and SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
-MBA in Applied AI Software Engineering at UNIPDS (completed 2026). Bachelor's in Communications and Film at PUC-Rio.
-
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
 ## ⚒️ Building now
