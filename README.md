@@ -40,10 +40,10 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| HyperBots | Coordinates specialist agents for software and marketing work. | Private, invite-only |
-| OpSec | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
-| Gabe Factory | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
-| Video-show | Handles all things related to video production. | Private, invite-only |
+| [HyperBots](https://github.com/gabchess/HyperBotsClaude) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
+| [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
+| [Gabe Factory](https://github.com/gabchess/gabe-factory) | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
+| [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
 
 ## 🪄 Augments
@@ -54,7 +54,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 |:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | Open source, MIT |
-| Cinematic site | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
 
 ## 🗺️ Marketing workflows
 
