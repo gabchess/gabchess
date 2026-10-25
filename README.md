@@ -28,16 +28,54 @@ How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creat
 - **[Hedwig](https://usehedwig.xyz/):** An OpSec check that payment agents consult before an onchain transaction goes out.
 - **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
 
-## 🔓 Open source
+<a id="custom-designed-ai-harness"></a>
 
-| Project | What it does | License |
+## 🛡️ Custom AI harnesses
+
+An AI harness gives a model the tools, memory and controls to work through a task.
+
+<p align="center"><strong>Agent = Model + Harness</strong></p>
+
+The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
+
+| Harness | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | MIT |
-| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. | MIT |
-| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped. | MIT |
+| HyperBots | Coordinates specialist agents for software and marketing work. | Private, invite-only |
+| OpSec | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
+| Gabe Factory | Turns one topic into sourced X, LinkedIn and blog drafts. | Private, invite-only |
+| Video-show | Handles all things related to video production. | Private, invite-only |
+| [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
 
-Private, invite-only: HyperBots (specialist agent crew), OpSec harness, Gabe Factory, Video-show, Product Machine, Cinematic site, Launch Factory and 5 GTM workflows. Ask me for access.
+## 🪄 Augments
+
+An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
+
+| Augment | What it does | Access |
+|:--|:--|:--|
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
+| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | Open source, MIT |
+| Cinematic site | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+
+## 🗺️ Marketing workflows
+
+| Project | What it does |
+|:--|:--|
+| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
+| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
+| [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped. |
+
+<details>
+<summary>5 more workflows</summary>
+
+| Project | What it does |
+|:--|:--|
+| [Outbound personalizer](https://github.com/gabchess/gtm-outbound-personalizer) | Adapts outbound copy to each account segment. |
+| [Objections to content](https://github.com/gabchess/gtm-objections-to-content) | Turns sales-call objections into a content calendar. |
+| [Campaign launcher](https://github.com/gabchess/gtm-campaign-launcher) | Checks lead lists and email sequences before launch. |
+| [Content repurposer](https://github.com/gabchess/gtm-content-repurposer) | Finds relevant material in your published work. |
+| [Campaign analyzer](https://github.com/gabchess/gtm-campaign-analyzer) | Compares campaign results by audience and copy variant. |
+
+</details>
 
 ## 📜 Writing
 
