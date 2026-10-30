@@ -8,6 +8,8 @@ Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matte
 
 I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. MCP servers, agent plumbing, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
 
+My MBA coursework covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT) and AI security & governance.
+
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/blog.html"><img alt="Blog" src="https://img.shields.io/badge/-Blog-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzFlZmYwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
