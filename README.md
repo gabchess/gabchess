@@ -4,9 +4,9 @@
 
 <a href="https://gabeonchain.com"><img src="assets/github-banner.png" width="100%" alt="Pixel art of a person working at a desk"></a>
 
-Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth e socials. 
+Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth & socials. 
 
-I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. agent plumbing, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
+I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. MCP servers, agent plumbing, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
 
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
@@ -22,11 +22,15 @@ I recently graduated as an applied AI software engineer via UniPDS, and I've bee
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
-## ⚒️ Building now
+## 🔓 Open source
 
-- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://usehedwig.xyz/):** An OpSec check that payment agents consult before an onchain transaction goes out.
-- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
+Public repos you can read, run and fork. Scout and Job-hunt are augments, explained further down.
+
+| Project | What it does | Language | Access |
+|:--|:--|:--|:--|
+| [Scout](https://github.com/gabchess/scout-onchain) | A Python MCP server that gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
+| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | JavaScript | Open source, MIT |
+| [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. | JavaScript, TypeScript | Open source, MIT |
 
 <a id="custom-designed-ai-harness"></a>
 
@@ -38,6 +42,18 @@ An AI harness gives a model the tools, memory and controls to work through a tas
 
 The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
 
+## ⚒️ Building now
+
+- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
+- **[Hedwig](https://usehedwig.xyz/):** An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out.
+- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
+
+## 🔒 Private, demo on request
+
+These repos are private. Ask me for a demo or an invite.
+
+### 🛡️ Harnesses
+
 | Harness | What it does | Access |
 |:--|:--|:--|
 | [HyperBots](https://github.com/gabchess/HyperBots) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
@@ -46,14 +62,12 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 | [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
 
-## 🪄 Augments
+### 🪄 Augments
 
 An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Open source, MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | Open source, MIT |
 | [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
 
 ## 🗺️ Marketing workflows
