@@ -28,7 +28,7 @@ Public repos you can read, run and fork. Scout and Job-hunt are augments, explai
 
 | Project | What it does | Language | Access |
 |:--|:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | A Python MCP server that gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
+| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | JavaScript | Open source, MIT |
 | [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. | JavaScript, TypeScript | Open source, MIT |
 
