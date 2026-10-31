@@ -36,6 +36,12 @@ Public repos you can read, run and fork. Scout and Job-hunt are augments, explai
 
 <a id="custom-designed-ai-harness"></a>
 
+## ⚒️ Building now
+
+- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
+- **[Hedwig](https://usehedwig.xyz/):** An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out.
+- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
+
 ## 🛡️ Custom AI harnesses
 
 An AI harness gives a model the tools, memory and controls to work through a task.
@@ -44,17 +50,7 @@ An AI harness gives a model the tools, memory and controls to work through a tas
 
 The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
 
-## ⚒️ Building now
-
-- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://usehedwig.xyz/):** An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out.
-- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
-
-## 🔒 Private, demo on request
-
-These repos are private. Ask me for a demo or an invite.
-
-### 🛡️ Harnesses
+### 🔒 Private, demo on request (These repos are private. Ask me for a demo or an invite.)
 
 | Harness | What it does | Access |
 |:--|:--|:--|
