@@ -24,7 +24,7 @@ My MBA coursework covered AI systems architecture, MCP, autonomous agents, fine-
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
-## 🔓 Open source
+## <img src="assets/icons/air.svg" width="22" height="22" alt=""> Open source
 
 Public repos you can read, run and fork. Scout and Job-hunt are augments, explained further down.
 
@@ -36,13 +36,13 @@ Public repos you can read, run and fork. Scout and Job-hunt are augments, explai
 
 <a id="custom-designed-ai-harness"></a>
 
-## ⚒️ Building now
+## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
 
 - **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
 - **[Hedwig](https://usehedwig.xyz/):** An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out.
 - **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
 
-## 🛡️ Custom AI harnesses
+## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
 
 An AI harness gives a model the tools, memory and controls to work through a task.
 
@@ -50,7 +50,7 @@ An AI harness gives a model the tools, memory and controls to work through a tas
 
 The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
 
-### 🔒 Private, demo on request (These repos are private. Ask me for a demo or an invite.)
+### <img src="assets/icons/lead.svg" width="22" height="22" alt=""> Private, demo on request (These repos are private. Ask me for a demo or an invite.)
 
 | Harness | What it does | Access |
 |:--|:--|:--|
@@ -60,15 +60,18 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 | [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
 
-### 🪄 Augments
+### <img src="assets/icons/mercury.svg" width="22" height="22" alt=""> Augments
 
 An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Cinematic site](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| [Designer](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| [Writer](https://github.com/gabchess/human-writer) | Writes and edits drafts in your own voice, from a voice profile you set up once. | Private, invite-only |
+| [Researcher](https://github.com/gabchess/researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
+| [Clipper](https://github.com/gabchess/clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
 
-## 🗺️ Marketing workflows
+## <img src="assets/icons/water.svg" width="22" height="22" alt=""> Marketing workflows
 
 | Project | What it does |
 |:--|:--|
@@ -89,7 +92,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 </details>
 
-## 📜 Writing
+## <img src="assets/icons/sulfur.svg" width="22" height="22" alt=""> Writing
 
 I started with poems and short stories as a teen. Globo found me through my chess blog, and in 2021 I advised the cast of “Um Lugar ao Sol” on chess. Most recently I wrote for 10+ Web3 brands and ghostwrote for crypto creators & a finance executive. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html).
 
@@ -110,15 +113,15 @@ I started with poems and short stories as a teen. Globo found me through my ches
   </tr>
 </table>
 
-## ⚔️ Security research
+## <img src="assets/icons/antimony.svg" width="22" height="22" alt=""> Security research
 
 On Immunefi, Quantus paid me for 2 findings: 1 High, the chief finding, and 1 Medium. I wrote up a byte-offset bug in Anchor's `LazyAccount` as a [pull request in my fork](https://github.com/gabchess/anchor/pull/1), with a proof of concept and a fix. I also built a native SOL vault [extension to the Solana Vault Standard](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault).
 
-## 🧭 SEO/AEO/GEO
+## <img src="assets/icons/earth.svg" width="22" height="22" alt=""> SEO/AEO/GEO
 
 At a barbecue, a childhood friend told me his painting studio needed more students. I built a landing page for his studio with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
-## 🧪 Also built
+## <img src="assets/icons/stone.svg" width="22" height="22" alt=""> Also built
 
 [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with pandas](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
 
