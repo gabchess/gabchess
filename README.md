@@ -33,6 +33,7 @@ Public repos you can read, run and fork. Scout and Job-hunt are augments, explai
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
 | [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | JavaScript | Open source, MIT |
 | [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. | JavaScript, TypeScript | Open source, MIT |
+| [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
 
 <a id="custom-designed-ai-harness"></a>
 
