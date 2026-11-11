@@ -26,12 +26,11 @@ How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creat
 
 ## <img src="assets/icons/air.svg" width="22" height="22" alt=""> Open source
 
-Public repos you can read, run and fork. Scout and Job-hunt are augments, explained further down.
+Public repos you can read, run and fork. Scout is an augment, explained further down.
 
 | Project | What it does | Language | Access |
 |:--|:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
-| [Job-hunt](https://github.com/gabchess/job-hunt-workflow-builder) | Builds an n8n job-search workflow with your coding agent. | JavaScript | Open source, MIT |
 | [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. | JavaScript, TypeScript | Open source, MIT |
 | [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
 
@@ -59,6 +58,7 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 | [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
 | [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
+| [Job scout](https://github.com/gabchess/job-agent-private) | Finds roles that fit, then drafts the outreach for human review. | Private, invite-only |
 
 ### <img src="assets/icons/mercury.svg" width="22" height="22" alt=""> Augments
 
