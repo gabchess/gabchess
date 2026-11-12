@@ -67,9 +67,8 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 | Augment | What it does | Access |
 |:--|:--|:--|
 | [Designer](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
-| [Writer](https://github.com/gabchess/human-writer) | Writes and edits drafts in your own voice, from a voice profile you set up once. | Private, invite-only |
-| [Researcher](https://github.com/gabchess/researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
-| [Clipper](https://github.com/gabchess/clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
+| [Researcher](https://github.com/gabchess/augments/tree/main/Researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
+| [Clipper](https://github.com/gabchess/augments/tree/main/Clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
 
 ## <img src="assets/icons/water.svg" width="22" height="22" alt=""> Marketing workflows
 
