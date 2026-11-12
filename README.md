@@ -6,7 +6,7 @@
 
 Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth & socials. 
 
-I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. MCP servers, agent plumbing, evals, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
+I've been building with AI since Feb 2025, esp. MCP servers, agent plumbing, LLM evals, human-in-the-loop approvals, new harnesses, AI workflows, plugins, augments & creative AI products & apps. In 2026 I finished my MBA in applied AI software engineering at UniPDS. 
 
 My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT) and AI security & governance.
 
@@ -20,25 +20,25 @@ My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine
 | Path | What I do |
 |:--|:--|
 | [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, socials, launches, product education and SEO/AEO. |
-| [Engineering](https://gabeonchain.com/engineering) · Forward Deployed AI Engineer & Product Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
+| [Engineering](https://gabeonchain.com/engineering) · Forward Deployed AI Engineer & Product Engineer | I help teams work better with AI, from finding the problem to building the fix with AI agents, MCP servers & evals, and bringing people along. |
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
 ## <img src="assets/icons/air.svg" width="22" height="22" alt=""> Open source
 
-Public repos you can read, run and fork. Scout is an augment, explained further down.
+Public repos you can read, run and fork. Scout and Hedwig are MCP servers you can install in your agent.
 
 | Project | What it does | Language | Access |
 |:--|:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
-| [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. Site: [usehedwig.xyz](https://usehedwig.xyz/). | JavaScript, TypeScript | Open source, MIT |
+| [Scout](https://github.com/gabchess/scout-onchain) | An MCP server that gives your agent onchain analytics: wallet lookup, PnL and DCA proposals that wait for your approval. | Python | Open source, MIT |
+| [Hedwig](https://github.com/gabchess/hedwig) | An MCP server that payment agents consult before an onchain payment goes out. 57 of 57 [eval cases](https://github.com/gabchess/hedwig/blob/main/EVALS.md) pass, with 0 wrong proceeds. Site: [usehedwig.xyz](https://usehedwig.xyz/). | JavaScript, TypeScript | Open source, MIT |
 | [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
 
 <a id="custom-designed-ai-harness"></a>
 
 ## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
 
-- **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
+- **[Maria](https://meetmaria.app):** A live AI app that gives older adults a plain-language second opinion on a suspicious message. I worked across the product, interface & AI workflow. React Native, Expo & TypeScript.
 - **Thoth:** A self-improving agent harness built around search and learning. It retrieves from curated knowledge bases (RAG), generates candidates, and a learned critic trained on human verdicts picks the best. It routes each step across models, and held-out evals decide which changes stay. In development, private.
 
 ## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
@@ -51,9 +51,9 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 
 | Harness | What it does | Access |
 |:--|:--|:--|
-| [HyperBots](https://github.com/gabchess/HyperBots) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
+| [HyperBots](https://github.com/gabchess/HyperBots) | A multi-agent setup that coordinates specialist agents for software and marketing work. | Private, invite-only |
 | [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
-| [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
+| [Video-show](https://github.com/gabchess/video-show) | Runs video production as a gated workflow, with a person approving the final cut. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
 
 ### <img src="assets/icons/mercury.svg" width="22" height="22" alt=""> Augments
@@ -62,7 +62,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 | Augment | What it does | Access |
 |:--|:--|:--|
-| [Designer](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
+| [Designer](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) from a brief, with SEO and AEO, and checks each build in a real browser. | Private, invite-only |
 | [Researcher](https://github.com/gabchess/augments/tree/main/Researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
 | [Clipper](https://github.com/gabchess/augments/tree/main/Clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
 | [Job scout](https://github.com/gabchess/job-agent-private) | Finds roles that fit, then drafts the outreach for human review. | Private, invite-only |
@@ -72,8 +72,8 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 | Project | What it does |
 |:--|:--|
-| [Prospector](https://github.com/gabchess/prospector) | Researches and qualifies outbound leads for human review. |
-| [Launch Factory](https://github.com/gabchess/launch-factory) | Drafts launch assets from release files, with source citations and human approval. |
+| [Prospector](https://github.com/gabchess/prospector) | Researches accounts with sources and prepares a shortlist. A person approves before anything is exported. |
+| [Launch Factory](https://github.com/gabchess/launch-factory) | An AI agent drafts launch assets from release files. Python validates and renders them, and a person approves the claims. |
 | [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped. |
 
 <details>
