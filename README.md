@@ -31,7 +31,7 @@ Public repos you can read, run and fork. Scout is an augment, explained further 
 | Project | What it does | Language | Access |
 |:--|:--|:--|:--|
 | [Scout](https://github.com/gabchess/scout-onchain) | Gives your agent onchain analytics: wallet lookup, PnL and DCA proposals. | Python | Open source, MIT |
-| [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. | JavaScript, TypeScript | Open source, MIT |
+| [Hedwig](https://github.com/gabchess/hedwig) | An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out. Site: [usehedwig.xyz](https://usehedwig.xyz/). | JavaScript, TypeScript | Open source, MIT |
 | [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
 
 <a id="custom-designed-ai-harness"></a>
@@ -39,8 +39,7 @@ Public repos you can read, run and fork. Scout is an augment, explained further 
 ## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
 
 - **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
-- **[Hedwig](https://usehedwig.xyz/):** An OpSec check (MCP server) that payment agents consult before an onchain transaction goes out.
-- **[Tixmancer](https://tixmancer.xyz):** An AI agent that hunts secondhand finds within your budget. In development, with a waitlist.
+- **Thoth:** A self-improving agent harness where I apply what my MBA in applied AI software engineering covered: retrieval (RAG) over a curated corpus, candidate search ranked by a critic that starts as a rubric and is being trained on human verdicts, held-out evals and multi-model routing, with fine-tuning next. In development, private.
 
 ## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
 
@@ -50,15 +49,12 @@ An AI harness gives a model the tools, memory and controls to work through a tas
 
 The model chooses the next step. The harness runs the permitted tools, keeps context and feeds the results back. Evals check how the system behaves.
 
-### <img src="assets/icons/lead.svg" width="22" height="22" alt=""> Private, demo on request (These repos are private. Ask me for a demo or an invite.)
-
 | Harness | What it does | Access |
 |:--|:--|:--|
 | [HyperBots](https://github.com/gabchess/HyperBots) | Coordinates specialist agents for software and marketing work. | Private, invite-only |
 | [OpSec](https://github.com/gabchess/BountyHarness) | Takes security research from code review to QA, PR & PoC. | Private, invite-only |
 | [Video-show](https://github.com/gabchess/video-show) | Handles all things related to video production. | Private, invite-only |
 | [Product Machine](https://github.com/Maquina-de-Produtos) | Creates, sells and upsells low-ticket products end to end. | Private, invite-only |
-| [Job scout](https://github.com/gabchess/job-agent-private) | Finds roles that fit, then drafts the outreach for human review. | Private, invite-only |
 
 ### <img src="assets/icons/mercury.svg" width="22" height="22" alt=""> Augments
 
@@ -69,6 +65,8 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 | [Designer](https://github.com/gabchess/cinematic-site-builder) | Builds animated [portfolio sites](https://gabeonchain.com/) with strong UI, SEO and AEO. | Private, invite-only |
 | [Researcher](https://github.com/gabchess/augments/tree/main/Researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
 | [Clipper](https://github.com/gabchess/augments/tree/main/Clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
+| [Job scout](https://github.com/gabchess/job-agent-private) | Finds roles that fit, then drafts the outreach for human review. | Private, invite-only |
+| [Tixmancer](https://tixmancer.xyz) | An AI agent that hunts secondhand finds within your budget. | In development, with a waitlist |
 
 ## <img src="assets/icons/water.svg" width="22" height="22" alt=""> Marketing workflows
 
