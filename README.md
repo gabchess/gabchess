@@ -39,7 +39,7 @@ Public repos you can read, run & fork. Scout and Hedwig are MCP servers you can 
 ## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
 
 - **[Maria](https://meetmaria.app):** A live AI app that gives older adults a plain-language second opinion on a suspicious message. I worked across the product, interface & AI workflow. React Native, Expo & TypeScript.
-- **Thoth:** A self-improving agent harness built around search and learning. It retrieves from RAGs evaluated with RAGAS, is fine-tuned with LoRA & trained on human evals with ML/DL techniques. In development, private.
+- **[Thoth](https://github.com/gabchess/thoth):** A self-improving agent harness built around search and learning. It retrieves from RAGs evaluated with RAGAS, is fine-tuned with LoRA & trained on human evals with ML/DL techniques. In development, private.
 
 ## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
 
