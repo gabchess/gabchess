@@ -6,9 +6,9 @@
 
 Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth & socials. 
 
-I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. MCP servers, agent plumbing, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
+I recently graduated as an applied AI software engineer via UniPDS, and I've been working on all things AI, esp. MCP servers, agent plumbing, evals, designing new harnesses, AI workflows, plugins, augments & creative AI products & apps. 
 
-My MBA coursework covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT) and AI security & governance.
+My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT) and AI security & governance.
 
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
@@ -20,7 +20,7 @@ My MBA coursework covered AI systems architecture, MCP, autonomous agents, fine-
 | Path | What I do |
 |:--|:--|
 | [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, socials, launches, product education and SEO/AEO. |
-| [Engineering](https://gabeonchain.com/engineering) · Applied AI engineering | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
+| [Engineering](https://gabeonchain.com/engineering) · Forward Deployed AI Engineer & Product Engineer | I help teams work better with AI, from finding the problem to building the fix and bringing people along. |
 
 How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
