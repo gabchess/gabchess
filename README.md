@@ -39,7 +39,7 @@ Public repos you can read, run and fork. Scout is an augment, explained further 
 ## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
 
 - **[Maria](https://meetmaria.app):** An AI app that helps older adults check suspicious messages for scams.
-- **Thoth:** A self-improving agent harness I'm building: retrieval (RAG) over curated knowledge bases, candidate search ranked by a critic that starts as a rubric and will learn from human verdicts, held-out evals and multi-model routing, with fine-tuning planned. In development, private.
+- **Thoth:** A self-improving agent harness built around search and learning. It retrieves from curated knowledge bases (RAG), generates candidates, and a learned critic trained on human verdicts picks the best. It routes each step across models, and held-out evals decide which changes stay. In development, private.
 
 ## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
 
