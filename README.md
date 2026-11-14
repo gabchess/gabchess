@@ -22,7 +22,7 @@ My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine
 | [Marketing](https://gabeonchain.com/marketing) · Marketer & Writer | I shape brand narrative & write it everywhere: ghostwriting, content marketing, socials, launches, product education & SEO/AEO. |
 | [Engineering](https://gabeonchain.com/engineering) · Forward Deployed AI Engineer & Product Engineer | I help teams work better with AI, from finding the problem to building the fix with AI agents, MCP servers & evals, and bringing people along. |
 
-How I work: [Intro video](https://www.youtube.com/watch?v=1RJCQmWe0gI) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
+How I work: [Intro video](https://www.youtube.com/watch?v=BBRXK4ttBz8) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
 ## <img src="assets/icons/air.svg" width="22" height="22" alt=""> Open source
 
