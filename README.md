@@ -66,6 +66,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 | [Researcher](https://github.com/gabchess/augments/tree/main/Researcher) | Researches a question and keeps full sources, partial previews and guesses apart. | Private, invite-only |
 | [Clipper](https://github.com/gabchess/augments/tree/main/Clipper) | Finds the video, lets you pick the moment, then cuts the clip and writes its posts. | Private, invite-only |
 | [Job scout](https://github.com/gabchess/job-agent-private) | Finds roles that fit, then drafts the outreach for human review. | Private, invite-only |
+| [Knowledge Islands](https://github.com/gabchess/knowledge-islands) | Turns a topic into a 3D world you walk through, island by island, as one offline HTML file. | Private, invite-only |
 | [Tixmancer](https://tixmancer.xyz) | An AI agent that hunts secondhand finds within your budget. | In development, with a waitlist |
 
 ## <img src="assets/icons/water.svg" width="22" height="22" alt=""> Marketing workflows
