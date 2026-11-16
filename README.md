@@ -76,6 +76,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 | [Prospector](https://github.com/gabchess/prospector) | Researches accounts with sources and prepares a shortlist. A person approves before anything is exported. |
 | [Launch Factory](https://github.com/gabchess/launch-factory) | An AI agent drafts launch assets from release files. Python validates and renders them, and a person approves the claims. |
 | [TAM mapper](https://github.com/gabchess/gtm-tam-mapper) | Maps every account that could buy from you, deduped. |
+| [Wallet Wrapped](https://gabeonchain.com/wallet-wrapped) | Turns a crypto wallet's year into a 13-screen story and a card to share. |
 
 <details>
 <summary>5 more workflows</summary>
