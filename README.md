@@ -6,9 +6,9 @@
 
 Hiii, I'm Gabe. I've worked for the past 15 years somewhere between why it matters and how it works in all things marketing, but esp. writing, ghostwriting, growth & socials. 
 
-I've been building with AI since Feb 2025, esp. MCP servers, agent plumbing, LLM evals, human-in-the-loop approvals, new harnesses, AI workflows, plugins, augments & creative AI products & apps. In 2026 I finished my MBA in applied AI software engineering at UniPDS. 
+I've been building with AI since Feb 2025, esp. MCP servers, LLM evals, human-in-the-loop approvals, new harnesses, AI workflows, plugins, augments & creative AI products & apps. In short, tons of agent plumbing that helps people in their work and everyday lives. 
 
-My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT), AI security & governance.
+In 2026 I finished my MBA in applied AI software engineering at UniPDS. My MBA (480 hours) covered AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT), AI security & governance.
 
 <a href="https://gabeonchain.com/marketing"><img alt="Marketing" src="https://img.shields.io/badge/-Marketing-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmODAwMCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
 <a href="https://gabeonchain.com/engineering"><img alt="Engineering" src="https://img.shields.io/badge/-Engineering-29261f?style=for-the-badge&labelColor=29261f&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzkxYjBjNCIgZD0iTTEyIDNsOSA5LTkgOS05LTl6Ii8%2BPC9zdmc%2B"></a>
