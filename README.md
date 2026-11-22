@@ -10,7 +10,7 @@ Since Feb 2025 I build AI agents: MCP servers, LLM evals, human-in-the-loop appr
 
 In 2026 I finished an MBA in applied AI software engineering at UniPDS (480 hours): AI systems architecture, MCP, autonomous agents, fine-tuning (LoRA, PEFT), AI security & governance.
 
-Stack: Python, TypeScript, Node.js, Fastify, Rust, PyTorch, pandas, MCP, LLM evals, RAG, Claude Code, AWS, SQL, SQLite, React, Next.js, Vite.
+Stack: Python, TypeScript, Node.js, Fastify, Rust, PyTorch, pandas, MCP, LLM evals, RAG, Claude Code, AWS, SQL, MongoDB, React, Next.js, Vite.
 
 Open to remote roles worldwide and hybrid roles in Rio de Janeiro or São Paulo. [Resume](https://gabeonchain.com/resume) · [Book a call](https://calendly.com/gavafotos/30min)
 
