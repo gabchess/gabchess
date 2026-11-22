@@ -28,6 +28,22 @@ Open to remote roles worldwide and hybrid roles in Rio de Janeiro or São Paulo.
 
 How I work: [Intro video](https://www.youtube.com/watch?v=BBRXK4ttBz8) · [Creative video](https://x.com/gabe_onchain/status/2102126157378249038?s=20) · [Building with AI](https://github.com/gabchess/operating-thoughts/blob/main/how-i-think-about-ai.md)
 
+## <img src="assets/icons/git-branch.svg" width="22" height="22" alt=""> Open source
+
+Public repos you can read, run & fork. Scout and Hedwig are MCP servers you can install in your agent.
+
+| Project | What it does | Language | Access |
+|:--|:--|:--|:--|
+| [Scout](https://github.com/gabchess/scout-onchain) | An MCP server that gives your agent onchain analytics: wallet lookup, PnL and DCA proposals that wait for your approval. | Python | Open source, MIT |
+| [Hedwig](https://github.com/gabchess/hedwig) | An MCP server that agents & humans consult before anything onchain. | JavaScript, TypeScript | Open source, MIT |
+| [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
+| [Solana tx doctor](https://github.com/gabchess/solana-tx-doctor) | Names why a Solana transaction failed: a Rust CLI on Helius, an Anchor program that fails on purpose & a Claude Code skill. | Rust | Open source |
+
+## <img src="assets/icons/hammer.svg" width="22" height="22" alt=""> Building now
+
+- **[Maria](https://meetmaria.app):** A live iOS app that gives older adults a plain-language second opinion on a suspicious message. I worked across the product, interface & AI workflow. React Native, Expo & TypeScript for the app, TensorFlow & PyTorch for the model.
+- **[Thoth](https://github.com/gabchess/thoth):** A self-improving agent harness built around search and learning. It retrieves from RAG evaluated with RAGAS, has a finished LoRA fine-tune & learns from human evals. In development, private.
+
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
@@ -45,23 +61,7 @@ How I work: [Intro video](https://www.youtube.com/watch?v=BBRXK4ttBz8) · [Creat
   </tr>
 </table>
 
-## <img src="assets/icons/air.svg" width="22" height="22" alt=""> Open source
-
-Public repos you can read, run & fork. Scout and Hedwig are MCP servers you can install in your agent.
-
-| Project | What it does | Language | Access |
-|:--|:--|:--|:--|
-| [Scout](https://github.com/gabchess/scout-onchain) | An MCP server that gives your agent onchain analytics: wallet lookup, PnL and DCA proposals that wait for your approval. | Python | Open source, MIT |
-| [Hedwig](https://github.com/gabchess/hedwig) | An MCP server that agents & humans consult before anything onchain. | JavaScript, TypeScript | Open source, MIT |
-| [Webhook reconcile](https://github.com/gabchess/helius-webhook-reconcile) | Finds the Helius webhook events your log missed, refetches them and writes a backfill you can replay. | Rust | Open source, MIT |
-| [Solana tx doctor](https://github.com/gabchess/solana-tx-doctor) | Names why a Solana transaction failed: a Rust CLI on Helius, an Anchor program that fails on purpose & a Claude Code skill. | Rust | Open source |
-
-## <img src="assets/icons/fire.svg" width="22" height="22" alt=""> Building now
-
-- **[Maria](https://meetmaria.app):** A live iOS app that gives older adults a plain-language second opinion on a suspicious message. I worked across the product, interface & AI workflow. React Native, Expo & TypeScript for the app, TensorFlow & PyTorch for the model.
-- **[Thoth](https://github.com/gabchess/thoth):** A self-improving agent harness built around search and learning. It retrieves from RAG evaluated with RAGAS, has a finished LoRA fine-tune & learns from human evals. In development, private.
-
-## <img src="assets/icons/water.svg" width="22" height="22" alt=""> Marketing workflows
+## <img src="assets/icons/workflow.svg" width="22" height="22" alt=""> Marketing workflows
 
 | Project | What it does |
 |:--|:--|
@@ -85,7 +85,7 @@ Public repos you can read, run & fork. Scout and Hedwig are MCP servers you can 
 
 <a id="custom-designed-ai-harness"></a>
 
-## <img src="assets/icons/salt.svg" width="22" height="22" alt=""> Custom AI harnesses
+## <img src="assets/icons/cpu.svg" width="22" height="22" alt=""> Custom AI harnesses
 
 An AI harness gives a model the tools, memory and controls to work through a task.
 
@@ -113,7 +113,7 @@ The model chooses the next step. The harness runs the permitted tools, keeps con
 
 </details>
 
-### <img src="assets/icons/mercury.svg" width="22" height="22" alt=""> Augments
+### <img src="assets/icons/puzzle.svg" width="22" height="22" alt=""> Augments
 
 An augment packages a workflow for your AI assistant as a plugin or skill folder. I build them for content teams and developers.
 
@@ -131,7 +131,7 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 </details>
 
-## <img src="assets/icons/sulfur.svg" width="22" height="22" alt=""> Writing
+## <img src="assets/icons/pen-line.svg" width="22" height="22" alt=""> Writing
 
 I started with poems and short stories as a teen. Globo found me through my chess blog, and in 2021 I advised the cast of “Um Lugar ao Sol” on chess. Most recently, I wrote for 10+ Web3 brands and ghostwrote for crypto creators & a finance executive. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html).
 
@@ -152,15 +152,15 @@ I started with poems and short stories as a teen. Globo found me through my ches
   </tr>
 </table>
 
-## <img src="assets/icons/antimony.svg" width="22" height="22" alt=""> Security research
+## <img src="assets/icons/bug.svg" width="22" height="22" alt=""> Security research
 
 On Immunefi, Quantus paid me for 2 findings: 1 High and 1 Medium. I wrote up a byte-offset bug in Anchor's `LazyAccount` as a [pull request in my fork](https://github.com/gabchess/anchor/pull/1), with a proof of concept and a fix. I also built a native SOL vault [extension to the Solana Vault Standard](https://github.com/gabchess/solana-vault-standard/tree/feat/svs-7-native-sol-vault).
 
-## <img src="assets/icons/earth.svg" width="22" height="22" alt=""> SEO/AEO/GEO
+## <img src="assets/icons/globe.svg" width="22" height="22" alt=""> SEO/AEO/GEO
 
 At a barbecue, a childhood friend told me his painting studio needed more students. I built a landing page for his studio with local SEO and structured data for search and AI discovery. A few weeks later, demand had grown enough that he had to open a waitlist.
 
-## <img src="assets/icons/stone.svg" width="22" height="22" alt=""> Also built
+## <img src="assets/icons/package.svg" width="22" height="22" alt=""> Also built
 
 [Clawmanship](https://github.com/gabchess/clawmanship) · [SafeSkill](https://github.com/gabchess/safeskill) · [Grimoire](https://github.com/gabchess/grimoire) · [Solana Ship Gate](https://github.com/gabchess/solana-ship-gate) · [Solana Narrative Tracker](https://github.com/gabchess/solana-narrative-tracker) · [Prediction Pari Market](https://github.com/gabchess/worldcup-pari-market) · [Privacy for Solana](https://github.com/gabchess/kageb) · [Patronus](https://github.com/gabchess/patronus) · [SolGuard](https://github.com/gabchess/solguard) · [Agenthub](https://github.com/gabchess/agenthub) · [E-commerce Data Analysis with pandas](https://github.com/gabchess/ecommerce-sales-analysis) · [WalletBrief for Monad](https://github.com/gabchess/walletbrief-monad)
 
