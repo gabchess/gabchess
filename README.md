@@ -143,16 +143,54 @@ Agent skills I ship in [gabchess/skills](https://github.com/gabchess/skills). Ea
 | [3d-cinematic-website](https://github.com/gabchess/skills/tree/main/skills/websites/3d-cinematic-website) | Turns one page of your site into a cinematic scroll scene, approved before anything else is built. |
 
 <details>
-<summary>6 more skills</summary>
+<summary>17 more skills</summary>
 
-| Skill | What it does |
-|:--|:--|
-| [orchestrate-task](https://github.com/gabchess/skills/tree/main/skills/orchestration/orchestrate-task) | Runs one task through a worker with a loop cap and stops with a clear ask after two failed attempts. |
-| [loading-probe](https://github.com/gabchess/skills/tree/main/skills/quality/loading-probe) | Checks which instruction files and skills a harness loads, and whether it follows a rule planted in them. |
-| [agentic-dead-rules-detector](https://github.com/gabchess/skills/tree/main/skills/quality/agentic-dead-rules-detector) | Tests whether one rule in an agent's instructions changes its work, with every number from one script. |
-| [agent-governance-gate](https://github.com/gabchess/skills/tree/main/skills/quality/agent-governance-gate) | Audits an agent repo for security, privacy and ownership gaps, then builds a policy that fails closed. |
-| [join-factory](https://github.com/gabchess/skills/tree/main/skills/harnesses/join-factory) | Points a harness at my shared agent rules, links these skills into it and proves it loads them. |
-| [sell-on-agensi](https://github.com/gabchess/skills/tree/main/skills/marketplace/sell-on-agensi) | Packages a finished skill for Agensi: a ZIP whose scripts each run alone, plus a filled listing. |
+**Harnesses**
+
+- [join-factory](https://github.com/gabchess/skills/tree/main/skills/harnesses/join-factory): Points a harness at my shared agent rules, links these skills into it and proves it loads them.
+
+**Learning**
+
+- [teach-gabe](https://github.com/gabchess/skills/tree/main/skills/learning/teach-gabe): Teaches me a concept or workflow as one short HTML lesson with every claim sourced, or quizzes me on why we made a decision.
+
+**Marketing**
+
+- [launch-factory](https://github.com/gabchess/skills/tree/main/skills/marketing/launch-factory): Picks the product change worth announcing and writes six launch drafts, each traced to its source, for a person to publish.
+- [prospector](https://github.com/gabchess/skills/tree/main/skills/marketing/prospector): Researches B2B accounts into a checked lead shortlist, or recommends the next move on an open deal. It never sends a message.
+- [tam-mapper](https://github.com/gabchess/skills/tree/main/skills/marketing/tam-mapper): Merges company-list exports into one deduped TAM scored against your ICP, and names every dropped account with its reason.
+
+**Marketplace**
+
+- [sell-on-agensi](https://github.com/gabchess/skills/tree/main/skills/marketplace/sell-on-agensi): Packages a finished skill for Agensi: a ZIP whose scripts each run alone, plus a filled listing.
+- [plugin-packager](https://github.com/gabchess/skills/tree/main/skills/marketplace/plugin-packager): Packages one finished skill as a plugin for Claude Code, Cowork, Codex and ChatGPT, in one zip that you upload yourself.
+
+**Orchestration**
+
+- [orchestrate-task](https://github.com/gabchess/skills/tree/main/skills/orchestration/orchestrate-task): Runs one task through a worker with a loop cap and stops with a clear ask after two failed attempts.
+
+**Research**
+
+- [web-reach](https://github.com/gabchess/skills/tree/main/skills/research/web-reach): Reads a page, post or thread in full through at most three fetch steps, and ends each read with one outcome a script checks.
+- [research-ledger](https://github.com/gabchess/skills/tree/main/skills/research/research-ledger): Researches a question from sources read in full and keeps a ledger of cited claims, with a fresh agent checking the quotes.
+
+**Quality**
+
+- [loading-probe](https://github.com/gabchess/skills/tree/main/skills/quality/loading-probe): Checks which instruction files and skills a harness loads, and whether it follows a rule planted in them.
+- [agentic-dead-rules-detector](https://github.com/gabchess/skills/tree/main/skills/quality/agentic-dead-rules-detector): Tests whether one rule in an agent's instructions changes its work, with every number from one script.
+- [agent-governance-gate](https://github.com/gabchess/skills/tree/main/skills/quality/agent-governance-gate): Audits an agent repo for security, privacy and ownership gaps, then builds a policy that fails closed.
+
+**Solana**
+
+- [solana-tx-doctor](https://github.com/gabchess/skills/tree/main/skills/solana/solana-tx-doctor): Reads a failed Solana transaction and names the cause, quoting the log line that proves it. It only reads the chain.
+
+**Visuals**
+
+- [social-diagrams](https://github.com/gabchess/skills/tree/main/skills/visuals/social-diagrams): Turns a social post into a hand-drawn whiteboard diagram and hands it back as a PNG.
+
+**Websites**
+
+- [share-storyboard](https://github.com/gabchess/skills/tree/main/skills/websites/share-storyboard): Plans a share-first page or card, like a recap or a card drop, up to one approved storyboard before anything is built.
+- [knowledge-islands](https://github.com/gabchess/skills/tree/main/skills/websites/knowledge-islands): Turns a topic into a 3D world of floating islands, one island per idea, in one offline HTML file.
 
 </details>
 
