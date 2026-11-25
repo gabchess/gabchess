@@ -131,6 +131,31 @@ An augment packages a workflow for your AI assistant as a plugin or skill folder
 
 </details>
 
+## <img src="assets/icons/library-big.svg" width="22" height="22" alt=""> Skills
+
+Agent skills I ship in [gabchess/skills](https://github.com/gabchess/skills). Each folder teaches an agent one workflow, and any harness that reads SKILL.md can load it. Private, invite-only.
+
+| Skill | What it does |
+|:--|:--|
+| [gabe-voice](https://github.com/gabchess/skills/tree/main/skills/disciplines/gabe-voice) | My writing rules for agents, with a script that flags dashes and banned words before text goes out. |
+| [review-change](https://github.com/gabchess/skills/tree/main/skills/reviews/review-change) | Reviews a pinned change twice, once against the repo's standards and once against the task, and returns a verdict for each. |
+| [crash-lab](https://github.com/gabchess/skills/tree/main/skills/quality/crash-lab) | Tests whether an edit to an agent's instructions improves its work or quietly breaks it, in fresh sandboxed sessions. |
+| [3d-cinematic-website](https://github.com/gabchess/skills/tree/main/skills/websites/3d-cinematic-website) | Turns one page of your site into a cinematic scroll scene, approved before anything else is built. |
+
+<details>
+<summary>6 more skills</summary>
+
+| Skill | What it does |
+|:--|:--|
+| [orchestrate-task](https://github.com/gabchess/skills/tree/main/skills/orchestration/orchestrate-task) | Runs one task through a worker with a loop cap and stops with a clear ask after two failed attempts. |
+| [loading-probe](https://github.com/gabchess/skills/tree/main/skills/quality/loading-probe) | Checks which instruction files and skills a harness loads, and whether it follows a rule planted in them. |
+| [agentic-dead-rules-detector](https://github.com/gabchess/skills/tree/main/skills/quality/agentic-dead-rules-detector) | Tests whether one rule in an agent's instructions changes its work, with every number from one script. |
+| [agent-governance-gate](https://github.com/gabchess/skills/tree/main/skills/quality/agent-governance-gate) | Audits an agent repo for security, privacy and ownership gaps, then builds a policy that fails closed. |
+| [join-factory](https://github.com/gabchess/skills/tree/main/skills/harnesses/join-factory) | Points a harness at my shared agent rules, links these skills into it and proves it loads them. |
+| [sell-on-agensi](https://github.com/gabchess/skills/tree/main/skills/marketplace/sell-on-agensi) | Packages a finished skill for Agensi: a ZIP whose scripts each run alone, plus a filled listing. |
+
+</details>
+
 ## <img src="assets/icons/pen-line.svg" width="22" height="22" alt=""> Writing
 
 I started with poems and short stories as a teen. Globo found me through my chess blog, and in 2021 I advised the cast of “Um Lugar ao Sol” on chess. Most recently, I wrote for 10+ Web3 brands and ghostwrote for crypto creators & a finance executive. Now I write about all things AI, marketing, and what I learn from building on [my blog](https://gabeonchain.com/blog.html).
