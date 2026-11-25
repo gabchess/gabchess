@@ -137,8 +137,8 @@ Agent skills I ship in [gabchess/skills](https://github.com/gabchess/skills). Ea
 
 | Skill | What it does |
 |:--|:--|
-| [gabe-voice](https://github.com/gabchess/skills/tree/main/skills/disciplines/gabe-voice) | My writing rules for agents, with a script that flags dashes and banned words before text goes out. |
-| [review-change](https://github.com/gabchess/skills/tree/main/skills/reviews/review-change) | Reviews a pinned change twice, once against the repo's standards and once against the task, and returns a verdict for each. |
+| [gabe-voice](https://github.com/gabchess/skills/tree/main/skills/disciplines/gabe-voice) | My writing rules for agents. |
+| [review-change](https://github.com/gabchess/skills/tree/main/skills/reviews/review-change) | Reviews against the repo's standards and once against the task, and returns a verdict for each. |
 | [crash-lab](https://github.com/gabchess/skills/tree/main/skills/quality/crash-lab) | Tests whether an edit to an agent's instructions improves its work or quietly breaks it, in fresh sandboxed sessions. |
 | [3d-cinematic-website](https://github.com/gabchess/skills/tree/main/skills/websites/3d-cinematic-website) | Turns one page of your site into a cinematic scroll scene, approved before anything else is built. |
 
