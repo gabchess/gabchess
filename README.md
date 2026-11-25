@@ -143,12 +143,7 @@ Agent skills I ship in [gabchess/skills](https://github.com/gabchess/skills). Ea
 | [3d-cinematic-website](https://github.com/gabchess/skills/tree/main/skills/websites/3d-cinematic-website) | Turns one page of your site into a cinematic scroll scene, approved before anything else is built. |
 
 <details>
-<summary>19 more skills</summary>
-
-**Career**
-
-- [hire-proof-mvp](https://github.com/gabchess/skills/tree/main/skills/career/hire-proof-mvp): Researches a company and its users, ranks what the candidate could add, then builds the small MVP they pick.
-- [hire-markdown-prep](https://github.com/gabchess/skills/tree/main/skills/career/hire-markdown-prep): Writes a Markdown brief before an interview or company meeting, with one or two concrete ideas the business can use.
+<summary>17 more skills</summary>
 
 **Harnesses**
 
